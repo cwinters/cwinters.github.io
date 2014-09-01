@@ -3,3 +3,6 @@ highlighter: pygments
 url: http://cwinters.github.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock, .ruby-version]
+
+paginate: 50
+pagination_path: blog/page:num
