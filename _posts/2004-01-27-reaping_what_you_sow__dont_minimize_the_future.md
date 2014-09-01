@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Reaping what you sow - don't minimize the future"
+---
+
+
+
+<p>Alan has a great <a href="http://www.cardboard.nu/archives/000204.html">idea</a> for ensuring that development plans don't spin out of control:</p>
+<blockquote>Henceforth, any developer that uses the word "just" while describing or estimating the implementation of a new feature to a manager will be assigned the design, coding and testing tasks for that feature.</blockquote>
+
+

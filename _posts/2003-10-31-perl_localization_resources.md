@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Perl localization resources"
+---
+
+
+
+I'm <a href="http://sourceforge.net/mailarchive/forum.php?thread_id=3378443&forum_id=3222">getting ready</a> to work on i18n and l10n issues in OpenInteract2 and this is the first installment of resources for localization in Perl. Today we have two Perl genius entries. The first is a <a href="http://search.cpan.org/~sburke/Locale-Maketext-1.06/lib/Locale/Maketext/TPJ13.pod">TPJ article</a> from Sean Burke (four years old but still useful), the second a <a href="http://www.autrijus.org/webl10n/">TPC presentation</a> from Autrijus Tang.
+
+

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Humbling words from your peers"
+---
+
+
+
+Sometimes I get a big head about my work. And then I come back to earth when I read something like this, from Tom <a href="http://community.moertel.com/ss/space/start/2005-03-25/1#Writing_a_simple_Ruby_evaluator">checking out Ruby</a>: "Just to make sure I really had the semantics down, I wrote an evaluator for a mini-Ruby in Haskell."
+
+

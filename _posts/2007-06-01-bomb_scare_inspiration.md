@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Bomb scare inspiration"
+---
+
+
+
+<p>Today some asshat phoned in a bomb threat to both the Fort Pitt and Squirrel Hill tunnels, along with the Fort Pitt Bridge. At 5:30 PM. Cops closed the tunnels for 45 minutes, but not after unbelievable traffic. (I can't imagine there are any tunnels that are easy to close, but when you combine them with the number of bridges we have -- ouch.</p>
+
+<p>In response our Onion-equivalent came up with <a href="http://carbolicsmokeblog.blogspot.com/2007/06/penndot-phoned-in-bomb-scare-to.html">this gem</a>, including:</p>
+
+<blockquote>"DRIVERS ARE LESS LIKELY TO SLOW DOWN IN THE TUNNELS IF THEY THINK THEY MIGHT BE BLOWN UP," SAID PENNDOT SPOKESMAN MIKE HILLWIG.</blockquote>
+
+<p>t's so funny because IT'S SO TRUE. There would probably be no larger productivity boost -- including maglev! -- to the region if drivers magically:</p>
+
+<p><ul>
+  <li>didn't slow down in the tunnels</li>
+  <li>figured out that merging into 55 MPH traffic from a dead stop NEVER WORKS</li>
+</ul>
+
+

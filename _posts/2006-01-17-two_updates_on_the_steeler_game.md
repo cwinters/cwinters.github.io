@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Two updates on the Steeler game"
+---
+
+
+
+<ol>
+  <li>I was being flippant when I titled <a href="http://www.cwinters.com/news/display/3455">this blog post</a>, but someone else wasn't: <a href="http://www.pittsburghlive.com/x/tribune-review/trib/pmupdate/s_414153.html">Man's heart stops after Bettis fumble</a></li>
+  <li>In an incredibly rare move the league <a href="http://www.post-gazette.com/pg/06016/639045.stm">agreed with everyone in Pittsburgh</a> that Polamalu made an interception. Wow.</li>
+</ol>
+
+<p><b>Update</b>: Local news actually interviewed the dude with a heart attack and you get a real down-to-earth slice of Pittsburgh folks in <a href="http://www.thepittsburghchannel.com/video/6159175/index.html">this news clip</a>. (Thanks to Eric the Man for the email link.)</p>
+
+

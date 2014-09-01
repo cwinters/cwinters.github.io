@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Jersey Election Hoo-hah"
+---
+
+
+
+I haven't been following this <a href="http://www.washingtonpost.com/wp-dyn/articles/A41058-2002Oct3.html">insanity</a> very closely, but <a href="http://talkingpointsmemo.com/oct0201.html#1004021236am">recent</a> <a href="http://talkingpointsmemo.com/oct0201.html#100302953am">articles</a> from Josh are, to me, remarkable in their understatement. How can anyone with a straight face (and a clear conscience) say it would be better for New Jersey to essentially not hold an election?
+
+

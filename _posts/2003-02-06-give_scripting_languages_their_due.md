@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Give scripting languages their due"
+---
+
+
+
+<a href="http://www.infoworld.com/article/03/02/06/06stratdev_1.html?s=tc">Shipping the Prototype</a> - Udell with another great column on why glue -- and more importantly, agile glue -- is so important when everything is moving lickety-split:
+
+<blockquote>In a world of distributed services in constant
+flux, when does exploration stop? Why would you ever want to
+switch from a codebase that is concise, malleable, and easily
+maintainable to one that isn't?</blockquote>
+
+<p>And this:</p>
+
+<blockquote>My point is that languages like Python, but also Perl, Ruby, and
+JavaScript/JScript/ActionScript/EcmaScript, are strategic in
+ways that we don't yet fully acknowledge. As I mentioned last
+time, the classic phased life cycle of software
+development -- design/develop/test/deploy -- is dissolving
+into a continuous process. Change is the only constant; the
+services we create and use are always exploratory. Languages
+that express programmers' intentions in fewer lines of code
+are a huge productivity win. The deliverable code is easier
+to understand and maintain -- and so, crucially, is the test
+infrastructure that supports it.</blockquote>
+
+<p>Maintainability - malleability - testability. Not quite " Libert&#233; - &#233;galit&#233; - fraternit&#233;," but it'll do.</p>
+
+

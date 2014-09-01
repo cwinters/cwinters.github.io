@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Endear yourself to skeptics"
+---
+
+
+
+<a href="http://www.washingtonpost.com/wp-dyn/articles/A36083-2002Sep4.html">Bush Pledges to Seek Congressional Approval on Iraq</a><br>
+Nevermind that congressional approval shouldn't be an option, here's how to endear yourself to skeptical world leaders who think you're a whining child who always gets his way:</p>
+
+<p><blockquote>"I believe it's important for the world to deal with this man," Bush said. "This is a debate the American people must hear, must understand. And the world must understand, as well, that its credibility is at stake."</blockquote>
+
+<p>Yeah, I find condescension a useful strategy...
+
+

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Site down later today"
+---
+
+
+
+I'll be taking the website (and email) down later today to move the server down to its new home in Washington, DC (courtesy of <a href="http://www.davison.com/">Davison Associates</a>) and it will be down until tomorrow morning or early afternoon. I've set the TTLs for the DNS entries for this domain to fairly low values so that shouldn't take too much time to replicate once the site's in place.
+
+<p>As a result of the move I'll have some real bandwidth and you can read this blather 50% faster! Or at least it'll be sent to your preferred reading devices that much faster...</p>
+
+

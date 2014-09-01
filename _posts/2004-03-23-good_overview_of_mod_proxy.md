@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Good overview of mod_proxy"
+---
+
+
+
+<a href="http://wiki.cocoondev.org/Wiki.jsp?page=ApacheModProxy">ApacheModProxy</a> - It's ostensibly about Cocoon but really just a good description of setting up and configuring mod_proxy as a lightweight front end to your heavyweight application server(s). What's really nice is that mod_proxy doesn't care what's behind it -- the same proxy sits in front of this site (a mod_perl application) and the as-yet unannounced <a href="http://jira.openinteract.org/">OpenInteract JIRA</a> (a servlet application running under Tomcat).
+
+

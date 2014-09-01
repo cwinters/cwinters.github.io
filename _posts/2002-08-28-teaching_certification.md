@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Teaching certification"
+---
+
+
+
+<a href="http://www.washingtonpost.com/wp-dyn/articles/A4380-2002Aug27.html">More New Md. Teachers Not Fully Certified</a><br>
+This is a fairly interesting report, notable for a couple of excuses for me to talk out of turn:<br>
+<b>1</b> - A candidate for the best federal act name ever: <b>No Child Left Behind Act</b><br>
+<b>2</b> - Another example of how education and federal regulations rely on common denominators -- standardized test scores, teaching certification -- rather than common sense. Sure, it's nice to know that your child's teacher is certified, but being certified has little to do with being a good teacher. And the focus on certification will IMO wind up driving away a large group of potential teachers -- professionals looking to give their shallow business lives meaning.
+
+
+

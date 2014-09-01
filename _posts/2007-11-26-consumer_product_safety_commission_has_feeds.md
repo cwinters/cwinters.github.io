@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Consumer Product Safety Commission has feeds"
+---
+
+
+
+<p>If you go to the <a href="http://www.recalls.gov/">main site</a> you won't see any hint of them. And they won't show up even if you click on the 'Consumer Products' tab. But <a href="http://www.cpsc.gov/cpscpub/prerel/prerel.html">drill down one level further</a>, to the CPSC's actual website, and you'll see orange XML icons littered all over the place. Yay!</p>
+
+

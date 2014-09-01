@@ -1,0 +1,10 @@
+---
+layout: post
+title: "(?X)Emacs refactoring browser"
+---
+
+
+
+<a href="http://www.xref-tech.com/xrefactory/">Xrefactory</a> - This looks great! I <a href="http://use.perl.org/~lachoy/journal/6260">wrote about</a> not wanting to use an IDE (for me: code-completion == crutch) but this combines some of those IDE-goodness features with the wondefulness of emacs. I wonder how much <a href="http://jdee.sunsite.dk/">JDEE</a> integration there is? (Via <a href="http://radio.weblogs.com/0103492/2002/09/19.html">John</a>)
+
+

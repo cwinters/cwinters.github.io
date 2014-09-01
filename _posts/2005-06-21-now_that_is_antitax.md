@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Now THAT is anti-tax"
+---
+
+
+
+From <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0375756787/">The Rise of Theodore Roosevelt</a>, p. 326:
+
+<blockquote>
+He returned to Medora [Dakota Territory] on 12 April, just in time to witness Billings County's first election as an organized community. Under the supervision of one "Hell-Roaring" Bill Jones, who stood over the ballot-box with a brace of pistols, the votes were cast with a minimum of bloodshed, and a county council duly returned to power. While its first edict, promising "to hang, burn, or drown any man that will ask for public improvements at the expense of the County," could have been worded more diplomatically, it at least voiced sound Republican sentiments, and Roosevelt had every reason to be optimistic about the future of representative government in the Badlands.
+</blockquote>
+
+

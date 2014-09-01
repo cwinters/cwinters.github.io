@@ -1,0 +1,12 @@
+---
+layout: post
+title: "File under: Creating a New Tone in Washington"
+---
+
+
+
+<a href="http://www.washingtonpost.com/wp-dyn/articles/A9150-2002Aug28.html">Investor Tax Cut Push Becomes Campaign Tactic</a><br>
+<b>Tactic</b>: try to push through a bill we feel is right but is economically wrong so that our enemy will kill it and we can blame him for thwarting progress.<br>
+<b>Questions</b>: What happens if a) the bill actually passes in a spite-my-face gesture? b) people in my own party get some common sense and vote down the bill, making <a href="http://www.washingtonmonthly.com/features/2001/0209.marshall.html">my crew look inept</a>?
+
+

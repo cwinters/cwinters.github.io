@@ -1,0 +1,10 @@
+---
+layout: post
+title: "High Availability PostgreSQL"
+---
+
+
+
+<a href="http://www.taygeta.com/ha-postgresql.xml">High Availability PostgreSQL HOWTO</a> - I came across this in the process of choosing a database that may eventually sustain a fairly high volume of reads from multiple machines. (It's for a proposal.) An additional wrinkle is the JDBC driver -- I've done fairly little research into which opensource databases perform best under different types of load, and even less about how/if the JDBC driver has any impact on that. More reading to do...
+
+

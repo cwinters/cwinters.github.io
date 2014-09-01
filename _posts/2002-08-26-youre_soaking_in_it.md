@@ -1,0 +1,22 @@
+---
+layout: post
+title: "You're Soaking in It!"
+---
+
+
+
+<pre><font size="-1">
+cwinters@genesee SPOPS $ HEAD cwinters.com
+200 OK
+Connection: close
+Date: Mon, 26 Aug 2002 13:00:04 GMT
+Server: Apache/1.3.22 (Unix) mod_perl/1.26
+Content-Type: text/html
+Client-Date: Mon, 26 Aug 2002 12:48:27 GMT
+...
+X-Powered-By: <b>OpenInteract 1.50</b>
+</font></pre>
+
+<p>Browser-based template editing is back! See <a href="http://sourceforge.net/project/shownotes.php?release_id=107160">the detailed changes for this version</a>.
+
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Why do I still read /.?"
+---
+
+
+
+<a href="http://slashdot.org/articles/02/08/29/173246.shtml?tid=163">Is Branding the Future of Open Source?</a><br>
+Discussions like this -- about JBoss certification -- are 95% silly people with little-to-no real world experience who are still young enough to think they still know everything. Why bother? (And why am I posting about it?!)
+
+

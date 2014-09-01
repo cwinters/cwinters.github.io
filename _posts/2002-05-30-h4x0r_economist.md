@@ -1,0 +1,13 @@
+---
+layout: post
+title: "H4x0r Economist"
+---
+
+
+
+ph34r greenspan: <a href="http://www.rdwarf.com/~kioh/">http://www.rdwarf.com/~kioh/</a>. (Up around the 20s it's gold, baby.)
+
+
+<p><em>(Originally posted <a href="http://use.perl.org/~lachoy/journal/5313">elsewhere</a>)</em></p>
+
+

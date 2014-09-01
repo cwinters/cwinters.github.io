@@ -1,0 +1,18 @@
+---
+layout: post
+title: "One and only debate entry"
+---
+
+
+
+<p>...at least so far. Two quick things:</p>
+<ol>
+  <li>Mr. Cheney: Oh, so you had <a href="http://atrios.blogspot.com/2004/10/cheney-lied.html">never met</a> John Edwards before last night? Oops.</li>
+  <li>When Democrats bring up rolling back tax cuts for people making over $200K, Republicans' knee-jerk is to proclaim that N percent of those people are small business owners. <b>Who cares?</b> It's still income, right? Or are small business owners a new class of people who get extra benefits? If so: I submit a Schedule C and SE every year with my federal taxes, so sign me up!</li>
+</ol>
+
+<p><b>Update</b>: Okay, one more word from a comment on a <a href="http://www.thewashingtonnote.com/archives/000103.html">recent entry</a> from Steve Clemons:
+
+<blockquote>I'm still mystified that neither Kerry nor Edwards brings up the fact Bush threatened to veto the $87 billion "for the troops"? Cheney's hitting on consistency and all Edwards had to do was say something like "You mean the same consistent approach that led you to threaten to veto the bill because we wanted to pay for it while you wanted my grandchildren to pay for it?" Otherwise I think Edwards did fine, but I agree with Steve that it should have been more of a referendum on Bush.</blockquote>
+
+

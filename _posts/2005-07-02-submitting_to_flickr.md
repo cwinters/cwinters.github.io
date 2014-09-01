@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Submitting to Flickr"
+---
+
+
+
+...in yet another attempt to oursource crap I don't want to deal with anymore, I'm moving all my photo stuff to Flickr -- you can view <a href="http://www.flickr.com/photos/cwinters/">my stream</a> which will be growing throughout the weekend. This means it should get updated much more frequently. And I promise not to mingle the Flickr feed with my normal news feeds, I think that's kind of annoying...
+
+<p><b>UPDATE</b>: Modified the URL for my photos since I discovered the feature where you can permanently rename it.</p>
+
+

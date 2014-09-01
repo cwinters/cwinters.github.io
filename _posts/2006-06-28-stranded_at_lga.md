@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Stranded at LGA"
+---
+
+
+
+<p>Long story short: our feeder flight from Orlando was delayed due to weather (+2.5h), "air traffic control (+1h), and draining fuel because we were overweight (.5h). Making us late for our connection to Montreal by an hour</p>
+
+<p>And every hotel is completely booked because a jillion other people had the same problems today and they had the good sense to get in before 10 PM. So we're sitting in the middle of a bunch of Russians (who seem very nice). At least there's wireless, although you'd think they'd have the sense to turn off the music and the occasional "FOR SECURITY REASONS" messages.</p>
+
+<p>It should be an interesting demo and presentation tomorrow :-)</p> 
+
+

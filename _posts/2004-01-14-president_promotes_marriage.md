@@ -1,0 +1,12 @@
+---
+layout: post
+title: "President Promotes Marriage"
+---
+
+
+
+<a href="http://www.nytimes.com/2004/01/14/politics/campaigns/14MARR.htm">Bush Plans $1.5 Billion Drive for Promotion of Marriage</a> - One point five billion dollars. Let that sink in and ignore all the low-income folks who can't get to work because of shitty public transit service and can't move because it's too expensive, or all the families one small medical emergency away from bankruptcy, or all the latchkey kids created by the families who have to work two low-paying jobs just to pay the basic needs.
+
+<p>These people are either really desperate or this country is worse than I thought...</p>
+
+

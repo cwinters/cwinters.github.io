@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Warren Zevon, working"
+---
+
+
+
+<a href="http://www.nytimes.com/2003/01/26/magazine/26ZEVON.html">In His Time of Dying</a> - It would be easy to dismiss a dying man's wish to continue working as escapism, and there's probably a few shakes of that in there. But there's something undeniably brave in knowing that you're going to die, facing and collaborating with your peers, your heroes, and still managing to be yourself.
+
+<blockquote>
+''I might have made a tactical error in not going to a physician for 20 years,'' he told Letterman. ''It's one of those phobias that didn't pay off.''</blockquote>
+
+

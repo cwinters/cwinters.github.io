@@ -1,0 +1,10 @@
+---
+layout: post
+title: "YAPC::NA 2004 announced"
+---
+
+
+
+<a href="http://use.perl.org/article.pl?sid=03/08/22/1457214&mode=nested&tid=25">YAPC::NA::2004 Venue Chosen</a> - The winner is: Buffalo! I was hoping for Toronto or DC myself, but this is only a few hours away. And I don't think Buffalo's very expensive, always good. I'm extremely happy they made the decision so early as it makes it easier for the rest of the world to plan. (I missed my first and only YAPC in 2002 because of this...)
+
+

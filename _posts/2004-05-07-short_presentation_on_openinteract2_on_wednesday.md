@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Short presentation on OpenInteract2 on Wednesday"
+---
+
+
+
+<a href="http://pgh.pm.org/m/200405.html">May 12, 2004 pgh.pm meeting</a> - I'll be giving a short presentation about OpenInteract2 to the Pittsburgh Perlmongers this Wednesday. I'll be walking through developing, deploying and modify a 'Hello World' package in OpenInteract2, which will be the start of the presentation at YAPC next month.
+
+

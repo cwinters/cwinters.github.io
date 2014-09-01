@@ -1,0 +1,10 @@
+---
+layout: post
+title: "One thing that would make believing worth it"
+---
+
+
+
+I'm not a believer and probably never will be. But if I were and were allowed to pick a place to hang out for eternity, I'd stick around the gates. That way I'd be able to see all the smug bastards, so sure of their entrance by a lifetime of supposed piety, get a boot to the head when all the <a href="http://archive.salon.com/news/feature/2004/10/18/gayohio/index.html">hate</a> in their tiny black hearts is brought to light. (Wait, is that hateful? Or just spiteful?)
+
+

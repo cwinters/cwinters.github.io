@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Apocalyptic enterprises"
+---
+
+
+
+<a href="http://www.salon.com/ent/movies/feature/2002/09/03/christian/index.html">Lights! Camera! Apocalypse!</a><br>
+Broad overview of the apocalyptic films gaining a wider audience. Mostly evenhanded (few snide comments) but then veers into gossip at the end. There was a much better New Yorker article on this sometime in the last nine months or so, but I can't immediately google it.
+
+

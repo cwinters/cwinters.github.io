@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Better than cat pictures: cat video"
+---
+
+
+
+<p><a href="http://www.cwinters.com/images/blog/lachoy_cleaning.avi"><img src="http://www.cwinters.com/images/blog/lachoy_cleaning.png" align="left" alt="La Choy cleaning, click for 5.5 MB AVI"></a></p>
+ 
+<p>A few weeks ago I tried out the movie capture feature on my camera on the default photo subject: one of our cats. So click on the photo for a 34-second silent movie of La Choy cleaning herself. My favorite part is about two-thirds through when she stares off in the distance for a couple seconds, then remembers what she was doing and continues cleaning. Because, you know, she's got a lot on her mind...
+<br clear="all" /></p>
+
+

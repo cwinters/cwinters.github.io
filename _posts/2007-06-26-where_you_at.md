@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Where you at?"
+---
+
+
+
+<p>Hanging out with friends in Madison, Wisconsin. More soon, but until then:</p>
+
+<p align="center">
+<a href=""http://www.flickr.com/photos/92586047@N00/626989982/"><img src="http://www.cwinters.com/images/blog/chris_barb_ella_kira.jpg" border="0" /></a>
+</p>
+
+

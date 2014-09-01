@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Another hosting service..."
+---
+
+
+
+<a href="http://www.jvds.com/">JVDS</a> - Stands for Just Virtual Dedicated Servers. Dunno how good they are, and they're fairly new, but they seem to have a few clues -- accessing some of the PHP pages just returned a 'Forbidden' (nonclue!) and I pinged them with the info. I got an immediate autoresponse from an <a href="http://www.bestpractical.com/rt/">RT</a> system (clue!), and then a human response a couple minutes later (clue!) and it was immediately fixed (clue!). Plus the response referenced publishing the site with rsync (clue!). I have no idea how well <a href="http://user-mode-linux.sourceforge.net/">User Mode Linux</a> works, but the fact that you can use Gentoo as a distro is a plus.
+
+

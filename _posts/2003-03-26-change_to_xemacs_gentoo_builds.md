@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Change to XEmacs Gentoo builds"
+---
+
+
+
+I just noticed that the newer ebuilds to XEmacs (21.4.12 and higher, I think) break out most of the elisp libraries into separate Gentoo packages. Nice! Previously you just installed the 'sumo' and got everything, but you had no granularity and had to wait for the single package to be updated.
+
+<p>BTW, if you're running Linux I highly recommend Gentoo. After the maddening RPM experience of upgrading one of the RedHat server machines at work the other day with openssl/openssh -- oh, you need GTK 2+ to install the openssh RPMs; oh, you need pango (etc.) to install GTK 2+; oh, you need XFree-devel-4.2.99+ to install pango, ... -- I'm <b>so</b> ready to wipe it out and install Gentoo.</p>
+
+

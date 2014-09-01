@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Animals in Greece"
+---
+
+
+
+<a href="http://news.yahoo.com/news?tmpl=story2;cid=856;ncid=856;e=1;u=/nm/20021219/od_uk_nm/oukoe_odd_greece_dogs">Greek stray dogs face Olympic neutering</a> - When we visited Greece last year we were astounded by the number of stray animals. We saw many more cats than dogs, but dogs aren't as sneaky and get in the way more since cats are always sleeping. One guy we talked to in Santorini attributed the number of animals to an attitude that by spaying/neutering people would be interfering with nature. And starving on the streets is <b>so</b> natural...
+
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "It's not a doll, it's an action figure!"
+---
+
+
+
+<a href='http://www.kbtoys.com/genProduct.html/PID/2431939/ctid/17/place/aguc?_ts=n&ls=collect&_e=3f464&_v=3F46433CcsAIe498EC6FD28F&_ts=y'><img src='http://images.kbtoys.com/g/toys/small/123116.jpg' align='right' border='0'/></a>
+<a href="http://www.kbtoys.com/genProduct.html/PID/2431939/ctid/17/place/aguc?_ts=n&ls=collect&_e=3f464&_v=3F46433CcsAIe498EC6FD28F&_ts=y">Elite Force Aviator: George W. Bush - U.S. President and Naval Aviator</a> - Noted without comment.
+
+

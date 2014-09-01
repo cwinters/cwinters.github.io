@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Recent book: The Hot Kid, Elmore Leonard"
+---
+
+
+
+<p>I borrowed <a href="http://www.amazon.com/Hot-Kid-Elmore-Leonard/dp/0060724234/">The Hot Kid</a> from a co-worker just because it was Elmore Leonard. I haven't read any of his books for a while, but I went through a period in the 90s where I devoured a dozen or so. This one is different: rather than being set in Miami, LA or Detroit, it's in Oklahoma and Kansas. And rather than being 70s/80s/90s/current, it's set in the 30s.  But it's still Leonard, through and through.</p>
+
+<p>What does that mean? For one, you know you're getting little exposition and tons of sharp dialogue. So rather than an omniscient narrator telling you that Carl is getting shaky because someone else depends on him for the first time in your life, and rather than relying on the description of his "quavering voice" or that he has to "steady himself on the porch railing", you get it through dialogue. And if you breeze through it you'll miss a lot of subtlety and those turning points where the characters change and grow (or regress).</p>
+
+<p>Recommended.</p>
+
+

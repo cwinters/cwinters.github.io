@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Agile manifesto, real deal"
+---
+
+
+
+<a href="http://www.hacknot.info/servlet/HS?cmd=sen&eid=31">The Agile Manifesto (Hip-Hop Remix)</a> - Agile Manifesto, translated into words for today. So this:
+<pre class="sourceCode">
+Through this work we have come to value:
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
+</pre>
+
+<p>Becomes...</p>
+<pre class="sourceCode">
+Now we wanna represent:
+- Peeps and tradin' rhymes ova' fake moves and bling-bling
+- Tasty warez ova' phat papers
+- One love ova' law doggin'
+- Freestylin' ova' playin' it straight
+</pre>
+
+<p>Via <a href="http://www.blojsom.com/blog/java/?permalink=3BD2032F4DB6E96D8C7BEB3C6BF7CD50.txt">David</a>
+
+

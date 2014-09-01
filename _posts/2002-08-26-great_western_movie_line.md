@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Great western movie line"
+---
+
+
+
+I was flipping channels Saturday afternoon and came on <a href="http://us.imdb.com/Title?0064116">Once Upon a Time in the West</a>. It's a long movie I've never seen (but would like to) and I popped in somewhere in the middle, so I only watched a couple minutes. In the scene I did see, Henry Fonda kicks out a crutch from a guy he's disgustedly talking at and then sneers down at him: "I could squash you like a wormy apple." This line sweetly teases to oh-so-many clich&eacute;d lines of this nature you ever heard. Nice!
+
+

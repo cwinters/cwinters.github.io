@@ -1,0 +1,15 @@
+---
+layout: post
+title: "JetBrains Team Server"
+---
+
+
+
+<p><a href="http://www.jetbrains.net/confluence/display/TW/Team+Server+Home">JetBrains Team Server</a>: "...a distributed build management system that allows running and monitoring
+build process and facilitates integration of changes."</p>
+
+<p>IIRC it was originally to be Java-only, but it appears multiplatform now. I wonder if you'll be able to create your own build agents...</p>
+
+<p>Anyway, looks pretty nifty and it's in EAP. No idea about final cost.</p>
+
+

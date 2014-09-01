@@ -1,0 +1,91 @@
+---
+layout: post
+title: "Next and previous JavaScript months"
+---
+
+
+
+<p>The date/time libraries shipping with some languages I've used
+are just awful -- e.g., Perl, Java, JavaScript.  Fortunately, the
+first two have great libraries available 
+<a href="http://datetime.perl.org/">DateTime</a> for Perl and 
+<a href="http://joda-time.sourceforge.net/">Joda-Time</a> for
+Java.[1] For JavaScript, it's slim pickings. There is 
+<a href="http://www.datejs.com/">DateJS</a> which
+provides some parsing and fluent interface functionality, but
+seems to be lacking in other concepts (e.g., durations and
+intervals). But AFAICT there's nothing of the comprehensiveness
+or extensibility of either of the Java or Perl alternatives.</p>
+
+<p>While DateJS allows you to do math, there's also a nice little
+hack you can do for at least one simple use case: given
+a date, what are the next and previous months?</p>
+
+<p>In good APIs this is handled with ease:</p>
+
+<pre class="sourceCode">
+Java:
+  DateTime now    = new DateTime();
+  DateTime future = now.plusMonths(1);
+  DateTime past   = now.minusMonths(1);
+  System.out.println( "Future: " + future + "\nPast: " + past );
+
+  ==> Future: 2012-02-09T22:31:55.656-05:00
+  ==> Past: 2011-12-09T22:31:55.656-05:00
+
+Perl:
+  my $now    = DateTime->now( time_zone => 'America/New_York' );
+  my $future = $now->clone->add( months => 1 );
+  my $past   = $now->clone->subtract( months => 1 ); 
+  print "Future: $future\nPast: $past\n";
+
+  ==> Future: 2012-02-09T22:36:01
+  ==> Past: 2011-12-09T22:36:01
+
+Ruby:[2]
+  now    = DateTime.now
+  future = now.advance( :months => 1 )
+  past   = now.advance( :months => -1 )
+  puts "Future: #{future}\nPast: #{past}"
+
+  ==> Future: 2012-02-09T22:55:26-05:00
+  ==> Past: 2011-12-09T22:55:26-05:00
+</pre>
+
+<p>In JavaScript you can't do that. But you can find the
+previous/next months pretty easily. The <tt>Date</tt> constructor
+takes a series of values for defining the date. If you specify a
+day '0' for the day of month, you'll get the last day of the
+previous month, and if you specify a day '32' you'll get
+somewhere around the first day of the following month: </p>
+
+<pre class="sourceCode">
+JavaScript: (using Rhino 1.7R3)
+  var now    = new Date();
+  var future = new Date( now.getFullYear(), now.getMonth(), 32 );
+  var past   = new Date( now.getFullYear(), now.getMonth(), 0 );
+  print( "Future: " + future + "\nPast: " + past + "\n" );
+
+  ==> Future: Wed Feb 01 2012 00:00:00 GMT-0500 (EST)
+  ==> Past: Sat Dec 31 2011 00:00:00 GMT-0500 (EST)
+</pre>
+
+<p>It's not the same result, but that's okay because the day is
+unnecessary. I've tested it in Rhino and a few browsers (FF,
+Chrome, IE 8) and all had the same result. Hope it helps.</p>
+
+<hr noshade="noshade" />
+
+<p>[1] JDK 8 will vastly improve the default, taking it from terrible to awesome -- see 
+<a href="https://github.com/ThreeTen/threeten">JSR 310</a>.</p>
+
+<p>[2] The 'advance' function is not in the core Ruby
+Date/DateTime library, but it is added by Rails. I had a devil of
+a time getting this to run as a standalone script so just ran it
+in the rails console. The interplay between the names of Ruby
+libraries, the classes, and the documentation is very confusing
+to an outsider -- for example, 'ri DateTime' gives you methods
+monkeypatched into the class by ActiveSupport.</p>
+
+
+

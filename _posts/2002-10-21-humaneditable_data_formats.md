@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Human-editable data formats"
+---
+
+
+
+<a href="http://radio.weblogs.com/0108103/2002/10/18.html#a102">NBML - Not Bunk Markup Language</a> and <a href="http://radio.weblogs.com/0111784/2002/10/21.html#a124">Musing about Markup</a> - Here are two excellent posts about the tension between data parsability and data editability. XML is wonderful for the former, tolerable for the latter. I tend to use a modified INI format for configuration files, since it's total cake to edit and fairly easy to parse. That you can't keep nesting items within items is a plus, since it forces you to keep your configuration easy to understand.
+
+<p>One question about NBML: isn't the use of tabs in makefiles one of the reasons people hate them so much?</p>
+
+

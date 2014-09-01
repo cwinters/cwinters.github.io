@@ -1,0 +1,13 @@
+---
+layout: post
+title: "More testing!"
+---
+
+
+
+I went through and created a header for every class in SPOPS that currently does not have a test. To my surprise there were only about 8 or 9 -- others can be fortified, but that's not too bad...
+
+<p>
+<p><em>(Originally posted <a href="http://use.perl.org/~lachoy/journal/7428">elsewhere</a>)</em></p>
+
+

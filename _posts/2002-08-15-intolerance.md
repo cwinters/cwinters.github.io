@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Intolerance"
+---
+
+
+
+<a href="http://www.nytimes.com/2002/08/15/national/15GRAH.html">Evangelist Says Muslims Haven't Adequately Apologized for Sept. 11 Attacks</a><br>
+This is related to the <a href="http://www.washingtonpost.com/wp-dyn/articles/A52484-2002Aug6.html">Washington Post article</a> I mentioned in a <a href="http://use.perl.org/~lachoy/journal/6956">use.perl journal entry</a>. The ignorance among people like this is astonishing. And by "people like this" I don't mean Christians. I mean religious leaders who claim to represent other people.
+
+

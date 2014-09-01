@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Got a new job!"
+---
+
+
+
+So of the <a href="http://www.cwinters.com/news/display/?news_id=3231">jobs listed earlier</a> I chose Job #3, which I can now reveal is <a href="http://www.vocollect.com/us/">Vocollect</a>. It was very close between Jobs #2 and #3 but what finally sealed the deal was a call from the CTO on Sunday -- not just a sales pitch but someone who was genuinely interested in bringing someone good on board.
+
+<p>So today is my last day at <a href="http://www.optiron.com/">Optiron</a> and it's sad to be leaving everyone. It's not easy to find a group of people with whom you like to share space for eight hours a day and that's really what's kept me for as long as I stayed. But I have a really great feeling about this new place and hopefully it will lead to more learning and friendships.
+
+

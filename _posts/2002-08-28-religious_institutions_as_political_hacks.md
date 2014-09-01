@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Religious institutions as political hacks"
+---
+
+
+
+<a href="http://www.gomemphis.com/mca/news_columnists/article/0,1426,MCA_646_1351916,00.html">If church creeps into Caesar's bed, it's not for a nap</a><br>
+Some Congressfolk are proposing the dingdong idea that houses of worship be allowed to actively participate in political campaigns. The reasoning is that the government is stifling their freedom of speech. Folks opposing this idea bring up the point that one of the stipulations of tax-exempt status conferred by the government on nonprofits and churches alike is that the entity does not actively participate in political campaigns. If this goes through, I'd imagine that lots of nonprofits will get in on the action as well.
+
+

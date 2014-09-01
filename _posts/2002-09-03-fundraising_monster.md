@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Fundraising monster"
+---
+
+
+
+<a href="http://www.washingtonpost.com/wp-dyn/articles/A27592-2002Sep2.html">Bush by the Numbers, as Told by a Diligent Scorekeeper</a><br>
+Some of the more fascinating numbers: Bush has raised $114.8 million at 48 events this year (almost $2.4 million per event), versus Clinton's record of $105.0 million at 203 events in 2000 (a little over $0.5 million per event); Bush has spent 42 percent (250 days) of his term at Camp David, Kennebunkport or his ranch in Texas. I think I see the strategy here: by increasing the staggering amount of money raised while working less, Bush is single-handedly keeping the national worker productivity figures flying high!
+
+
+

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "An interesting movie star interview? Get out!"
+---
+
+
+
+<a href="http://www.salon.com/ent/feature/2003/07/31/woods/index.html">Woods on Fire</a> - An interview subject (James Woods) who actually points out and discusses grey areas and embraces the fact that people can disagree and it's okay. It's disturbingly refreshing to read an opinion from someone who sounds like he can be convinced of another viewpoint. Reading it reminds me of the scene in "Bull Durham" where Kevin Costner teaches Tim Robbins all the banal aphorisms he has to memorize so he can "properly" talk to the press -- that's what 75% of all interviews are like. The other 25% are just axe-grinding exercises by either the interviewer or interviewee.
+
+

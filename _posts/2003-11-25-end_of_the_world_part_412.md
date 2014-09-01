@@ -1,0 +1,12 @@
+---
+layout: post
+title: "End of the world, part 412"
+---
+
+
+
+<a href="http://www.nytimes.com/2003/11/25/science/25BEAR.html">Fast-Food Nation Is Taking Its Toll on Black Bears, Too</a> - I think the fattening of America is much more serious than the <a href="http://www.comedycentral.com/tv_shows/ds/videos_corr.jhtml?startIndex=25&p=helms">gaying of America</a>, don't you?
+
+<blockquote>A study of black bears in the Sierra Nevada has found that those animals that live in and around cities and towns are less active than those in wilderness, spending less of their time foraging for food and fewer days in their winter dens. These and other behavioral changes are making the bears heavier.</blockquote>
+
+

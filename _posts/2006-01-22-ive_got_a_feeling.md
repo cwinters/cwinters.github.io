@@ -1,0 +1,18 @@
+---
+layout: post
+title: "I've got a feeling..."
+---
+
+
+
+<img align="left" src="http://www.cwinters.com/images/blog/steelers_logo.jpg" alt="Steelers logo" />
+
+<p>...Pittsburgh's going to the Super Bowl!</p>
+
+<p>I couldn't believe I was watching the Steelers for the first half of the game today. Where was the hestitancy of AFC championships past? The overthrows? The interceptions and fumbles? Awesome, hitting on all cylinders.</p>
+
+<p>This team is peaking at exactly the right time. They didn't have the best record during the season and made quite a few mistakes. But now? If they keep playing with this confidence, I don't know if either Seattle or Carolina would be able to keep up. </p>
+
+<p>And right now it looks like Seattle, which would be funny because before I moved to Pittsburgh Seattle was my favorite team. I still have fond memories of watching Dan Doornink smash through the Raiders 20 years ago from my Aunt's living room in Indiana, and I still have a Steve Largent jersey in my closet.</p>
+
+

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Learning through blogs"
+---
+
+
+
+I agree with <a href="http://roller.anthonyeden.com/page/rickard/20020929">Rickard's opinion</a> on learning from blogs, and in fact said <a href="http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show;ixPost=16017;ixReplies=14">something very similar</a> on Joel's site a few days ago (toward the bottom). (I had something to expand on about "lack of anonymity and personal context", but my eyelids are getting strangely heavy...)
+
+

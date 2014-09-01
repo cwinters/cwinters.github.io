@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Impressions of Bush's acceptance speech"
+---
+
+
+
+Yeah, I could talk about the <a href="http://www.salon.com/news/wire/2004/09/03/facts/index.html">distortions</a> or the "where've you been for four years?" aspects. But I'd rather focus on another one, in particular the coverage after the fact on CNN: hey, <a href="http://www.nytimes.com/top/opinion/editorialsandoped/oped/columnists/maureendowd/">Maureen Dowd</a> is hot!
+
+<p>I rarely pay attention to those little head shots accompanying columns on the website, and this was the first time I'd seen her speaking. Her voice was nothing like I expected either -- I thought it would be one of those patrician Connecticut with just a hint of southernness (for keeping it real). Nothing like that at all. Yow!
+
+

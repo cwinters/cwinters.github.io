@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Neal Adams, more than comics?"
+---
+
+
+
+<p><a href="http://www.nealadams.com/">Neal Adams</a> is a legendary comic book artist. But I learned today he's an amateur scientist as well, one who thinks that Earth (and all the other planets) are <a href="http://www.nealadams.com/nmu.html">expanding</a>. He recently did a <a href="http://www.coasttocoastam.com/shows/2006/03/16.html">radio show</a> about it (haven't listened to it yet). Weird juxtaposition for me.</p>
+
+
+

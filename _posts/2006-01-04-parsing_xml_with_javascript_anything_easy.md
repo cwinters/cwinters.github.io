@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Parsing XML with JavaScript: anything easy?"
+---
+
+
+
+<p>Now I'm looking at browser-side libraries to parse XML into a useful data structure, such as:</p>
+  
+<pre class="sourceCode">
+var doc = '&lt;team name="Steelers" coach="Bill Cowher">' +
+          '  &lt;player>' +
+          '    &lt;position>Wide receiver&lt;/position>' +
+          '    &lt;name>Hines Ward&lt;/name>' +
+          '  &lt;/player>' +
+          '  &lt;player>' +
+          '    &lt;position>Running back&lt;/position>' +
+          '    &lt;name>Jerome Bettis&lt;/name>' +
+          '  &lt;/player>' +
+          '&lt;/team>';
+var parsed = someParseMethod( doc );
+is( parsed.name, "Steelers" );
+is( parsed.coach, "Bill Cowher" );
+is( parsed.player[0].position, "Wide receiver" );
+is( parsed.player[0].name, "Hines Ward" );
+is( parsed.player[1].position, "Running back" );
+is( parsed.player[1].name, "Jerome Bettis" );
+</pre>
+ 
+<p>And I seem to be coming up short: every library wants to parse an XML document into a W3C DOM or some sort of DOM facsimile. Yuck. Why deal with all those methods when you've got dynamic properties?</p>
+ 
+<p>I figured this was a gimme since so many people are working with XML on the client these days. (Or are they?) So is there a library out there that does this basic thing?</p>
+
+

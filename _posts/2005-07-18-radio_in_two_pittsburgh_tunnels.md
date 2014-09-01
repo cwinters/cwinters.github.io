@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Radio in two Pittsburgh tunnels"
+---
+
+
+
+Has anyone in Pittsburgh noticed that there are now audible radio signals in both the Fort Pitt and Squirrel Hill tunnels? (At least a signal from WDUQ.) I first noticed this in mid-June through Squirrel Hill when an NPR piece came on with E. J. Dionne (one of my favorites) and David Brooks. For some reason I <b>always</b> hit a tunnel when one of these comes on and I cursed my luck yet again. But I heard the piece very clearly all the way through!
+
+<p>More recently I can get a signal through Fort Pitt; although it's a bit fuzzy you can still understand what's going on. I don't know if this is an atmospheric condition (oppressive humidity == great radio reception?) or some active effort by PennDOT, but I hope it remains.</p>
+
+<p>(That I sometimes haven't been able to take advantage of this because my car radio sporadically powers off is another post...)</p>
+
+

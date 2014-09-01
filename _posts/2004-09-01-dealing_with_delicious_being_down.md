@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Dealing with del.icio.us being down"
+---
+
+
+
+My strategy: keep open a Safari window full of tabs of items I want to bookmark. Once it comes back up I'll just pump them in. Hopefully it won't be too long to come back, especially since I wanted to implement the OI2 RSS feed action on my site in the few days of my unemployment. (It's not on CPAN yet....)
+
+

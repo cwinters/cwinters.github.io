@@ -1,0 +1,10 @@
+---
+layout: post
+title: "NYT on Wikis"
+---
+
+
+
+<a href="http://www.nytimes.com/2003/05/19/technology/19NECO.html">Business Is Toying With a Web Tool</a> - I somehow missed this a few days ago. If it's in the paper of record, it's going to be everywhere. I like the quote from a biz user about the wiki maintaining an "informal corporate memory." This is a rarely discussed (and appreciated) downside to the greater fluidity in job markets.
+
+

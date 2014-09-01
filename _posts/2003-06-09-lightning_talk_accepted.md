@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Lightning talk accepted"
+---
+
+
+
+<a href="http://www.yapc.org/America/">YAPC::NA</a> - So next week in Boca I'll be giving a short talk (20 minutes) based on our Java code generation system (discussed briefly <a href="http://www.cwinters.com/programming/code_generation_fun.html">here</a>) and also give a little diatribe (5 minutes) on the benefits of INI files for human-readable configuration. These are known as <a href="http://perl.plover.com/lt/">"lightning talks"</a>, and AFAIK they originated at YAPC 00 (aka YAPC 19100). LOTS of fun, particularly since most people don't have time to get nervous :-)
+
+

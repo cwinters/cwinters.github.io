@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Coderefs in Javascript"
+---
+
+
+
+This may be old hat to you, but I didn't know it. JavaScript since 1.2 has had the equivalent of Perl code references, or function pointers, that you can pass around and execute as needed. Among other things, this makes it easy to create a generic library while customizing it with a callback:
+<pre class="sourceCode">
+var aCallback = null;
+function registerCallback( cb ) {
+    aCallback = cb;
+}
+function doSomeLibraryStuff( foo, bar ) {
+    // do some stuff
+    if ( aCallback != null ) {
+        aCallback( foo, bar );
+    }
+}
+</pre>
+<p>So in your library you can just register your custom functionality and it gets executed whenever the <tt>doSomeLibraryStuff</tt> function is run:</p>
+<pre class="sourceCode">
+registerCallback( function( foo, bar ) {
+    if ( foo < bar ) {
+        alert( "All your base" );
+    }
+});
+</pre>
+<p>You can also use a <tt>Function</tt> object for this, but the constructor uses a list of Strings that get joined with a ';' and eval'd into existence. Ugly. And these support closures as well.</p>
+
+

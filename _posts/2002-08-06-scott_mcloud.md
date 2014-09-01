@@ -1,0 +1,13 @@
+---
+layout: post
+title: "scott mcloud"
+---
+
+
+
+For some reason, <a href="http://www.salon.com/comics/lay/2002/08/06/lay/index.html">this comic</a> reminded me of <a href="http://www.amazon.com/exec/obidos/ASIN/006097625X/">Understanding Comics</a>, which is a great read even if you don't read (or like) comic books. (The author's <a href="http://www.comicbookresources.com/columns/zot/">Zot!</a> was one of my favorites back in the day.)
+
+
+<p><em>(Originally posted <a href="http://use.perl.org/~lachoy/journal/6932">elsewhere</a>)</em></p>
+
+

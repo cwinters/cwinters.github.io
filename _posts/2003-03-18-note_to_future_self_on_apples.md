@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Note to future self on Apples"
+---
+
+
+
+Chris: Do not get an iBook. Do not get a TiBook. Do not be swayed by their sexy shells and interfaces, that they're unix and have a great battery life, that all the c00l hackers have one. Everywhere I look (and probably everywhere you look too, if you can keep your rose-colored glasses off for a bit) people are writing about them breaking down: trouble with the screen is the big one, but there are others. DO NOT BE SWAYED.
+
+

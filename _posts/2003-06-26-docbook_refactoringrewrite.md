@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Docbook refactoring/rewrite"
+---
+
+
+
+Just a few links for later reading (gee, I should have a wiki for this...). This isn't "docbook sucks, let's use foo instead" from some newbie. Norman Walsh is thinking about cruft and how useful it is to add/modify rather than redo.
+
+<p><ul>
+  <li><a href="http://norman.walsh.name/2003/05/21/docbook">Ruminations on DocBook V.next</a></li>
+  <li><a href="http://norman.walsh.name/2003/05/29/moredocbook">More Ruminations on DocBook</a></li>
+  <li><a href="http://www.xmlhack.com/read.php?item=1990">Scrapping DocBook</a></li>
+</ul>
+
+

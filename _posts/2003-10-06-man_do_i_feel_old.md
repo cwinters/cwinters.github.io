@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Man do I feel old"
+---
+
+
+
+...just looking at all the folks on the <a href="http://www.intellij.com/about/team">Jetbrains team</a>. (Makers of <a href="http://www.intellij.com/idea">IDEA</a> if you're not already drinking the kool-aid.) And the worst part is: the difference between me and cutting-edge tech companies is only going to get more pronounced as time goes on.
+
+

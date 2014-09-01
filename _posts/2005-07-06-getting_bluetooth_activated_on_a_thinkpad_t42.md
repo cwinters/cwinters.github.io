@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Getting bluetooth activated on a ThinkPad T42"
+---
+
+
+
+It took me a while to find this so I might as well blog it: to turn on the Bluetooth transmitter in a ThinkPad T42 hit <tt>Fn-F5</tt> and on the resulting screen click the 'Turn on' button next to the Bluetooth radio. It's the first time I've seen that key combo, and I don't know why they didn't have any mention of this or the radio in the ThinkPad configuration app.
+
+<p>Once I got it up, getting a 'hello world' J2ME app running was a matter of copying a JAR to my phone, cool. (Experienced mobile developers are probably snorting in disdain, but it's all new to me...)
+
+

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Car troubles update"
+---
+
+
+
+<p>
+Good news: the Saturn dealership <a href="http://www.dayauto.com/loc-saturnwestliberty/index.asp">down the street</a> took care of business, replacing the intermediate shaft assembly. And they did it in less than a day! I was expecting a call most of the day that would start, "Sorry, but..." Instead I got a voicemail that said: "Your car's ready, we're open until 9. Have a nice day." Yes!
+</p>
+
+<p>Fortunately we got the extended warranty when we <a href="/2001/11/04/new_car_plus_primary_key_wrangling.html">got the car</a> over a year ago so we didn't have to drop a dime. This is a smart thing to get if you're buying used, IMO. (Well, if you're buying used and you don't know jack about cars.) I got an interesting explanation from my <a href="http://mark.denovich.org/">coworker</a> about front-wheel drive transmissions today, but if you asked me to repeat it I'd be able to barf up at most 10 percent of it. I have very little mechanical aptitude, which is weird because my dad could have inspired MacGyver.</p>
+
+

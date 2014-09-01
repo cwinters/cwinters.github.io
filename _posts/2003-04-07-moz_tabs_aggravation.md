@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Moz tabs aggravation"
+---
+
+
+
+I love Mozilla, but who placed 'Close Tab' <b>right above</b> 'Close Other Tabs' on the tab context-popup? They're exact opposites but they're only millimeters apart. Ack! To take care of it: just have the 'x' to close the tab right on the tab, just like Galeon does. (Or at least it did: I haven't used it for over a year.)
+
+

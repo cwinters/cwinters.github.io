@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Holding office: if it were easy, everyone would do it"
+---
+
+
+
+<p>Barb and I were talking the other night about the runup to the Iraq war, how the administration made it so difficult for people to vote against the war by conflating Iraq with terrorism (and 9/11). Barb said, "It's a tough vote, but that's their job. That's what they're there to do."</p>
+
+<p>And I drew an analogy: "Politicians should think of their jobs like professional football players: in any game someone could roll on top of you oddly and your career could be over. Nobody thinks of playing football for 50 years." I know there are benefits to seniority, to knowing how the system works. But if they make you too timid to speak your mind, to take a stand, are they worth it?</p>
+
+

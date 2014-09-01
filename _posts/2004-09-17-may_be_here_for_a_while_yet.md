@@ -1,0 +1,25 @@
+---
+layout: post
+title: "May be here for a while yet..."
+---
+
+
+
+From <a href="http://www.kdka.com/traffic/">KDKA Traffic</a>:
+
+<pre>
+MUD SLIDE PARKWAY EAST INBOUND AT SQUIRREL HILL TUNNELS. 
+RIGHT LANE BLOCKED....TRAFFIC BACKING TO CHURCHILL.
+</pre>
+
+<p>Also:</p>
+
+<pre>
+ALLEGHENY COUNTY --INCIDENT . A STATE OF EMERGENCY HAS BEEN 
+DECLARED IN ALLEGHENY COUNTY....EMERGENCY CREWS ARE TELLING 
+PEOPLE TO STAY OFF OF THE ROADWAYS....
+</pre>
+
+<p>...uh-oh.</p>
+
+

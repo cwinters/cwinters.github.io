@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Great refactoring story"
+---
+
+
+
+Found on the <a href="http://groups.yahoo.com/group/refactoring/">refactoring mailing list</a>: how the folks behind Sims Online used refactoring to make their deadlines. Great success story. (<a href="http://gamespot.com/gamespot/features/pc/simsonline/">Main article</a>; <a href="http://gamespot.com/gamespot/features/pc/simsonline/6.html">start of refactoring discussion</a>)
+
+

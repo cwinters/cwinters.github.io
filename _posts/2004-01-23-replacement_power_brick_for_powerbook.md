@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Replacement power brick for PowerBook"
+---
+
+
+
+For future reference -- DevDepot has a <a href="http://www.devdepot.com/description.html?pcode=HMCG4AD">replacement brick</a> for when the original Apple brick <a href="http://macslash.org/article.pl?sid=04/01/22/1243206&mode=nested">shorts out</a> after continued use. The cable between the brick and the computer seems to my entirely untrained eyes to be thinner than necessary and holds its shape too easily, which indicates that it may be putting too much stress on the internal wires.
+
+

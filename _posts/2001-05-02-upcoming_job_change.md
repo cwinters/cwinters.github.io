@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Upcoming job change"
+---
+
+
+
+<p>Another job change is in the future. I'll be working for
+myself -- I grabbed the domain name warefor.com just because
+it sounded cool in a development sense, marketing sense and
+old english sense. Working primarily on
+<a href="http://www.advogato.org/proj/OpenInteract/">OpenInteract</a> and implementation projects, which
+is excellent. OI development has been stalled for a few
+weeks because I'm trying to get a life, so this will
+kickstart all that.
+
+<p>More later...
+
+<p><em>(Originally posted <a href="http://www.advogato.org/person/cwinters/diary.html?start=51">elsewhere</a>)</em></p>
+
+

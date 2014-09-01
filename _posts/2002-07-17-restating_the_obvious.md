@@ -1,0 +1,15 @@
+---
+layout: post
+title: "restating the obvious"
+---
+
+
+
+<p>Moving sucks. I want to get rid of everything, everything. I think I'll only need two pots for cooking, along with two spices, plates, cups, forks, knives and spoons. I only need a chef's knife to chop, one mug for coffee and one book to read. One chair for sitting, one candle for lighting, and one shirt for wearing. Blegh.</p>
+
+<p>On the plus side, we gave away seven boxes of books, seven or eight sacks of clothes and a few other miscellany to a local vets org. We were too lazy to track <a href="http://www.tnauk.org.uk/VisualSite/FundraisingSub/1998Sub/Apr.htm">everything</a> we gave away, but it's good karma.</p>
+
+<p>
+<p><em>(Originally posted <a href="http://use.perl.org/~lachoy/journal/6420">elsewhere</a>)</em></p>
+
+

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Insurance? I'm sorry..."
+---
+
+
+
+<a href="http://www.washingtonpost.com/wp-dyn/articles/A2576-2003Mar9.html">Taking a Risk in Making a Claim</a> - So insurance companies are happy to <b>take</b> your money, but when you actually ask for your money back (in the form of a claim) they'll pay it and suddenly drop you like you've asked for a kidney from their grandmother. I understand the economy is tight and it's tough for them to make money on the premiums since the stock market blows chunks, but isn't this violating a basic social contract between the insurer and insured? Even scarier is how often this happens with health insurance as well...
+
+

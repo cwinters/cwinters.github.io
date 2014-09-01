@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Javadoc: linking to a package"
+---
+
+
+
+<p>We're using package-level javadoc a lot in our new project, thinking that design discussions, tradeoffs and usage examples are best kept as close to the code as possible. And since it's just an HTML file you can be fairly expressive, and you have the benefit of a pre-processor to resolve links for you.</p>
+
+<p>But I didn't see anywhere the fact that you can <tt>{@link}</tt> to another package. The obvious implementation actually works in this case:</p>
+
+<pre class="sourceCode">
+This packages uses a number of the classes 
+from {@link com.vocollecthealthcare.mypackage}...
+</pre>
+
+

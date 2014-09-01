@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ashamed to admit: I liked Alien vs Predator"
+---
+
+
+
+When it came out I remember reading around that <a href="http://imdb.com/title/tt0370263/">Alien vs Predator</a> was one of the Worst. Movies. Ever. And yeah, the title is just stupid ("AVP"?), the story and setup were contrived and that acting was mediocre at best. But it's a comic book! You're really there to see aliens duke it out, just like you saw Jurassic Park to see the lawyer get snatched up in the jaws of the Tyrannosaurus. So maybe it was the cellar-dwelling expectations, but it was actually pretty fun. That <a href="http://imdb.com/name/nm0005125/">Sanaa Lathan</a> is so easy on the eyes didn't hurt either...
+
+

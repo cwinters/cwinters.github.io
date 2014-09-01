@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Wedding photos up"
+---
+
+
+
+Wedding photos are now online! I finally, finally started this up, and we're not even done. These photos were all taken by the excellent photographer Bob Cifone. I'll have a separate page for the best photos taken by the disposable cameras we had at the reception -- there were quite a few!
+
+<p>I'll write some more later, but I just wanted to let everyone know. And adding new photos is really simple, since the thumbnail listing is dynamically generated. So check back for more photos -- we're about 1/3 of the way through the proof book... </p>
+
+

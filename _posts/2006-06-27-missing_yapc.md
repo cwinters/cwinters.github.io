@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Missing YAPC"
+---
+
+
+
+<p>I'm bummed I wasn't able to get to <a href="http://yapcchicago.org/">Chicago</a> this year. (I'm going on a work trip in a few hours.) The talks may or may not have been interesting, but I really miss catching up with all the folks from years past. With beer.</p>
+
+<p>I hope things are running smoothly and that That Guy isn't screwing up anybody's talks!</p>
+
+

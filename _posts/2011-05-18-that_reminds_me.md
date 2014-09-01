@@ -1,0 +1,19 @@
+---
+layout: post
+title: "That reminds me..."
+---
+
+
+
+<p><img src="/images/shit_sandwich.png" width="415" height="310" /></p>
+
+<p>...I need to watch Spinal Tap again. Who are you people who
+<a
+href="http://www.pajiba.com/comment_diversions/the-10-films-people-most-lie-about-seeing-what-classic-movie-have-you-pretended-to-see.php">pretended
+to see it but didn't actually</a>? The mind boggles. That film
+doesn't age for me as many comedies do (Strange Brew for instance
+-- still love it, not the same experience). Other Guest +
+Co. productions are similar in their longevity. May they continue.</p>
+
+
+

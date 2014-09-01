@@ -1,0 +1,10 @@
+---
+layout: post
+title: "New PBS stuff immediately on Netflix"
+---
+
+
+
+<a href="http://www.hackingnetflix.com/netflix/2004/06/pov_films_avail.html">Hacking Netflix</a> notes that PBS/POV documentaries will be immediately available on Netflix instead of having to wait a few months. (POV has a <a href="http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=SVBIZINK3.story&STORY=/www/story/06-08-2004/0002189561&EDATE=TUE+Jun+08+2004,+11:12+AM">release</a> about this too.) This is no big deal for those of you with Tivos, but for the rest of us...
+
+

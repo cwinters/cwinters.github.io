@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Message queue rumblings, response to OI"
+---
+
+
+
+<p>Response so far is pretty decent to <a
+href="http://www.advogato.org/proj/OpenInteract/">OpenInteract</a> -- we
+got a couple of minor patches for SPOPS from one person and
+a potential porter for Postgres as well. Not bad for a
+little more than a week. (I was also psyched to see a
+handful of what I consider to be very smart Perl folks on
+the -dev list.)
+
+<p>I have a number of ideas (and a growing itch) for a
+generalized message queue system in
+Perl -- reading up on this <a
+href="http://java.sun.com/products/jms/">in Java</a> has
+given me lots of ideas. Surprisingly, there doesn't seem to
+be much out there. Message queues seem to solve a lot of
+common problems. But they're probably more complicated than
+I can imagine right now.
+
+<p>In work news, they agreed to let me release my minor <a
+href="http://jakarta.apache.org/ant/">Ant</a> taskdef under
+a BSD license. And we're moving from a client-server (VB-MS
+SQL Server) system to an application  server (EJB)
+environment. And I'm the most experienced Java programmer.
+And I just learned Java three months ago. Fun!
+
+<p><em>(Originally posted <a href="http://www.advogato.org/person/cwinters/diary.html?start=39">elsewhere</a>)</em></p>
+
+

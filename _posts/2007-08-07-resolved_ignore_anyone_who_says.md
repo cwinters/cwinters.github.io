@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Resolved: ignore anyone who says..."
+---
+
+
+
+<p>"face it" when trying to convince someone of anything. As in, "Let's face it, everybody knows that furbles blorbicate way more than they nooble." Declaring a fact correct doesn't make it so</p>
+
+<p>Inspired by <a href="http://www.oreillynet.com/onlamp/blog/2007/08/perl_is_dead_long_live_perl.html">chromatic's recent post</a>, where multiple commenters tried this, like "Face it the main languages used today are Java, C/C++,C#, and Python." or "Face it -- by the time they release it [Perl6] (around the time when Duke Nukem comes out, I'm sure), Ruby will have already overtaken Perl5."</p>
+
+

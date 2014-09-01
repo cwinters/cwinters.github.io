@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Pat myself on the back"
+---
+
+
+
+To implement some new features I upgraded the work installation of <a href="http://openinteract.sourceforge.net/">OpenInteract</a> today. While I've kept my own site up to date with every release, keeping up at work isn't necessary, particularly since maintaining our extranet site is an extremely small part of my job. So the version running was 1.37, almost a full year old.
+
+<p>Since my little brain can't handle remembering something like all the changes made to configuration files in the past year I needed to rely on my own docs. And I was happy to see that the <a href="http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/openinteract/OpenInteract/UPGRADE?rev=1.20&content-type=text/vnd.viewcvs-markup">UPGRADE</a> shipped with the distribution was fully up to the task. It's useful to get reminders like this every once in a while so you don't slack off in maintaining them. </p>
+
+

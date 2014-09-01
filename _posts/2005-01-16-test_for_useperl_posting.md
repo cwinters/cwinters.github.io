@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Test for use.perl posting"
+---
+
+
+
+Responding to <a href="http://www.cwinters.com/news/display/?news_id=3318">recent comments</a> I made a small update to <a href="http://search.cpan.org/dist/OpenInteract2-Observer-UsePerlPost/">OI2::Observer::UsePerlPost</a> to reference images with the ALT text and a link in the mirrored posting.
+
+<p>
+So here's a shot of Barb and me at the New Jersey shore last August:
+<br />
+<img src="http://www.cwinters.com/images/blog/cw_barb_nj_2004_thumb.jpg" 
+         alt="Chris and Barb on the couch" />
+<br clear="all" />
+(<a href="http://www.cwinters.com/images/blog/cw_barb_nj_2004.jpg">view at original size</a>)
+</p>
+
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Different look at administration"
+---
+
+
+
+<a href="http://www.washingtonmonthly.com/features/2001/0209.marshall.html">Confidence Men</a><br>
+This is one of the most infuriating things about the administration: they say "blue is red" and the media starts debating "what is red, really?", whether the liberal media has had a hand in distorting the redness of blue, and how it's antiamerican to declare that blue is blue. (Josh writes the excellent <a href="http://www.talkingpointsmemo.com/">Talking Points Memo</a>.)</p>
+
+<p>(What's PC for 'confidence man'? <a href="http://www.d20system.info/Publisher/Pinnacle_Entertainment_Group_DEADLANDS/PEG1113.php">Huckster</a> is too strong, and <a href="http://www.popsubculture.com/pop/bio_project/jim_thompson.html">grifter</a> implies a certain type of hoodwinking.)</p>
+
+

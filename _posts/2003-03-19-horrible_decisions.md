@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Horrible decisions"
+---
+
+
+
+<a href="http://www.salon.com/opinion/feature/2003/03/19/left/index.html">See no evil</a> - Edward W. Lempinen does a wonderful job of articulating the consequences implicit (but unacknowledged) in many of the antiwar arguments, tracing leftist reactions to war over the last 70 years. I can only imagine if the president had exhibited at least some of this ambivalence he might not have alienated so many people and leaders.
+
+

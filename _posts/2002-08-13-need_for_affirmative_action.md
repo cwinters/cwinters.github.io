@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Need for affirmative action"
+---
+
+
+
+<a href="http://www.washingtonpost.com/wp-dyn/articles/A10429-2002Aug12.html">A Long Road of Broken Promises for Black Farmers</a><br>
+<a href="http://i2i.org/Publications/Op-Eds/Other/op970626.htm">Many people</a> wonder why we still need affirmative action, that supporters confuse equal results with equal opportunity. The problem is that the fundamental infrastructure -- like loans, a network of colleagues to tap for hiring, etc. -- necessary for opportunity needs to be sound. And it ain't. 
+
+
