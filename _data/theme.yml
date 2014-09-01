@@ -1,0 +1,30 @@
+# Theme customization - please change from the defaults!
+
+# Color for top bar, links, etc
+highlight_color: '#3498db'
+# nice green: #1AAB0A 
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: cwinters
+  #bitbucket: philipj
+  #hacker_news: swanson
+  #stackexchange: 348619
+  #stackoverflow: 348619
+  twitter: cwinters
+  #facebook: zuck
+  #tumblr: animalygifs
+  #linkedin: philipjagielski
+  #gplus: 110552447039675960964
+  flickr: cwinters
+
+# "Hi, I'm _______"
+name: Chris Winters
+email: chris@cwinters.com
+tagline: "everybody's on the curve"
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: 
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: false
