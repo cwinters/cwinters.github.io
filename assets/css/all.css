@@ -5,3 +5,20 @@
 {% include css/screen.css %}
 {% include css/layout.css %}
 {% include css/syntax.css %}
+
+/* CW CUSTOMIZATIONS */
+
+form.search {
+    background: transparent;
+    border: none;    
+}    
+form.search input.textbox {
+    margin: 0; padding: 8px 2px 0 2px;
+    width: 150px;
+    float: left;
+}
+form.search input.button {
+    padding: 2px 5px; 
+    border: none;    
+    float: right;
+}
