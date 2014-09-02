@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Attack of the POJOs"
 ---

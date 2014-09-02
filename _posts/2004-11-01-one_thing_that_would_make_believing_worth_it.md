@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "One thing that would make believing worth it"
 ---

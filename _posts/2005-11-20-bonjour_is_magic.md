@@ -1,4 +1,5 @@
 ---
+tags: zeroconf
 layout: post
 title: "Bonjour is magic!"
 ---

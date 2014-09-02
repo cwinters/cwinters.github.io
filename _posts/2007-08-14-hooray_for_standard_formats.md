@@ -1,4 +1,5 @@
 ---
+tags: ide scm standards
 layout: post
 title: "Hooray for standard formats!"
 ---

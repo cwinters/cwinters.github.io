@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "how did they keep a straight face?"
 ---

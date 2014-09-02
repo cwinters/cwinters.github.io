@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Martin Fowler: Humane Programming"
 ---

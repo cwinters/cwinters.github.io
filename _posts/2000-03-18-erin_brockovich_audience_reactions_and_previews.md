@@ -1,4 +1,5 @@
 ---
+tags: movies
 layout: post
 title: "Erin Brockovich, audience reactions and previews"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "People will compete at anything"
 ---

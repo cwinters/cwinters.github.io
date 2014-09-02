@@ -1,4 +1,5 @@
 ---
+tags: thinkpad laptop hardware
 layout: post
 title: "A little bit of air"
 ---

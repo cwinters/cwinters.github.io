@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Language inventor or serial killer?"
 ---

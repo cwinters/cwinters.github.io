@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Message queue rumblings, response to OI"
 ---

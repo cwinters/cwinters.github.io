@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Changing the rules as you go"
 ---

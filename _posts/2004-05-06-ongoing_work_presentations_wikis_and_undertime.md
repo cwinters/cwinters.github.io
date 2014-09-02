@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Ongoing work: presentations, wikis and undertime"
 ---

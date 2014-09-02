@@ -1,4 +1,5 @@
 ---
+tags: programming writing
 layout: post
 title: "Projects are projects"
 ---

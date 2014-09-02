@@ -1,4 +1,5 @@
 ---
+tags: gentoo mac
 layout: post
 title: "A few mac notes"
 ---

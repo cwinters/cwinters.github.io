@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "What's it like to have a tapeworm?"
 ---

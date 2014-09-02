@@ -1,4 +1,5 @@
 ---
+tags: documentation java
 layout: post
 title: "Wrestling with javadoc"
 ---

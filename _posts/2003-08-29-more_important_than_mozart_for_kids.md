@@ -1,4 +1,5 @@
 ---
+tags: education kids
 layout: post
 title: "More important than Mozart for kids..."
 ---

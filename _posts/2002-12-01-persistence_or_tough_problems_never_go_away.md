@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Persistence (or: tough problems never go away)"
 ---

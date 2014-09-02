@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "I thought POP3 was dying..."
 ---

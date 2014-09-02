@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "Lameness of media, part 839"
 ---

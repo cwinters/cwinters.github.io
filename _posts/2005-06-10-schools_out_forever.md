@@ -1,4 +1,5 @@
 ---
+tags: tutoring
 layout: post
 title: "School's out for-ever"
 ---

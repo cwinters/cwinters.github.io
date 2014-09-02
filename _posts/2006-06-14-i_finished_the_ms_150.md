@@ -1,4 +1,5 @@
 ---
+tags: bicycle ms150
 layout: post
 title: "I finished the MS 150"
 ---

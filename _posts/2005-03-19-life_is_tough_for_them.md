@@ -1,4 +1,5 @@
 ---
+tags: cats
 layout: post
 title: "Life is tough for them..."
 ---

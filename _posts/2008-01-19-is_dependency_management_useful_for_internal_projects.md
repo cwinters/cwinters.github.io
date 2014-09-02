@@ -1,4 +1,5 @@
 ---
+tags: ant build maven scm
 layout: post
 title: "Is dependency management useful for internal projects?"
 ---

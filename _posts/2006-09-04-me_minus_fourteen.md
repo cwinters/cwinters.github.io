@@ -1,4 +1,5 @@
 ---
+tags: history nostalgia personal
 layout: post
 title: "Me minus fourteen"
 ---

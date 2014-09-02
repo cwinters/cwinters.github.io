@@ -1,4 +1,5 @@
 ---
+tags: traveling work
 layout: post
 title: "Traveling impressions, trip summary"
 ---

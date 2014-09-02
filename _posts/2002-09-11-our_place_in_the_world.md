@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Our place in the world"
 ---

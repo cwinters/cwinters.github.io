@@ -1,4 +1,5 @@
 ---
+tags: api datetime design java programming
 layout: post
 title: "Dates and times, and specification examples"
 ---

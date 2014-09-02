@@ -1,4 +1,5 @@
 ---
+tags: cars walmart
 layout: post
 title: "Power of purchasing"
 ---

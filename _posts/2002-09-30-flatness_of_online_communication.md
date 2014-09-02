@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Flatness of online communication"
 ---

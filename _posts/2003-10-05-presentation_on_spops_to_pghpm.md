@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Presentation on SPOPS to pgh.pm"
 ---

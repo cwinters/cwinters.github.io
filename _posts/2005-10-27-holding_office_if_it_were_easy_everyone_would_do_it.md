@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Holding office: if it were easy, everyone would do it"
 ---

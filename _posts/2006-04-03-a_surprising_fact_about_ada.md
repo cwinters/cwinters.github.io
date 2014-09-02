@@ -1,4 +1,5 @@
 ---
+tags: ada language programming
 layout: post
 title: "A surprising fact about Ada"
 ---

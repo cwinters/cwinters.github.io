@@ -1,4 +1,5 @@
 ---
+tags: qcon conference logistics presentation rest scala
 layout: post
 title: "QCon 2009: Wrapup"
 ---

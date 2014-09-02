@@ -1,4 +1,5 @@
 ---
+tags: pittsburgh voting
 layout: post
 title: "Allegheny County Elections: everything but the time"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: house
 layout: post
 title: "Just a day and a half away, plus some schadenfreude"
 ---

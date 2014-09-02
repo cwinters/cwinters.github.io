@@ -1,4 +1,5 @@
 ---
+tags: clothes
 layout: post
 title: "Proof that I have a jacket"
 ---

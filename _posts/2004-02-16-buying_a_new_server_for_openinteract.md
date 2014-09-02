@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Buying a new server for OpenInteract"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: movies review
 layout: post
 title: "Little Miss Sunshine"
 ---

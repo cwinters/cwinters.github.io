@@ -1,4 +1,5 @@
 ---
+tags: fun sex
 layout: post
 title: "'Everlasting gobstopper'"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: java perl programming testing
 layout: post
 title: "Shuffling between Java and Perl: Testing libraries"
 ---

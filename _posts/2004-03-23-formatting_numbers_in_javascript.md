@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Formatting numbers in Javascript"
 ---

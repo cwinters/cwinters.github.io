@@ -1,4 +1,5 @@
 ---
+tags: journalism media pittsburgh
 layout: post
 title: "Channel swapping?"
 ---

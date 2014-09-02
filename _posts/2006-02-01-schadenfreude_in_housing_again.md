@@ -1,4 +1,5 @@
 ---
+tags: house pittsburgh
 layout: post
 title: "Schadenfreude in housing (again)"
 ---

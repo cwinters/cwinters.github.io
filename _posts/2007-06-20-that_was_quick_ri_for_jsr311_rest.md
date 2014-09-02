@@ -1,4 +1,5 @@
 ---
+tags: java rest
 layout: post
 title: "That was quick: RI for JSR-311 (REST)"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: family wedding
 layout: post
 title: "Old photos"
 ---

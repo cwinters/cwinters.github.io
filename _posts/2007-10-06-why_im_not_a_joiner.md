@@ -1,4 +1,5 @@
 ---
+tags: personal quote
 layout: post
 title: "Why I'm not a joiner"
 ---

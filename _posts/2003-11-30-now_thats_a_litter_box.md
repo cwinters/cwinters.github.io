@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Now that's a litter box!"
 ---

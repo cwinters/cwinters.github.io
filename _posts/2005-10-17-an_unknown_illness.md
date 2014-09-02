@@ -1,4 +1,5 @@
 ---
+tags: medical
 layout: post
 title: "'An unknown illness...'"
 ---

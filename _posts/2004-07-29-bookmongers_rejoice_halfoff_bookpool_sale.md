@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Bookmongers rejoice: half-off Bookpool sale"
 ---

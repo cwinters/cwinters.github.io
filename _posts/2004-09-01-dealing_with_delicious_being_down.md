@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Dealing with del.icio.us being down"
 ---

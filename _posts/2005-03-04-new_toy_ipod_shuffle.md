@@ -1,4 +1,5 @@
 ---
+tags: ipod technology
 layout: post
 title: "New toy: ipod shuffle"
 ---

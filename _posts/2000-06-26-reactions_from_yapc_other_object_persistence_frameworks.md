@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Reactions from YAPC, other object persistence frameworks"
 ---

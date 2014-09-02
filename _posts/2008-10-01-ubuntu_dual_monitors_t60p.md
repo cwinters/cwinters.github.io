@@ -1,4 +1,5 @@
 ---
+tags: ubuntu linux thinkpad
 layout: post
 title: "Dual Monitors with Hardy Heron + T60p"
 ---

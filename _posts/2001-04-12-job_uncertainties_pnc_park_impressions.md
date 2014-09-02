@@ -1,4 +1,5 @@
 ---
+tags: pittsburgh work
 layout: post
 title: "Job uncertainties, PNC Park impressions"
 ---

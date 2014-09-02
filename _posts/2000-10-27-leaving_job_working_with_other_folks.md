@@ -1,4 +1,5 @@
 ---
+tags: telecommuting work
 layout: post
 title: "Leaving job, working with other folks"
 ---

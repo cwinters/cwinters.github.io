@@ -1,4 +1,5 @@
 ---
+tags: food
 layout: post
 title: "Men in the kitchen"
 ---

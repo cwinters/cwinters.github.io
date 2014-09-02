@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Religion and the government: missing the point"
 ---

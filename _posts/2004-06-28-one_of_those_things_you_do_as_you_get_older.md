@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "One of those things you do as you get older..."
 ---

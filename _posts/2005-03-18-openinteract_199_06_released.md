@@ -1,4 +1,5 @@
 ---
+tags: oi2
 layout: post
 title: "OpenInteract 1.99_06 released"
 ---

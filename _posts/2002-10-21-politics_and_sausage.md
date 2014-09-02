@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Politics and sausage"
 ---

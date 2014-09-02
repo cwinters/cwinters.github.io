@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "To remember when repairing an old machine offsite"
 ---

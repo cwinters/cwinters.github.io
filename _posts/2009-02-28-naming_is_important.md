@@ -1,4 +1,5 @@
 ---
+tags: programming naming
 layout: post
 title: "Naming is important"
 ---

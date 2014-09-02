@@ -1,4 +1,5 @@
 ---
+tags: usability win32
 layout: post
 title: "Removing 'My Bluetooth Places': piece of cake!"
 ---

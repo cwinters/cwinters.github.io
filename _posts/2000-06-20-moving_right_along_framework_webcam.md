@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Moving right along (framework, webcam)"
 ---

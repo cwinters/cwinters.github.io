@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Little voice in your head"
 ---

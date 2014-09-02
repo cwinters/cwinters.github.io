@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "Replacement power brick for PowerBook"
 ---

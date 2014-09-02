@@ -1,4 +1,5 @@
 ---
+tags: ella madison reunion travel vacation
 layout: post
 title: "Reunion, and visiting Kira (and Julie and Paul)"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Framework as CGI, error reporting scheme"
 ---

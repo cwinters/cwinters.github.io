@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "0 to 60 in 3.7 sec, with electric"
 ---

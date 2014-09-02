@@ -1,4 +1,5 @@
 ---
+tags: blog cwinters.com
 layout: post
 title: "Comments on"
 ---

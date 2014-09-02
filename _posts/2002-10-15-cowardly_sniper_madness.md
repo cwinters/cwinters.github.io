@@ -1,4 +1,5 @@
 ---
+tags: terrorism
 layout: post
 title: "Cowardly sniper madness"
 ---

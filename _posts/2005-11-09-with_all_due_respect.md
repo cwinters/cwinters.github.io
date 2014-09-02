@@ -1,4 +1,5 @@
 ---
+tags: doublespeak dumb
 layout: post
 title: "'With all due respect'"
 ---

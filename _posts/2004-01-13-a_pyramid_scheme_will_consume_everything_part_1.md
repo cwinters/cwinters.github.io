@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "A pyramid scheme will consume everything, part 1"
 ---

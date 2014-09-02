@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Installing Subversion plugin for IDEA 4.0 on Win32"
 ---

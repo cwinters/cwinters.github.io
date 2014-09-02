@@ -1,4 +1,5 @@
 ---
+tags: expat
 layout: post
 title: "Notes from an expat"
 ---

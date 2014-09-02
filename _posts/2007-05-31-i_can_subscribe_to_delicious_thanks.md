@@ -1,4 +1,5 @@
 ---
+tags: blog hate
 layout: post
 title: "I can subscribe to delicious, thanks"
 ---

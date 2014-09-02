@@ -1,4 +1,5 @@
 ---
+tags: geology greece
 layout: post
 title: "Santorini explosion bigger than previously thought?"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: embedded
 layout: post
 title: "Common embedded processor"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: sports
 layout: post
 title: "Here we go Steelers, here we DOH!"
 ---

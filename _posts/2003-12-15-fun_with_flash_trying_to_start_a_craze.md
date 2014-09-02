@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Fun with flash, trying to start a craze"
 ---

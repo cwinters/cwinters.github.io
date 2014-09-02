@@ -1,4 +1,5 @@
 ---
+tags: gui java spring
 layout: post
 title: "Spring Console beta released"
 ---

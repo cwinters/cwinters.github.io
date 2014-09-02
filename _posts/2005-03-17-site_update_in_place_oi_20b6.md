@@ -1,4 +1,5 @@
 ---
+tags: cwinters.com oi2
 layout: post
 title: "Site update in place: OI 2.0b6"
 ---

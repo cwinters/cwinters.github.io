@@ -1,4 +1,5 @@
 ---
+tags: bicycle ebay
 layout: post
 title: "Missed the bike, sniped!"
 ---

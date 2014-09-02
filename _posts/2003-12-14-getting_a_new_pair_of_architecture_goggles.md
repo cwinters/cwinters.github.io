@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Getting a new pair of architecture goggles"
 ---

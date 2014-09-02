@@ -1,4 +1,5 @@
 ---
+tags: music
 layout: post
 title: "Work music: Explosions in the Sky"
 ---

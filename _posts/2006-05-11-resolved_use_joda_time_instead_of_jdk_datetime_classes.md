@@ -1,4 +1,5 @@
 ---
+tags: datetime java
 layout: post
 title: "Resolved: Use Joda Time instead of JDK datetime classes"
 ---

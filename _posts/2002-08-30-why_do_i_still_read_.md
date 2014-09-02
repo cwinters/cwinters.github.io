@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Why do I still read /.?"
 ---

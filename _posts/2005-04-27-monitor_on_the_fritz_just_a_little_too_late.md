@@ -1,4 +1,5 @@
 ---
+tags: hardware mac
 layout: post
 title: "Monitor on the fritz, just a little too late..."
 ---

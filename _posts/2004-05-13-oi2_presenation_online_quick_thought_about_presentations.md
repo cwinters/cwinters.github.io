@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "OI2 presenation online, quick thought about presentations"
 ---

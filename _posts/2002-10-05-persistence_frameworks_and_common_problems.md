@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Persistence frameworks and common problems"
 ---

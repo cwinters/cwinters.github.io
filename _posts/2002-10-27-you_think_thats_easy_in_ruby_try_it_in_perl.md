@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "You think that's easy in Ruby? Try it in Perl..."
 ---

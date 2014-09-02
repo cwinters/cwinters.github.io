@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Are they really FUNyuns?"
 ---

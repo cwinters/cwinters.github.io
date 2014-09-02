@@ -1,4 +1,5 @@
 ---
+tags: qcon conference agile architect
 layout: post
 title: "QCon 2009: Adventures of an Agile Architect"
 ---

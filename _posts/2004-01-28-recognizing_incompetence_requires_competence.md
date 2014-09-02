@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "Recognizing incompetence requires competence"
 ---

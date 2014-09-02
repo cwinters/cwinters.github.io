@@ -1,4 +1,5 @@
 ---
+tags: airlines technology travel
 layout: post
 title: "Flying off to Germany..."
 ---

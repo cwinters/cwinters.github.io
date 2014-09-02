@@ -1,4 +1,5 @@
 ---
+tags: annoyances starwars voice
 layout: post
 title: "Power of voices"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: feed government
 layout: post
 title: "Consumer Product Safety Commission has feeds"
 ---

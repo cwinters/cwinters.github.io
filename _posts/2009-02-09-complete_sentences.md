@@ -1,4 +1,5 @@
 ---
+tags: rhetoric barackobama facebook
 layout: post
 title: "Complete sentences"
 ---

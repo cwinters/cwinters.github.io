@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "Fear of teenage violence run amok"
 ---

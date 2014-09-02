@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Casting null and failing fast"
 ---

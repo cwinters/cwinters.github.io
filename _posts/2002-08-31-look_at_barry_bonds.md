@@ -1,4 +1,5 @@
 ---
+tags: sports
 layout: post
 title: "Look at Barry Bonds"
 ---

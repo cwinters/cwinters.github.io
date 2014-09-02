@@ -1,4 +1,5 @@
 ---
+tags: gambling
 layout: post
 title: "Addictive personalities"
 ---

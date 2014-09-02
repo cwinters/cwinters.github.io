@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Trying to make the web better"
 ---

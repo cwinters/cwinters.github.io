@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Excellent use.perl posts"
 ---

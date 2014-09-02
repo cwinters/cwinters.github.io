@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Imported some old stuff"
 ---

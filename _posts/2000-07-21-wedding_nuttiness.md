@@ -1,4 +1,5 @@
 ---
+tags: wedding
 layout: post
 title: "Wedding nuttiness"
 ---

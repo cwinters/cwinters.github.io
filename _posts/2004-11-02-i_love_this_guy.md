@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "I love this guy"
 ---

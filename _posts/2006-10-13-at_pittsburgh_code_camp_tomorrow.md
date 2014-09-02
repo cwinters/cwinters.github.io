@@ -1,4 +1,5 @@
 ---
+tags: java pittsburgh usergroup
 layout: post
 title: "At Pittsburgh Code Camp tomorrow"
 ---

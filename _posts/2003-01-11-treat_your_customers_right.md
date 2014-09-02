@@ -1,4 +1,5 @@
 ---
+tags: management
 layout: post
 title: "Treat your customers right"
 ---

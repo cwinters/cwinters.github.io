@@ -1,4 +1,5 @@
 ---
+tags: oi2 perl
 layout: post
 title: "Test for use.perl posting"
 ---

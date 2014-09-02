@@ -1,4 +1,5 @@
 ---
+tags: linux thinkpad ubuntu
 layout: post
 title: "Upgrading to Hardy"
 ---

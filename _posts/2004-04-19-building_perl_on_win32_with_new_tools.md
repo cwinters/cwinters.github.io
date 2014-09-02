@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Building Perl on Win32 with new tools"
 ---

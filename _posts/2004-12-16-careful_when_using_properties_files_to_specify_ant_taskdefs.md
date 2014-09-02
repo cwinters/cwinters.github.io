@@ -1,4 +1,5 @@
 ---
+tags: java scm
 layout: post
 title: "Careful when using properties files to specify Ant taskdefs"
 ---

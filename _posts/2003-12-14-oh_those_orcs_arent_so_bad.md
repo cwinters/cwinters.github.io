@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Oh, those orcs aren't so bad"
 ---

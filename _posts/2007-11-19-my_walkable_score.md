@@ -1,4 +1,5 @@
 ---
+tags: community dormont pittsburgh
 layout: post
 title: "My walkable score"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "The point of that last one..."
 ---

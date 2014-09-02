@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "No extra password entry with Samba 3.0"
 ---

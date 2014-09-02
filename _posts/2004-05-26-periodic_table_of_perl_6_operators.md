@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Periodic table of Perl 6 operators"
 ---

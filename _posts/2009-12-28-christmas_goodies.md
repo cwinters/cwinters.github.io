@@ -1,4 +1,5 @@
 ---
+tags: books music ella christmas holiday
 layout: post
 title: "Christmas goodies"
 ---

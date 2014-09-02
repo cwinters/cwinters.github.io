@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Rewind last few Java entries"
 ---

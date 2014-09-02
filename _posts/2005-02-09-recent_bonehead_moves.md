@@ -1,4 +1,5 @@
 ---
+tags: bicycle dumb
 layout: post
 title: "Recent bonehead moves"
 ---

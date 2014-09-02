@@ -1,4 +1,5 @@
 ---
+tags: oi2 perl releases
 layout: post
 title: "Almost got another release out"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: email imap server
 layout: post
 title: "Possibly my first easy Cyrus IMAP upgrade..."
 ---

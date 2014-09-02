@@ -1,4 +1,5 @@
 ---
+tags: soa webservices
 layout: post
 title: "SOA motivations"
 ---

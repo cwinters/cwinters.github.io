@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "Finally, ethiopian food in Pittsburgh"
 ---

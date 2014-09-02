@@ -1,4 +1,5 @@
 ---
+tags: econ
 layout: post
 title: "Insurance? I'm sorry..."
 ---

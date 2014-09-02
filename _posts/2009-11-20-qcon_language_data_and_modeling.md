@@ -1,4 +1,5 @@
 ---
+tags: qcon conference parsing programming
 layout: post
 title: "QCon 2009: Codename 'M': Language, Data and Modeling"
 ---

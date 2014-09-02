@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "When you really, really, really want to be anonymous"
 ---

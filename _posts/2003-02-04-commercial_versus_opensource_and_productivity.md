@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Commercial versus open-source and productivity"
 ---

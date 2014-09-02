@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Pure-perl SMTP server"
 ---

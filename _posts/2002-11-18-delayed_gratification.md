@@ -1,4 +1,5 @@
 ---
+tags: ecommerce politics
 layout: post
 title: "Delayed gratification"
 ---

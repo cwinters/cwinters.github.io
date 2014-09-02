@@ -1,4 +1,5 @@
 ---
+tags: education politics
 layout: post
 title: "Teaching certification"
 ---

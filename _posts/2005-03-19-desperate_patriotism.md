@@ -1,4 +1,5 @@
 ---
+tags: politics religion
 layout: post
 title: "Desperate patriotism?"
 ---

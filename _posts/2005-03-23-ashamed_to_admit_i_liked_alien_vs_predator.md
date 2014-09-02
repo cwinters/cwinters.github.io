@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "Ashamed to admit: I liked Alien vs Predator"
 ---

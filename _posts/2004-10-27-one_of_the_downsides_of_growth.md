@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "One of the downsides of growth..."
 ---

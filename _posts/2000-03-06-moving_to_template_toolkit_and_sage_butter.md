@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Moving to Template Toolkit and sage butter"
 ---

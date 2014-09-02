@@ -1,4 +1,5 @@
 ---
+tags: games
 layout: post
 title: "Replaying the Ancient Art of War"
 ---

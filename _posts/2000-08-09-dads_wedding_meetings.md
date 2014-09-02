@@ -1,4 +1,5 @@
 ---
+tags: oi2 wedding
 layout: post
 title: "Dad's wedding, meetings"
 ---

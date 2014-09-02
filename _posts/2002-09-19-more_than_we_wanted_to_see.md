@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "More than we wanted to see"
 ---

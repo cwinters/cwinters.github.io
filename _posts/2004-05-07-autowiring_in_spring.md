@@ -1,4 +1,5 @@
 ---
+tags: config java spring
 layout: post
 title: "Autowiring in Spring"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: kickass programming technology
 layout: post
 title: "Conquering"
 ---

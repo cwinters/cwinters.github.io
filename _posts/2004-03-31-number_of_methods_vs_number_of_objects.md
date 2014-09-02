@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Number of methods vs. number of objects"
 ---

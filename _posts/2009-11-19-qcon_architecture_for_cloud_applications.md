@@ -1,4 +1,5 @@
 ---
+tags: qcon conference cloudcomputing architecture design
 layout: post
 title: "QCon 2009: Software Architecture for Cloud Applications"
 ---

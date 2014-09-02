@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Strong O/R candidate: Hibernate"
 ---

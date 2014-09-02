@@ -1,4 +1,5 @@
 ---
+tags: solaris vpn
 layout: post
 title: "Getting vpnc to work on OpenSolaris"
 ---

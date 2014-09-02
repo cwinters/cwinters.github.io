@@ -1,4 +1,5 @@
 ---
+tags: browser javascript xml
 layout: post
 title: "More on XML with JavaScript: JSXML does in a pinch"
 ---

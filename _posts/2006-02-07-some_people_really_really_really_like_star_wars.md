@@ -1,4 +1,5 @@
 ---
+tags: groups media
 layout: post
 title: "Some people really, really, really like Star Wars"
 ---

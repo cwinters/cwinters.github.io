@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Learning to use dynamic mocks"
 ---

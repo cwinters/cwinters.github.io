@@ -1,4 +1,5 @@
 ---
+tags: hate
 layout: post
 title: "More things I can do without"
 ---

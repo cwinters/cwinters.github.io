@@ -1,4 +1,5 @@
 ---
+tags: design oi2 perl
 layout: post
 title: "Using REST params in OI2"
 ---

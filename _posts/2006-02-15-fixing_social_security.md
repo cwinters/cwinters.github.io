@@ -1,4 +1,5 @@
 ---
+tags: fun politics
 layout: post
 title: "Fixing Social Security"
 ---

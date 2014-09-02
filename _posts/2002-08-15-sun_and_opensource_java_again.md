@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Sun and opensource Java (again)"
 ---

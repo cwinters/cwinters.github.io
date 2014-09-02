@@ -1,4 +1,5 @@
 ---
+tags: econ work
 layout: post
 title: "Your sniffles are costing me money!"
 ---

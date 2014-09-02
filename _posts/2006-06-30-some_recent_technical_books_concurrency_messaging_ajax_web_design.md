@@ -1,4 +1,5 @@
 ---
+tags: ajax books css java messaging programming
 layout: post
 title: "Some recent technical books: Concurrency, Messaging, Ajax, Web design"
 ---

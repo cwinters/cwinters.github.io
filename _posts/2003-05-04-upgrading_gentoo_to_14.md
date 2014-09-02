@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Upgrading Gentoo to 1.4"
 ---

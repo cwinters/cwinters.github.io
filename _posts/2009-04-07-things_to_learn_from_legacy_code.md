@@ -1,4 +1,5 @@
 ---
+tags: legacy programming learning
 layout: post
 title: "Things to learn from legacy code"
 ---

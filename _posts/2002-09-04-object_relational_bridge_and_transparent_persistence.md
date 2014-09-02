@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Object Relational Bridge and 'transparent persistence'"
 ---

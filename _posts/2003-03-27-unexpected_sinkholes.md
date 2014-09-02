@@ -1,4 +1,5 @@
 ---
+tags: environment
 layout: post
 title: "Unexpected sinkholes"
 ---

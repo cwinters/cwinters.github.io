@@ -1,4 +1,5 @@
 ---
+tags: blogging politics
 layout: post
 title: "One reason I don't post as often"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Sourceforge to move to DB2 (and WebSphere?)"
 ---

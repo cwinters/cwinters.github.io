@@ -1,4 +1,5 @@
 ---
+tags: baby
 layout: post
 title: "Baby update: nothing yet..."
 ---

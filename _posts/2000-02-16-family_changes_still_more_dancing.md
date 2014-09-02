@@ -1,4 +1,5 @@
 ---
+tags: cwinters.com dancing wedding
 layout: post
 title: "Family changes, still MORE dancing"
 ---

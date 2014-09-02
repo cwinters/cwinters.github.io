@@ -1,4 +1,5 @@
 ---
+tags: qcon conference soa scalability performance serialization
 layout: post
 title: "QCon 2009: SOA at eBay"
 ---

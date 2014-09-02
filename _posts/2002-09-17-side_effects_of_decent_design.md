@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Side effects of decent design"
 ---

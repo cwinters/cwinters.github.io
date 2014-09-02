@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "You're Soaking in It!"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: badsoftware win32
 layout: post
 title: "Norton Antivirus message caused by moving shortcuts"
 ---

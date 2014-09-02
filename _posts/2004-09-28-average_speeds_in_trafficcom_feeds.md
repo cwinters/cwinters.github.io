@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "Average speeds in traffic.com feeds"
 ---

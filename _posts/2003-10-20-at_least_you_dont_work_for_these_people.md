@@ -1,4 +1,5 @@
 ---
+tags: work
 layout: post
 title: "At least you don't work for these people"
 ---

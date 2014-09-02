@@ -1,4 +1,5 @@
 ---
+tags: conference sandiego
 layout: post
 title: "Random HIMSS and San Diego stuff"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Guest to Pittsburgh.PM next week"
 ---

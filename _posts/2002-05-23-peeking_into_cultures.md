@@ -1,4 +1,5 @@
 ---
+tags: dating dumb
 layout: post
 title: "Peeking into cultures"
 ---

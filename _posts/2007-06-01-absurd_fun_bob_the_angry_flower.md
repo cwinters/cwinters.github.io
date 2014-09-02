@@ -1,4 +1,5 @@
 ---
+tags: comics
 layout: post
 title: "Absurd fun: Bob the Angry Flower"
 ---

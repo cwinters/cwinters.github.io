@@ -1,4 +1,5 @@
 ---
+tags: baby death living
 layout: post
 title: "'A whole library had burned down'"
 ---

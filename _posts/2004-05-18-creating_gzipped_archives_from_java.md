@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Creating gzipped archives from Java"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Great example of show me the code!"
 ---

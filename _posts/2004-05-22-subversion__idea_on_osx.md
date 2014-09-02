@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "Subversion + IDEA on OSX"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Job opens up at another dream company"
 ---

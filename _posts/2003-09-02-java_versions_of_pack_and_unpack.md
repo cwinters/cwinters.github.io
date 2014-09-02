@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Java versions of 'pack' and 'unpack'?"
 ---

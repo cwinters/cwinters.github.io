@@ -1,4 +1,5 @@
 ---
+tags: cats photos
 layout: post
 title: "Weekly cat photos, a day late..."
 ---

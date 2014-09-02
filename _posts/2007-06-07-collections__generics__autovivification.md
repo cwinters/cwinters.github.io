@@ -1,4 +1,5 @@
 ---
+tags: hate java perl
 layout: post
 title: "Collections + Generics => autovivification?"
 ---

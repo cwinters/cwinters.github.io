@@ -1,4 +1,5 @@
 ---
+tags: cars photos
 layout: post
 title: "Our new/old car"
 ---

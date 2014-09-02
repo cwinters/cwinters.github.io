@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Blog of a world-eater"
 ---

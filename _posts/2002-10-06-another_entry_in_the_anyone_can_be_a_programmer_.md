@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Another entry in the 'anyone can be a programmer' "
 ---

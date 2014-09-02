@@ -1,4 +1,5 @@
 ---
+tags: pittsburgh conference techfest rest scala distributed
 layout: post
 title: "Impressions of Pittsburgh TechFest"
 ---

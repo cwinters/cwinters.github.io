@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Slogging through the framework with the new keyboard"
 ---

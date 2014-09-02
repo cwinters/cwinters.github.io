@@ -1,4 +1,5 @@
 ---
+tags: music
 layout: post
 title: "The Strokes, still the latest thing?"
 ---

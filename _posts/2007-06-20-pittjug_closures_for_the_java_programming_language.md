@@ -1,4 +1,5 @@
 ---
+tags: java programming usergroup
 layout: post
 title: "PittJUG: Closures for the Java Programming Language"
 ---

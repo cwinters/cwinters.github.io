@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "what the hell is wrong with these people?"
 ---

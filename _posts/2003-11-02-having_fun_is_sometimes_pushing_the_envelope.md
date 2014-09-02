@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Having fun is sometimes pushing the envelope"
 ---

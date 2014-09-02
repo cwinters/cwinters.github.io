@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Something I don't get about annotations..."
 ---

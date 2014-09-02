@@ -1,4 +1,5 @@
 ---
+tags: personal
 layout: post
 title: "Funny coincidences"
 ---

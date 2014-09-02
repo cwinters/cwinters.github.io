@@ -1,4 +1,5 @@
 ---
+tags: coffee memory
 layout: post
 title: "Keep that coffee coming!"
 ---

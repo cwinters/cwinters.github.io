@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "TV Week: Absurdity for a buck fifty"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: mac technology
 layout: post
 title: "The machines are listening..."
 ---

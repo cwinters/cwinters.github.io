@@ -1,4 +1,5 @@
 ---
+tags: oi2 perl testing
 layout: post
 title: "OI2 actions are just plain old objects"
 ---

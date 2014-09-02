@@ -1,4 +1,5 @@
 ---
+tags: java spring transaction
 layout: post
 title: "Curious about Spring transaction definitions?"
 ---

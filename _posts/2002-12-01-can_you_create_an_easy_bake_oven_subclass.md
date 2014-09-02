@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Can you create an easy bake oven subclass?"
 ---

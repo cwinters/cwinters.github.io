@@ -1,4 +1,5 @@
 ---
+tags: work
 layout: post
 title: "Choosing jobs, again"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "So much for maintaining institutional memory..."
 ---

@@ -1,4 +1,5 @@
 ---
+tags: work
 layout: post
 title: "Changing jobs"
 ---

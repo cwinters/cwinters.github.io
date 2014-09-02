@@ -1,4 +1,5 @@
 ---
+tags: oi2 perl releases
 layout: post
 title: "OI2 beta 5 released"
 ---

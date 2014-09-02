@@ -1,4 +1,5 @@
 ---
+tags: broadband fiber security
 layout: post
 title: "New additions: Verizon Fios and security system"
 ---

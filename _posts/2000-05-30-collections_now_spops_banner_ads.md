@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Collections now SPOPS, banner ads"
 ---

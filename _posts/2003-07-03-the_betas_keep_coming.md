@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "The betas keep coming"
 ---

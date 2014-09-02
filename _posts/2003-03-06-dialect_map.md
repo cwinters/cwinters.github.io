@@ -1,4 +1,5 @@
 ---
+tags: language pittsburgh
 layout: post
 title: "Dialect map"
 ---

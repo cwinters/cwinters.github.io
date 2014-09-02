@@ -1,4 +1,5 @@
 ---
+tags: media pittsburgh
 layout: post
 title: "One of my few celebrity sightings"
 ---

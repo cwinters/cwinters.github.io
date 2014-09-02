@@ -1,4 +1,5 @@
 ---
+tags: twitter collaboration serendipity
 layout: post
 title: "Yes, I am on twitter"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Fleury responds to McNealy"
 ---

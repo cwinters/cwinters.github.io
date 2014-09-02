@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Sure, that money doesn't mean much..."
 ---

@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "If you don't agree with me I don't want to hear it..."
 ---

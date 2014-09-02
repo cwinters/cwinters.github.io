@@ -1,4 +1,5 @@
 ---
+tags: ella travel vacation
 layout: post
 title: "Traveling with a baby"
 ---

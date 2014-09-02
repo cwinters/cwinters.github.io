@@ -1,4 +1,5 @@
 ---
+tags: books harrypotter
 layout: post
 title: "Stealthy UPS delivers Potter"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: books fiction
 layout: post
 title: "Recent book: The Hot Kid, Elmore Leonard"
 ---

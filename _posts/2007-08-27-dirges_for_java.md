@@ -1,4 +1,5 @@
 ---
+tags: community java opensource
 layout: post
 title: "Dirges for Java"
 ---

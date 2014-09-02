@@ -1,4 +1,5 @@
 ---
+tags: patent
 layout: post
 title: "Patent craziness: the linked list"
 ---

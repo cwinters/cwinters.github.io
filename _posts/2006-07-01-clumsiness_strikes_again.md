@@ -1,4 +1,5 @@
 ---
+tags: bicycle health
 layout: post
 title: "Clumsiness strikes again!"
 ---

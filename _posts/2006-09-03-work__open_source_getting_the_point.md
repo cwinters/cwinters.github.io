@@ -1,4 +1,5 @@
 ---
+tags: opensource rest work
 layout: post
 title: "Work + open source: getting the point"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: movies fun
 layout: post
 title: "That reminds me..."
 ---

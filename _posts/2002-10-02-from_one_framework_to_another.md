@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "From one framework to another"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: java spring struts
 layout: post
 title: "Struts with Spring"
 ---

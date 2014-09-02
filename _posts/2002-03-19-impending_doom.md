@@ -1,4 +1,5 @@
 ---
+tags: money pittsburgh scm
 layout: post
 title: "impending doom"
 ---

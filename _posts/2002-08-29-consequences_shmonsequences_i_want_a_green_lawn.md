@@ -1,4 +1,5 @@
 ---
+tags: planning
 layout: post
 title: "Consequences shmonsequences: I want a green lawn!"
 ---

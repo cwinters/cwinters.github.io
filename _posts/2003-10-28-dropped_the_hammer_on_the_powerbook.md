@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "Dropped the hammer on the Powerbook"
 ---

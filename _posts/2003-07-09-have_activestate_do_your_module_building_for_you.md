@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Have ActiveState do your module building for you"
 ---

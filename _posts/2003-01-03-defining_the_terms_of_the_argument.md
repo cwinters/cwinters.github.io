@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Defining the terms of the argument"
 ---

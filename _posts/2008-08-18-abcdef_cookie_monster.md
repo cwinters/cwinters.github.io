@@ -1,4 +1,5 @@
 ---
+tags: cute sesame-street
 layout: post
 title: "ABCDEF..cookie monster"
 ---

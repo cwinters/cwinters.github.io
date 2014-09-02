@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "We have always been at war with eurasia"
 ---

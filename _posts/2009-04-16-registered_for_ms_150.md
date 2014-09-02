@@ -1,4 +1,5 @@
 ---
+tags: ms150 bicycle pittsburgh
 layout: post
 title: "Registered for MS 150"
 ---

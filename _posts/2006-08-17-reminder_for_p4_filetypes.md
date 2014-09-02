@@ -1,4 +1,5 @@
 ---
+tags: perforce scm
 layout: post
 title: "Reminder for p4 filetypes"
 ---

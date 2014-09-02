@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Democracy of least annoyance"
 ---

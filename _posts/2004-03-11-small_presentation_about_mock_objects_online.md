@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Small presentation about mock objects online"
 ---

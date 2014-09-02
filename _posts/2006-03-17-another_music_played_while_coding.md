@@ -1,4 +1,5 @@
 ---
+tags: music programming
 layout: post
 title: "Another music played while coding"
 ---

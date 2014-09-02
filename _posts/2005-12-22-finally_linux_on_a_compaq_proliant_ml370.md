@@ -1,4 +1,5 @@
 ---
+tags: linux proliant
 layout: post
 title: "Finally: Linux on a Compaq Proliant ML-370"
 ---

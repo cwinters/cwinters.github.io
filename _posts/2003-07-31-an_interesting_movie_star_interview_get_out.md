@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "An interesting movie star interview? Get out!"
 ---

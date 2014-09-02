@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "A gift that will please everyone"
 ---

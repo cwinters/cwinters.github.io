@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "This country is run by a simple, simple person"
 ---

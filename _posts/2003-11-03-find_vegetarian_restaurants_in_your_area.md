@@ -1,4 +1,5 @@
 ---
+tags: food
 layout: post
 title: "Find vegetarian restaurants in your area"
 ---

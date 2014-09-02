@@ -1,4 +1,5 @@
 ---
+tags: gui web
 layout: post
 title: "Google groups beta looks like gmail"
 ---

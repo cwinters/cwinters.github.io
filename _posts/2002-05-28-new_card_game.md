@@ -1,4 +1,5 @@
 ---
+tags: games
 layout: post
 title: "New card game"
 ---

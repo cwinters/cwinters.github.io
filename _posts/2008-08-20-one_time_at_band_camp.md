@@ -1,4 +1,5 @@
 ---
+tags: ella
 layout: post
 title: "One time at band camp"
 ---

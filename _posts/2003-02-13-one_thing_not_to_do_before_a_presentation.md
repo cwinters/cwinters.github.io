@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "One thing not to do before a presentation"
 ---

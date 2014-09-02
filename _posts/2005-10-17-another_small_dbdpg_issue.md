@@ -1,4 +1,5 @@
 ---
+tags: perl postgresql
 layout: post
 title: "Another small DBD::Pg issue"
 ---

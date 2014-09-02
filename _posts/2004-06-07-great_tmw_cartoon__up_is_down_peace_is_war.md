@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Great TMW cartoon - up is down, peace is war..."
 ---

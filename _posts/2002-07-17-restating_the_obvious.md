@@ -1,4 +1,5 @@
 ---
+tags: moving
 layout: post
 title: "restating the obvious"
 ---

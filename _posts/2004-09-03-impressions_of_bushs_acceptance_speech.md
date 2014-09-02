@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Impressions of Bush's acceptance speech"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: lisp
 layout: post
 title: "A ringing endorsement for distributing software in LISP "
 ---

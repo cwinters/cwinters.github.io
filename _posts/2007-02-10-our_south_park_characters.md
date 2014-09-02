@@ -1,4 +1,5 @@
 ---
+tags: cartoons fun
 layout: post
 title: "Our South Park characters"
 ---

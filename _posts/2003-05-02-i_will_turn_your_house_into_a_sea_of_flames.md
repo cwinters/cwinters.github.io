@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "i will turn your house into a sea of flames"
 ---

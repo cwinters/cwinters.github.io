@@ -1,4 +1,5 @@
 ---
+tags: sports
 layout: post
 title: "Hooray for the early thirties!"
 ---

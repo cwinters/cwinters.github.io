@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "It's not a doll, it's an action figure!"
 ---

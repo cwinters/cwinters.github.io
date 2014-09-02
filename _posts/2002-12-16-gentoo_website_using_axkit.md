@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Gentoo website using AxKit"
 ---

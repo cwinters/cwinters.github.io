@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "When you hear hoofbeats..."
 ---

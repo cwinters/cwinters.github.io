@@ -1,4 +1,5 @@
 ---
+tags: personality discipline work creativity
 layout: post
 title: "Ease up on coding horror"
 ---

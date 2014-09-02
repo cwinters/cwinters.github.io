@@ -1,4 +1,5 @@
 ---
+tags: driving kids movies vacation
 layout: post
 title: "Holiday fun"
 ---

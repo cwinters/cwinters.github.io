@@ -1,4 +1,5 @@
 ---
+tags: cats
 layout: post
 title: "Questions Snopes doesn't answer"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "The Administration's unverifiable assertions"
 ---

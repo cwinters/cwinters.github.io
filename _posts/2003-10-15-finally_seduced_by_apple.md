@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "Finally, seduced by Apple"
 ---

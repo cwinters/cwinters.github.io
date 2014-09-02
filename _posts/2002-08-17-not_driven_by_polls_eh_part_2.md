@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Not driven by polls, eh? (Part 2)"
 ---

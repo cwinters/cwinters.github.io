@@ -1,4 +1,5 @@
 ---
+tags: biz
 layout: post
 title: "Bad timing?"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: education
 layout: post
 title: "Followup to DC teacher story"
 ---

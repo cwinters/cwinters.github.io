@@ -1,4 +1,5 @@
 ---
+tags: food holiday
 layout: post
 title: "Vegetarian thanksgiving"
 ---

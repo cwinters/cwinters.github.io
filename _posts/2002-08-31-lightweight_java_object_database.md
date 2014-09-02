@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Lightweight Java Object Database"
 ---

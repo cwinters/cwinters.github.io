@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "A social side effect of spam"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Ventura on gay marriage"
 ---

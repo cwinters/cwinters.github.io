@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "YAPC impressions, Class::DBI, P5P bitterness"
 ---

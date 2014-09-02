@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "I like her and all, but..."
 ---

@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "File under: Creating a New Tone in Washington"
 ---

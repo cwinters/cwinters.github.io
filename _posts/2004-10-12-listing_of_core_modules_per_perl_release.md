@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Listing of core modules per Perl release?"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: hate quote
 layout: post
 title: "Sufficiently advanced..."
 ---

@@ -1,4 +1,5 @@
 ---
+tags: advertising dumb
 layout: post
 title: "More shit I can do without"
 ---

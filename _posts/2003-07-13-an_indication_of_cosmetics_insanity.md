@@ -1,4 +1,5 @@
 ---
+tags: animals pseudoscience
 layout: post
 title: "An indication of cosmetics insanity"
 ---

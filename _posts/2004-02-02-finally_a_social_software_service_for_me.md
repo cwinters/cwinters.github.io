@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Finally a social software service for me"
 ---

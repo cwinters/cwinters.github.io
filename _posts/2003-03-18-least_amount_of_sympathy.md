@@ -1,4 +1,5 @@
 ---
+tags: farming
 layout: post
 title: "Least amount of sympathy"
 ---

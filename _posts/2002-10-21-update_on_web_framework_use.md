@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Update on web framework use"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "Yeah, they're brave all right"
 ---

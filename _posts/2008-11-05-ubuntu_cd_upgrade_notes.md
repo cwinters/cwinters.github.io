@@ -1,4 +1,5 @@
 ---
+tags: 
 layout: post
 title: "Note on upgrading Ubuntu on a Thinkpad"
 ---

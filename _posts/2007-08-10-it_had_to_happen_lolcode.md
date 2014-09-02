@@ -1,4 +1,5 @@
 ---
+tags: language programming
 layout: post
 title: "It had to happen: lolcode"
 ---

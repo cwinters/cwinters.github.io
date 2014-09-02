@@ -1,4 +1,5 @@
 ---
+tags: advertising education politics ricksantorum
 layout: post
 title: "Petty politics and Santorum"
 ---

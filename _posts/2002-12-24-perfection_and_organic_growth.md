@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Perfection and organic growth"
 ---

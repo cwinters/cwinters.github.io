@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "Dumb waste of time"
 ---

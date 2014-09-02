@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Messy intersection of politics and religion"
 ---

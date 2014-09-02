@@ -1,4 +1,5 @@
 ---
+tags: vocollect
 layout: post
 title: "What I'm going to be up to at work"
 ---

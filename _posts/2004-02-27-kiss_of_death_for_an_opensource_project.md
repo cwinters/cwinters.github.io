@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Kiss of death for an opensource project"
 ---

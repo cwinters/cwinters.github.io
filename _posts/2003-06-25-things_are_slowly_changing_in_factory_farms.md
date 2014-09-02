@@ -1,4 +1,5 @@
 ---
+tags: animals food
 layout: post
 title: "Things are slowly changing in factory farms"
 ---

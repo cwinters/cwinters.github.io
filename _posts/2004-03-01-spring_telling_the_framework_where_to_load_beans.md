@@ -1,4 +1,5 @@
 ---
+tags: config java spring
 layout: post
 title: "Spring: Telling the framework where to load beans"
 ---

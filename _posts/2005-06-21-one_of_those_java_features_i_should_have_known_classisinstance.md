@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "One of those java features I should have known: class.isInstance()"
 ---

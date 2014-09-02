@@ -1,4 +1,5 @@
 ---
+tags: airlines travel
 layout: post
 title: "Stranded at LGA"
 ---

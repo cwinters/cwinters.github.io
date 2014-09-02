@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Talking with HAL about J2EE"
 ---

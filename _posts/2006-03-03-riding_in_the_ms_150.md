@@ -1,4 +1,5 @@
 ---
+tags: bicycling charity
 layout: post
 title: "Riding in the MS 150"
 ---

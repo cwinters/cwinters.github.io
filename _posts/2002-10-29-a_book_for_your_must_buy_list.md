@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "A book for your must buy list"
 ---

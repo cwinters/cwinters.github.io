@@ -1,4 +1,5 @@
 ---
+tags: cats moving
 layout: post
 title: "Moving, recovery"
 ---

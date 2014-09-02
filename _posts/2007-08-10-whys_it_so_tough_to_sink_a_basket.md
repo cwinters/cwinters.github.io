@@ -1,4 +1,5 @@
 ---
+tags: baby classifieds pittsburgh
 layout: post
 title: "Why's it so tough to sink a basket?"
 ---

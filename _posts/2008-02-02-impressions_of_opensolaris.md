@@ -1,4 +1,5 @@
 ---
+tags: solaris unix
 layout: post
 title: "Impressions of OpenSolaris"
 ---

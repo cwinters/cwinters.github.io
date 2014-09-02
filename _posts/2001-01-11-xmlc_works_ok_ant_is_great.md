@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "XMLC works ok, Ant is great"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: hate voice
 layout: post
 title: "New use for MS speech recognition"
 ---

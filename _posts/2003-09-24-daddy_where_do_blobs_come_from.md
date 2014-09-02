@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Daddy, where do BLOBs come from?"
 ---

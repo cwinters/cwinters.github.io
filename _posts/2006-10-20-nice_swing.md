@@ -1,4 +1,5 @@
 ---
+tags: gui java swing
 layout: post
 title: "Nice Swing!"
 ---

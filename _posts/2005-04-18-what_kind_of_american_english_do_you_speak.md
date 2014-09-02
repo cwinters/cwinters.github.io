@@ -1,4 +1,5 @@
 ---
+tags: fun quiz
 layout: post
 title: "What kind of American english do you speak?"
 ---

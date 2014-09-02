@@ -1,4 +1,5 @@
 ---
+tags: commercials pittsburgh
 layout: post
 title: "Pittsburgh-inspired commercials"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: feed technology
 layout: post
 title: "Five or so things clogging up my google reader"
 ---

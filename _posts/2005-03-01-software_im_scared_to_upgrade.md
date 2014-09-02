@@ -1,4 +1,5 @@
 ---
+tags: linux sysadmin
 layout: post
 title: "Software I'm scared to upgrade"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "Managing packages for OS X"
 ---

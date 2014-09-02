@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Note to future self on Apples"
 ---

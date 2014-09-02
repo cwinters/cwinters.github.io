@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "IDEA EAP build 957 released"
 ---

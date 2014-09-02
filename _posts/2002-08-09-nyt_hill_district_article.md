@@ -1,4 +1,5 @@
 ---
+tags: pittsburgh race
 layout: post
 title: "NYT Hill District article"
 ---

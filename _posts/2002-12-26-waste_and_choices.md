@@ -1,4 +1,5 @@
 ---
+tags: linux planning
 layout: post
 title: "Waste and choices"
 ---

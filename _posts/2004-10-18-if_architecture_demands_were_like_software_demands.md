@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "If architecture demands were like software demands..."
 ---

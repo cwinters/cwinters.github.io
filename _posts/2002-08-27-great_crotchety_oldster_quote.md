@@ -1,4 +1,5 @@
 ---
+tags: history quote
 layout: post
 title: "Great crotchety oldster quote"
 ---

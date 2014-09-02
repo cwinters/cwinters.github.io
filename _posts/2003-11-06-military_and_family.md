@@ -1,4 +1,5 @@
 ---
+tags: family kids military
 layout: post
 title: "Military and family"
 ---

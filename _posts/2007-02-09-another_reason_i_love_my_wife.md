@@ -1,4 +1,5 @@
 ---
+tags: marriage silly
 layout: post
 title: "Another reason I love my wife"
 ---

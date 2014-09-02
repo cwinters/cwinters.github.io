@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Utility of Petstore-type applications"
 ---

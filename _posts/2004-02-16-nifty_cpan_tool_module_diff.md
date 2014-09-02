@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Nifty CPAN tool: module diff"
 ---

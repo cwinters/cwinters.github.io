@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "For future work with resource bundles"
 ---

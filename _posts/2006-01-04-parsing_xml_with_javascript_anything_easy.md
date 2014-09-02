@@ -1,4 +1,5 @@
 ---
+tags: javascript xml
 layout: post
 title: "Parsing XML with JavaScript: anything easy?"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Presentation on how to keep your job"
 ---

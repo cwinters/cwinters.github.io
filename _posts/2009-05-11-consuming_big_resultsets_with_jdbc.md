@@ -1,4 +1,5 @@
 ---
+tags: java database postgresql mssql bug
 layout: post
 title: "Consuming big resultsets with JDBC"
 ---

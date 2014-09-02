@@ -1,4 +1,5 @@
 ---
+tags: language
 layout: post
 title: "World of superlatives"
 ---

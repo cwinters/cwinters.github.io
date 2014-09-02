@@ -1,4 +1,5 @@
 ---
+tags: database postgres
 layout: post
 title: "Useful Postgres tip: log_min_duration_statement"
 ---

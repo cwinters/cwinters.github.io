@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "'Election officials describe it as an isolated inc"
 ---

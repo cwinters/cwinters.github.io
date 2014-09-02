@@ -1,4 +1,5 @@
 ---
+tags: cars diy
 layout: post
 title: "I installed a car stereo!"
 ---

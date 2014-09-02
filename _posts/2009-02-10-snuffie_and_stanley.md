@@ -1,4 +1,5 @@
 ---
+tags: separatedatbirth
 layout: post
 title: "Snuffleupagus and Stanley: separated at birth?"
 ---

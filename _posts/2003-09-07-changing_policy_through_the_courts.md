@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Changing policy through the courts"
 ---

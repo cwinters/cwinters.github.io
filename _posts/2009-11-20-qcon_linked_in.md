@@ -1,4 +1,5 @@
 ---
+tags: qcon conference scalability performance design architecture
 layout: post
 title: "QCon 2009: LinkedIn: Network updates uncovered"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: media music
 layout: post
 title: "Royal Tenenbaums"
 ---

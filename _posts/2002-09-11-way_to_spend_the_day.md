@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Way to spend the day"
 ---

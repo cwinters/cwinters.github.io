@@ -1,4 +1,5 @@
 ---
+tags: health
 layout: post
 title: "Sick sick sick"
 ---

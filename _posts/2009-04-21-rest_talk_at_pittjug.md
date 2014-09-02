@@ -1,4 +1,5 @@
 ---
+tags: rest presentation pittsburgh java jersey
 layout: post
 title: "REST talk at PittJUG tonight"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: opensource work
 layout: post
 title: "Work and retirement"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Care and feeding of IDEA EAP"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Win32 annoyances"
 ---

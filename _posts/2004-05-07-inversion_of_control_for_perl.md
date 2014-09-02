@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Inversion of Control for Perl"
 ---

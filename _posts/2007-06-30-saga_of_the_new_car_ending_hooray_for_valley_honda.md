@@ -1,4 +1,5 @@
 ---
+tags: cars
 layout: post
 title: "Saga of the new car (ending: hooray for Valley Honda)"
 ---

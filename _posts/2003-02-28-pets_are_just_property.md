@@ -1,4 +1,5 @@
 ---
+tags: animals media
 layout: post
 title: "Pets are just property..."
 ---

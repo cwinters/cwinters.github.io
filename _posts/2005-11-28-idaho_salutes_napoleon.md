@@ -1,4 +1,5 @@
 ---
+tags: fun movies
 layout: post
 title: "Idaho salutes Napoleon"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Language prefs in Firefox"
 ---

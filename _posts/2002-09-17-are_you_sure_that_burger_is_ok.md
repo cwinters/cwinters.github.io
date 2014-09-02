@@ -1,4 +1,5 @@
 ---
+tags: food health
 layout: post
 title: "Are you sure that burger is ok?"
 ---

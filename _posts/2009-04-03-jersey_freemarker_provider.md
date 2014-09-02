@@ -1,4 +1,5 @@
 ---
+tags: rest jersey java
 layout: post
 title: "A Jersey Freemarker Provider"
 ---

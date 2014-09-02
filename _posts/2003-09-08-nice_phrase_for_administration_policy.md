@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Nice phrase for administration policy"
 ---

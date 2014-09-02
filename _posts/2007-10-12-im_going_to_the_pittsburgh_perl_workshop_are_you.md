@@ -1,4 +1,5 @@
 ---
+tags: conference perl pittsburgh
 layout: post
 title: "I'm going to the Pittsburgh Perl Workshop, are you?"
 ---

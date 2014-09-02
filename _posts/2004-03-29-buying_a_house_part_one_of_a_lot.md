@@ -1,4 +1,5 @@
 ---
+tags: house
 layout: post
 title: "Buying a house, part one of a lot"
 ---

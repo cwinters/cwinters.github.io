@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "TeX tools on OS X"
 ---

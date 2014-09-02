@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Latest game addiction"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Simple workflow system now on CPAN"
 ---

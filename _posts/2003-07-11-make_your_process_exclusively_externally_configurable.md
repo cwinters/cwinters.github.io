@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Make your process exclusively externally configurable"
 ---

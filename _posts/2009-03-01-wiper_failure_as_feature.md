@@ -1,4 +1,5 @@
 ---
+tags: technology management selling
 layout: post
 title: "Wiper failure as feature"
 ---

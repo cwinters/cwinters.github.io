@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Different look at administration"
 ---

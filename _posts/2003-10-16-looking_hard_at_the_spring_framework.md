@@ -1,4 +1,5 @@
 ---
+tags: ejb java spring
 layout: post
 title: "Looking hard at the Spring Framework"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Counting lines of code"
 ---

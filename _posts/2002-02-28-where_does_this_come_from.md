@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "where does this come from?"
 ---

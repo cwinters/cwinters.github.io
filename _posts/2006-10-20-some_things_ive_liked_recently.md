@@ -1,4 +1,5 @@
 ---
+tags: media music
 layout: post
 title: "Some things I've liked recently"
 ---

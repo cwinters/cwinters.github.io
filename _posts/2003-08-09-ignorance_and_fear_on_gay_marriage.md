@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Ignorance and fear on gay marriage"
 ---

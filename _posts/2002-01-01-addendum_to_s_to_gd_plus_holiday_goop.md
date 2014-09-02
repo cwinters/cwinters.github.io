@@ -1,4 +1,5 @@
 ---
+tags: books holiday music
 layout: post
 title: "Addendum to S to GD, plus holiday goop"
 ---

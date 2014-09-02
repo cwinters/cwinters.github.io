@@ -1,4 +1,5 @@
 ---
+tags: wedding
 layout: post
 title: "Dad's wedding, more photos"
 ---

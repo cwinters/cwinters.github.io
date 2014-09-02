@@ -1,4 +1,5 @@
 ---
+tags: collaboration programming team
 layout: post
 title: "Small teams and big jobs"
 ---

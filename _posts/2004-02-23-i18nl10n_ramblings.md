@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "I18N/L10N ramblings"
 ---

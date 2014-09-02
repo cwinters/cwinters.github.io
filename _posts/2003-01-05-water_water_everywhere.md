@@ -1,4 +1,5 @@
 ---
+tags: planning
 layout: post
 title: "Water water everywhere..."
 ---

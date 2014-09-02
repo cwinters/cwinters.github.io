@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Margaret Cho has a blog?"
 ---

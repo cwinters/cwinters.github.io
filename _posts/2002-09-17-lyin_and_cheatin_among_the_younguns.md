@@ -1,4 +1,5 @@
 ---
+tags: education
 layout: post
 title: "Lyin' and cheatin' among the younguns"
 ---

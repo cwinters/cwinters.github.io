@@ -1,4 +1,5 @@
 ---
+tags: furniture meta
 layout: post
 title: "Funny coincidences"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "If THAT doesn't want to make you want to see a movie..."
 ---

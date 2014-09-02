@@ -1,4 +1,5 @@
 ---
+tags: kids
 layout: post
 title: "About having babies"
 ---

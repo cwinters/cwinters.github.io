@@ -1,4 +1,5 @@
 ---
+tags: family
 layout: post
 title: "Satire is good for you"
 ---

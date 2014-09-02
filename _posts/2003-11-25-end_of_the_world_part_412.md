@@ -1,4 +1,5 @@
 ---
+tags: animals food
 layout: post
 title: "End of the world, part 412"
 ---

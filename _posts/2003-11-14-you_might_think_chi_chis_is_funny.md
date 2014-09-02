@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "You might think Chi Chi's is funny..."
 ---

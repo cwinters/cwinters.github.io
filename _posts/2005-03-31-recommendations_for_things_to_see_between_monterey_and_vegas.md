@@ -1,4 +1,5 @@
 ---
+tags: california travel
 layout: post
 title: "Recommendations for things to see between Monterey and Vegas?"
 ---

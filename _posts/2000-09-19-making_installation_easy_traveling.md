@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Making installation easy, traveling"
 ---

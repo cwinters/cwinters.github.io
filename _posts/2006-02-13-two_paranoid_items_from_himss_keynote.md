@@ -1,4 +1,5 @@
 ---
+tags: conference medical privacy security
 layout: post
 title: "Two paranoid items from HIMSS keynote"
 ---

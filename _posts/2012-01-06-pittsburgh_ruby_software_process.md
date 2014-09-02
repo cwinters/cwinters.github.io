@@ -1,4 +1,5 @@
 ---
+tags: ruby usergroup agile pittsburgh
 layout: post
 title: "Pittsburgh Ruby Talk: Software process"
 ---

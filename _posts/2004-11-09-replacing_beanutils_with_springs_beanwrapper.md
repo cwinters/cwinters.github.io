@@ -1,4 +1,5 @@
 ---
+tags: java reflection spring
 layout: post
 title: "Replacing BeanUtils with Spring's BeanWrapper"
 ---

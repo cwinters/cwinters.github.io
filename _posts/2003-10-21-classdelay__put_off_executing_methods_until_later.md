@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Class::Delay - put off executing methods until later"
 ---

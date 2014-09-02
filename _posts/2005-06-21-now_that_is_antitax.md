@@ -1,4 +1,5 @@
 ---
+tags: history politics
 layout: post
 title: "Now THAT is anti-tax"
 ---

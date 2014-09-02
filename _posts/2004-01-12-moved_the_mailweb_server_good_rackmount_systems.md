@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Moved the mail/web server; good rackmount systems?"
 ---

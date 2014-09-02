@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "Join with the creationists!"
 ---

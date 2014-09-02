@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Should everyone be able to program?"
 ---

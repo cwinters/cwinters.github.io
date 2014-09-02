@@ -1,4 +1,5 @@
 ---
+tags: mac zeroconf
 layout: post
 title: "More Brother 5440CN coolness"
 ---

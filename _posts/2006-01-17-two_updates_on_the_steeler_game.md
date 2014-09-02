@@ -1,4 +1,5 @@
 ---
+tags: sports steelers
 layout: post
 title: "Two updates on the Steeler game"
 ---

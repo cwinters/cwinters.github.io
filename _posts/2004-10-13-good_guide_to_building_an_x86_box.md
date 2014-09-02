@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Good guide to building an x86 box"
 ---

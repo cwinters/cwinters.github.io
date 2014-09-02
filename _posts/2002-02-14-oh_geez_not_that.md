@@ -1,4 +1,5 @@
 ---
+tags: beauty
 layout: post
 title: "oh geez, not that"
 ---

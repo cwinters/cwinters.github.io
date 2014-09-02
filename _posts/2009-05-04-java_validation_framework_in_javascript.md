@@ -1,4 +1,5 @@
 ---
+tags: java javascript validation
 layout: post
 title: "Java validation framework in JavaScript?"
 ---

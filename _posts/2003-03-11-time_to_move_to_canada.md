@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Time to move to Canada..."
 ---

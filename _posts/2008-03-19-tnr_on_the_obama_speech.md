@@ -1,4 +1,5 @@
 ---
+tags: barackobama politics
 layout: post
 title: "TNR on the Obama speech"
 ---

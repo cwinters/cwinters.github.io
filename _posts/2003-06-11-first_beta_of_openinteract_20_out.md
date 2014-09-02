@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "First beta of OpenInteract 2.0 out!"
 ---

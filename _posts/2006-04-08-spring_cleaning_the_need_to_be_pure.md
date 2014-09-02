@@ -1,4 +1,5 @@
 ---
+tags: purity religion
 layout: post
 title: "Spring cleaning: The need to be pure"
 ---

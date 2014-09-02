@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Frameworks and daily use"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Porting to Hibernate 2"
 ---

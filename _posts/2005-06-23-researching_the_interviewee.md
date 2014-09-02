@@ -1,4 +1,5 @@
 ---
+tags: hiring
 layout: post
 title: "Researching the interviewee"
 ---

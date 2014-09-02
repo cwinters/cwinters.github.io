@@ -1,4 +1,5 @@
 ---
+tags: feed
 layout: post
 title: "Banner day: the reader is empty"
 ---

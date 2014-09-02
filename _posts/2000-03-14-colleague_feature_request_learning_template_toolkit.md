@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Colleague feature request, learning Template Toolkit"
 ---

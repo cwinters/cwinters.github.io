@@ -1,4 +1,5 @@
 ---
+tags: bicycle learning practice
 layout: post
 title: "Changing your approach"
 ---

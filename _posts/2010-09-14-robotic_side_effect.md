@@ -1,4 +1,5 @@
 ---
+tags: love emotion barb ella
 layout: post
 title: "Robotic side-effect"
 ---

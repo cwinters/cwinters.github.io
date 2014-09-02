@@ -1,4 +1,5 @@
 ---
+tags: food pittsburgh
 layout: post
 title: "Known Pittsburgh locations for Sabra Hummus"
 ---

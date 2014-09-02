@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "It's a rule, except when it's not"
 ---

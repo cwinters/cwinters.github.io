@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Pulling trickle-down out of the hat"
 ---

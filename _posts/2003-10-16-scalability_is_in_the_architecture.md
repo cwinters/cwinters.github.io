@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Scalability is in the architecture"
 ---

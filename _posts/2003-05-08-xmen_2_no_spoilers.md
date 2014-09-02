@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "X-Men 2 (no spoilers)"
 ---

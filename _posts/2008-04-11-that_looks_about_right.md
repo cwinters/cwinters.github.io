@@ -1,4 +1,5 @@
 ---
+tags: shell solaris unix
 layout: post
 title: "That looks about right"
 ---

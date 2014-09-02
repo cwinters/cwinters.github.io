@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Foreign keys, make me feel fine..."
 ---

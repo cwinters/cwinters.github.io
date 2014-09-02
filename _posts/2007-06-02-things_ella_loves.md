@@ -1,4 +1,5 @@
 ---
+tags: ella
 layout: post
 title: "Things Ella loves"
 ---

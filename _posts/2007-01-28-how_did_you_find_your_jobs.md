@@ -1,4 +1,5 @@
 ---
+tags: job
 layout: post
 title: "How did you find your jobs?"
 ---

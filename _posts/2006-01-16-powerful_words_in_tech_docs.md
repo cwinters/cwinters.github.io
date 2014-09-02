@@ -1,4 +1,5 @@
 ---
+tags: documentation programming
 layout: post
 title: "Powerful words in tech docs"
 ---

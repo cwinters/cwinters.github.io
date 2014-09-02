@@ -1,4 +1,5 @@
 ---
+tags: gis house map pittsburgh
 layout: post
 title: "My house in Google Maps"
 ---

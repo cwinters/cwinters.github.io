@@ -1,4 +1,5 @@
 ---
+tags: thnkpad
 layout: post
 title: "Getting bluetooth activated on a ThinkPad T42"
 ---

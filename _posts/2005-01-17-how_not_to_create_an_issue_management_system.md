@@ -1,4 +1,5 @@
 ---
+tags: badsoftware gui scm
 layout: post
 title: "How not to create an issue management system"
 ---

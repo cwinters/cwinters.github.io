@@ -1,4 +1,5 @@
 ---
+tags: education
 layout: post
 title: "Scary teacher story"
 ---

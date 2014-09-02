@@ -1,4 +1,5 @@
 ---
+tags: java spring
 layout: post
 title: "Spring: Setting a default action for MultiActionController"
 ---

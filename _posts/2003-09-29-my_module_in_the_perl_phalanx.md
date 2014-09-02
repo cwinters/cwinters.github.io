@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "My module in the Perl phalanx"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Shouting FUD is not the same as disagreeing"
 ---

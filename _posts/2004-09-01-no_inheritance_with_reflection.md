@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "No inheritance with reflection"
 ---

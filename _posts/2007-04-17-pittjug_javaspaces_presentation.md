@@ -1,4 +1,5 @@
 ---
+tags: java javaspaces jini usergroup
 layout: post
 title: "PittJUG: JavaSpaces presentation"
 ---

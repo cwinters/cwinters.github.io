@@ -1,4 +1,5 @@
 ---
+tags: rest dataexchange
 layout: post
 title: "Thinking data publishing formats, again"
 ---

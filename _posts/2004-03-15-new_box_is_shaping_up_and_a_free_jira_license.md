@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "New box is shaping up and a free JIRA license"
 ---

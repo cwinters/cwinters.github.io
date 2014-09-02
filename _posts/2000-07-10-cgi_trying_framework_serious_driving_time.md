@@ -1,4 +1,5 @@
 ---
+tags: perl vacation
 layout: post
 title: "CGI trying framework, serious driving time"
 ---

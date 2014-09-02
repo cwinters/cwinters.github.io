@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Compile-time implementation enforcement... in Perl"
 ---

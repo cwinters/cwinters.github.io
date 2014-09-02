@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Swing serious sequences"
 ---

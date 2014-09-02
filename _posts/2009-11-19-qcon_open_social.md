@@ -1,4 +1,5 @@
 ---
+tags: qcon conference javascript ajax ui opensocial security oauth
 layout: post
 title: "QCon 2009: OpenSocial in the Enterprise"
 ---

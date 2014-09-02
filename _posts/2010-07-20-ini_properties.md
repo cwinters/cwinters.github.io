@@ -1,4 +1,5 @@
 ---
+tags: configuration properties ini
 layout: post
 title: "INI Properties"
 ---

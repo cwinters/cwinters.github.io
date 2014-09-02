@@ -1,4 +1,5 @@
 ---
+tags: food fun
 layout: post
 title: "Cheap pizza"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: lazy programming
 layout: post
 title: "Hyperproductive, then not so much..."
 ---

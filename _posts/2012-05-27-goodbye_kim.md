@@ -1,4 +1,5 @@
 ---
+tags: death family
 layout: post
 title: "Goodbye Kim"
 ---

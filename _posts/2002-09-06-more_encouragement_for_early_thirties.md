@@ -1,4 +1,5 @@
 ---
+tags: sports
 layout: post
 title: "More encouragement for early thirties"
 ---

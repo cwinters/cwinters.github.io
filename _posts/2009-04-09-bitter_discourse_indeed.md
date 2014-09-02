@@ -1,4 +1,5 @@
 ---
+tags: twitter scaling messaging language
 layout: post
 title: "Bitter discourse indeed"
 ---

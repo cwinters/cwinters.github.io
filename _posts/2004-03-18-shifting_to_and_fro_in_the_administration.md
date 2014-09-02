@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Shifting to and fro in the administration"
 ---

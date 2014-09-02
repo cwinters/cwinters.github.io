@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "More veggie stuff missing the point"
 ---

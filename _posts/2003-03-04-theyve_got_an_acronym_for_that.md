@@ -1,4 +1,5 @@
 ---
+tags: religion
 layout: post
 title: "They've got an acronym for that"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: communication
 layout: post
 title: "One of my new favorite sayings"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: food health
 layout: post
 title: "Cookies redux"
 ---

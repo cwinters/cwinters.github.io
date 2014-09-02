@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Getting paid from open source"
 ---

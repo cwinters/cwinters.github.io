@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "Mac::Glue and sticky environment variables"
 ---

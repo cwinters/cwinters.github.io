@@ -1,4 +1,5 @@
 ---
+tags: niagara orm vacation
 layout: post
 title: "Visiting Niagara, SPOPS triggers"
 ---

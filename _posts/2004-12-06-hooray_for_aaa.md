@@ -1,4 +1,5 @@
 ---
+tags: cars
 layout: post
 title: "Hooray for AAA"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "MJD's Perl book coming out"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: language slang
 layout: post
 title: "Hello, Miss Understanding"
 ---

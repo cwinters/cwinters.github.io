@@ -1,4 +1,5 @@
 ---
+tags: house
 layout: post
 title: "New furniture: an actual living room?"
 ---

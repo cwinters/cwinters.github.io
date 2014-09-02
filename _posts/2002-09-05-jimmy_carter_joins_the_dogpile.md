@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Jimmy Carter joins the dogpile"
 ---

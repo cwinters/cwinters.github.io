@@ -1,4 +1,5 @@
 ---
+tags: exercise
 layout: post
 title: "New exercise equipment"
 ---

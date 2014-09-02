@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "How to solve Perl problems"
 ---

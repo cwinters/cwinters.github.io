@@ -1,4 +1,5 @@
 ---
+tags: cars work
 layout: post
 title: "New car, plus primary key wrangling"
 ---

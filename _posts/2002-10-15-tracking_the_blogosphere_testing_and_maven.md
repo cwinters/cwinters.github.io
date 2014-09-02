@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Tracking the blogosphere: testing and Maven"
 ---

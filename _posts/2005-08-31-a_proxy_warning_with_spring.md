@@ -1,4 +1,5 @@
 ---
+tags: java proxy spring
 layout: post
 title: "A proxy warning with Spring"
 ---

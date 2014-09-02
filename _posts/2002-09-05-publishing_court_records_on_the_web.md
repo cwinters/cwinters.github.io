@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Publishing court records on the web"
 ---

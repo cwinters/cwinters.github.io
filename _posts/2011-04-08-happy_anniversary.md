@@ -1,4 +1,5 @@
 ---
+tags: barb
 layout: post
 title: "Happy anniversary!"
 ---

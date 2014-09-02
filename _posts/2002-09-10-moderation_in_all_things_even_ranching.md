@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Moderation in all things, even ranching"
 ---

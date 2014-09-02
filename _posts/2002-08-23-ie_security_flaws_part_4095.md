@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "IE security flaws (Part 4,095)"
 ---

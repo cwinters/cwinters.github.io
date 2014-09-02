@@ -1,4 +1,5 @@
 ---
+tags: conference perl yapc
 layout: post
 title: "Missing YAPC"
 ---

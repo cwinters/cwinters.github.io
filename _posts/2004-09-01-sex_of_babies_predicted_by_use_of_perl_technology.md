@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Sex of babies predicted by use of Perl, technology"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: tags
 layout: post
 title: "Links for me? Plug into delicious"
 ---

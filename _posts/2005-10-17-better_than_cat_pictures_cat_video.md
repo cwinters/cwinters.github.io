@@ -1,4 +1,5 @@
 ---
+tags: cats
 layout: post
 title: "Better than cat pictures: cat video"
 ---

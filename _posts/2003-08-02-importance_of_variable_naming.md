@@ -1,4 +1,5 @@
 ---
+tags: perl programming
 layout: post
 title: "Importance of variable naming"
 ---

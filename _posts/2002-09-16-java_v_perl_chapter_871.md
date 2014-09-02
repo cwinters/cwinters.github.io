@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Java v. Perl (chapter 871)"
 ---

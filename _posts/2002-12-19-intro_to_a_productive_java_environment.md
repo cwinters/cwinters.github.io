@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Intro to a productive Java environment"
 ---

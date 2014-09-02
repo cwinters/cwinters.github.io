@@ -1,4 +1,5 @@
 ---
+tags: house furniture writing
 layout: post
 title: "Furniture churn"
 ---

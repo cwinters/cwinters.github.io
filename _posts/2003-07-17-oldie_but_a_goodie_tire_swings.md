@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Oldie but a goodie: tire swings"
 ---

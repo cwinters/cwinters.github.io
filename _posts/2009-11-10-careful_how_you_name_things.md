@@ -1,4 +1,5 @@
 ---
+tags: vocollect quotes naming
 layout: post
 title: "Careful how you name things..."
 ---

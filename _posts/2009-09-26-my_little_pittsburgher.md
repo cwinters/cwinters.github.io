@@ -1,4 +1,5 @@
 ---
+tags: ella pittsburgh steelers
 layout: post
 title: "My little Pittsburgher"
 ---

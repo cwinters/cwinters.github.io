@@ -1,4 +1,5 @@
 ---
+tags: javascript messaging design rest
 layout: post
 title: "Put your transformation code in message?"
 ---

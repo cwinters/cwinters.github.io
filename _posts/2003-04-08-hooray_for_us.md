@@ -1,4 +1,5 @@
 ---
+tags: marriage
 layout: post
 title: "Hooray for us"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Memories for London geeks"
 ---

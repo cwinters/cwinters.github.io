@@ -1,4 +1,5 @@
 ---
+tags: web wedding
 layout: post
 title: "Post wedding, plus banner ad management"
 ---

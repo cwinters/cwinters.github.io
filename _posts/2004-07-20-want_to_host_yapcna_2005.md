@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Want to host YAPC::NA 2005?"
 ---

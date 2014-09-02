@@ -1,4 +1,5 @@
 ---
+tags: writing
 layout: post
 title: "maintaining a voice"
 ---

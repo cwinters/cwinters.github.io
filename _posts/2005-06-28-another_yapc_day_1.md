@@ -1,4 +1,5 @@
 ---
+tags: conference perl
 layout: post
 title: "Another YAPC day 1"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: house
 layout: post
 title: "More house news, last for a while"
 ---

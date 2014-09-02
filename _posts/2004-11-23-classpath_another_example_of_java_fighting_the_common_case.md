@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Classpath: another example of Java fighting the common case"
 ---

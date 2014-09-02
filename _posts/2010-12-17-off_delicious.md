@@ -1,4 +1,5 @@
 ---
+tags: bookmarks cloudcomputing
 layout: post
 title: "Off delicious..."
 ---

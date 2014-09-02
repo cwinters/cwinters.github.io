@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "Setting up the Mac and cleaning out the cruft"
 ---

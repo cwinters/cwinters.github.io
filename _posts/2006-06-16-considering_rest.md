@@ -1,4 +1,5 @@
 ---
+tags: design http rest
 layout: post
 title: "Considering REST"
 ---

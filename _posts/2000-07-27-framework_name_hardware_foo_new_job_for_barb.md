@@ -1,4 +1,5 @@
 ---
+tags: oi2 opensource
 layout: post
 title: "Framework name, hardware foo, new job for Barb"
 ---

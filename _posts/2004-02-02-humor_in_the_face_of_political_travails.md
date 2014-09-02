@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Humor in the face of political travails"
 ---

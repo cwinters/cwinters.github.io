@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "Random stuff, only partially election related"
 ---

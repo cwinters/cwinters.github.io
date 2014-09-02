@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "New OI/SPOPS out, GDBM kicked to the curb"
 ---

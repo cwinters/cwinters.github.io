@@ -1,4 +1,5 @@
 ---
+tags: pittsburgh sports
 layout: post
 title: "Another Pittsburgh moment: hockey during a haircut"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: pittsburgh
 layout: post
 title: "Want a couch?"
 ---

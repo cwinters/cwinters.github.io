@@ -1,4 +1,5 @@
 ---
+tags: collaboration hiring programming
 layout: post
 title: "Small teams++"
 ---

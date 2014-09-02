@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "CPAN ratings and the opensource community"
 ---

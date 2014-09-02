@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Slogging through new stuff, jabber"
 ---

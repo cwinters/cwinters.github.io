@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Hell in a handbasket, balancing effects"
 ---

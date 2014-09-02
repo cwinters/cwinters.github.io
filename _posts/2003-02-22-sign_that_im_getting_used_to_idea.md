@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Sign that I'm getting used to IDEA..."
 ---

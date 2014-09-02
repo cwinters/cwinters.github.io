@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Supplying data to your tests"
 ---

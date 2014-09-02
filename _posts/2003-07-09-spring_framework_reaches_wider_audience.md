@@ -1,4 +1,5 @@
 ---
+tags: java spring
 layout: post
 title: "Spring Framework reaches wider audience"
 ---

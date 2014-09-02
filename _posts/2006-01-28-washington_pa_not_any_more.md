@@ -1,4 +1,5 @@
 ---
+tags: pittsburgh steelers
 layout: post
 title: "Washington, PA? Not any more..."
 ---

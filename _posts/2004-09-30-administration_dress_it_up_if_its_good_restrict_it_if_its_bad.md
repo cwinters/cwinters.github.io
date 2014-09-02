@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Administration: dress it up if it's good, restrict it if it's bad"
 ---

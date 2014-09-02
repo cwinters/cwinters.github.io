@@ -1,4 +1,5 @@
 ---
+tags: baby
 layout: post
 title: "Going to the hospital..."
 ---

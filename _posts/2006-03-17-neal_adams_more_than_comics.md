@@ -1,4 +1,5 @@
 ---
+tags: comics science
 layout: post
 title: "Neal Adams, more than comics?"
 ---

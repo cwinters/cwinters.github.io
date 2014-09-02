@@ -1,4 +1,5 @@
 ---
+tags: house
 layout: post
 title: "No house for you!"
 ---

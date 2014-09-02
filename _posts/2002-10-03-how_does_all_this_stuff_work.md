@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "How does all this stuff work?"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "One IDE for the team"
 ---

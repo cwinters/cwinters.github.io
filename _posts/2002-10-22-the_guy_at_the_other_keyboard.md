@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "The guy at the other keyboard"
 ---

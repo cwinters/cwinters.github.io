@@ -1,4 +1,5 @@
 ---
+tags: design mac
 layout: post
 title: "iCurve is pretty useful"
 ---

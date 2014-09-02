@@ -1,4 +1,5 @@
 ---
+tags: architecture development media podcast
 layout: post
 title: "eBay architecture with Randy Shoup"
 ---

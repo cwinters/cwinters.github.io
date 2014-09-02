@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "OpenInteract and SPOPS to be open source"
 ---

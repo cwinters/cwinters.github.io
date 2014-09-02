@@ -1,4 +1,5 @@
 ---
+tags: planning transportation
 layout: post
 title: "Finally: Metro out to Dulles (maybe)"
 ---

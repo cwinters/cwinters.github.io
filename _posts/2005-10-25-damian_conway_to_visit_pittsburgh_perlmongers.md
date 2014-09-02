@@ -1,4 +1,5 @@
 ---
+tags: perl pittsburgh
 layout: post
 title: "Damian Conway to visit Pittsburgh Perlmongers"
 ---

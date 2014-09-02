@@ -1,4 +1,5 @@
 ---
+tags: qcon conference scala programming
 layout: post
 title: "QCon 2009: Seduced by Scala"
 ---

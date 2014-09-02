@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "New PBS stuff immediately on Netflix"
 ---

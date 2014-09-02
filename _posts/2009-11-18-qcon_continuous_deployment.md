@@ -1,4 +1,5 @@
 ---
+tags: 
 layout: post
 title: "QCon 2009: Continuous Deployment"
 ---

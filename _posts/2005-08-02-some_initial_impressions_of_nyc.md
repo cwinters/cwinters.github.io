@@ -1,4 +1,5 @@
 ---
+tags: conference nyc
 layout: post
 title: "Some initial impressions of NYC"
 ---

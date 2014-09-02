@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Invalid direct reference to form login page"
 ---

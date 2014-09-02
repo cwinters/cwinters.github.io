@@ -1,4 +1,5 @@
 ---
+tags: soccer
 layout: post
 title: "What Barb's taken away from international soccer"
 ---

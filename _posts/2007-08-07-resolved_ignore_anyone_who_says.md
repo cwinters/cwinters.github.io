@@ -1,4 +1,5 @@
 ---
+tags: annoyances debate
 layout: post
 title: "Resolved: ignore anyone who says..."
 ---

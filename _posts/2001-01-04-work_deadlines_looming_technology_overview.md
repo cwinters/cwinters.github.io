@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Work deadlines looming, technology overview"
 ---

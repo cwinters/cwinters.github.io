@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Overview of work to do for Perl 6"
 ---

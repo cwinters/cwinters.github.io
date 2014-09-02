@@ -1,4 +1,5 @@
 ---
+tags: media quote
 layout: post
 title: "Great western movie line"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: annoyances email
 layout: post
 title: "Is quoting really that tough?"
 ---

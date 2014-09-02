@@ -1,4 +1,5 @@
 ---
+tags: media radio
 layout: post
 title: "Accustomed to getting things for free"
 ---

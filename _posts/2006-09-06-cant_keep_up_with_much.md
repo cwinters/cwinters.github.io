@@ -1,4 +1,5 @@
 ---
+tags: aging technology
 layout: post
 title: "Can't keep up with much"
 ---

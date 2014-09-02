@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Perl v. Java, part 918"
 ---

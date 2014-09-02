@@ -1,4 +1,5 @@
 ---
+tags: webservices rest xml
 layout: post
 title: "WSDL first development, yes it's crazy"
 ---

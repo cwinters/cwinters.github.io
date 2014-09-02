@@ -1,4 +1,5 @@
 ---
+tags: attention conference etech future identity
 layout: post
 title: "Good ETech summaries from Phil Windley"
 ---

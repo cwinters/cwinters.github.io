@@ -1,4 +1,5 @@
 ---
+tags: media opensource religion
 layout: post
 title: "Free worship"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Installing Gentoo on an old laptop"
 ---

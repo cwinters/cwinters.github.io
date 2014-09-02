@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Choosing jobs, Perl on Win32"
 ---

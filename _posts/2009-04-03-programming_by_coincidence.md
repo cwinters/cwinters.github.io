@@ -1,4 +1,5 @@
 ---
+tags: programming soap design simplicity complexity
 layout: post
 title: "Programming by coincidence"
 ---

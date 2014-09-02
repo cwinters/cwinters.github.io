@@ -1,4 +1,5 @@
 ---
+tags: ide java
 layout: post
 title: "IDEA 5.0 getting nearer..."
 ---

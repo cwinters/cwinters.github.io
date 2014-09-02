@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "More on forest thinning"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "A t-shirt I could love"
 ---

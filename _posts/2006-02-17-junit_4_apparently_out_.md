@@ -1,4 +1,5 @@
 ---
+tags: java testing
 layout: post
 title: "JUnit 4 apparently out "
 ---

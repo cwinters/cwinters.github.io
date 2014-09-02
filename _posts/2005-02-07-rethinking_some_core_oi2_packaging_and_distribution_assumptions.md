@@ -1,4 +1,5 @@
 ---
+tags: oi2 refactoring
 layout: post
 title: "Rethinking some core OI2 packaging and distribution assumptions"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: movies comics reviews
 layout: post
 title: "The obligatory Dark Knight post"
 ---

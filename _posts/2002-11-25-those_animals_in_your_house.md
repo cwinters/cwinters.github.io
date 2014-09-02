@@ -1,4 +1,5 @@
 ---
+tags: cats
 layout: post
 title: "Those animals in your house"
 ---

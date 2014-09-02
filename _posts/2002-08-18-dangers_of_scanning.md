@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Dangers of scanning"
 ---

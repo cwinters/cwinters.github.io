@@ -1,4 +1,5 @@
 ---
+tags: dancing
 layout: post
 title: "Dancing naturally? Hah!"
 ---

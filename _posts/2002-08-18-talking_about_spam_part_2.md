@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Talking about spam (Part 2);"
 ---

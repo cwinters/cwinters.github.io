@@ -1,4 +1,5 @@
 ---
+tags: vacation
 layout: post
 title: "Where you at?"
 ---

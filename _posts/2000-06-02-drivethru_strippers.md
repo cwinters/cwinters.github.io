@@ -1,4 +1,5 @@
 ---
+tags: naked
 layout: post
 title: "Drive-thru strippers"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: oi2 work
 layout: post
 title: "Upcoming job change"
 ---

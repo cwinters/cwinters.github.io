@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Remembering why I don't like hardware..."
 ---

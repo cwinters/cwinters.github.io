@@ -1,4 +1,5 @@
 ---
+tags: java xml
 layout: post
 title: "kXML: PI must not start with xml"
 ---

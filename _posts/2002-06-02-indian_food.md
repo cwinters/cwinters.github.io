@@ -1,4 +1,5 @@
 ---
+tags: food pittsburgh
 layout: post
 title: "indian food"
 ---

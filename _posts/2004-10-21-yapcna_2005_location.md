@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "YAPC::NA 2005 location"
 ---

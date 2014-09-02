@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Eloquence isn't just speaking well..."
 ---

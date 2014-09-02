@@ -1,4 +1,5 @@
 ---
+tags: driving family vacation
 layout: post
 title: "Florida vacation and driving"
 ---

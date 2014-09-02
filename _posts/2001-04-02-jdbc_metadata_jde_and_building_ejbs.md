@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "JDBC metadata, JDE and building EJBs"
 ---

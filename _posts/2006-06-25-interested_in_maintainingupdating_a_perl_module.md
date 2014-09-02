@@ -1,4 +1,5 @@
 ---
+tags: opensource perl
 layout: post
 title: "Interested in maintaining/updating a perl module?"
 ---

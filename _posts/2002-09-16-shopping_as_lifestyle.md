@@ -1,4 +1,5 @@
 ---
+tags: advertising
 layout: post
 title: "Shopping as lifestyle"
 ---

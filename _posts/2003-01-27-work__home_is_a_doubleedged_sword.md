@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Work == home is a double-edged sword"
 ---

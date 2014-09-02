@@ -1,4 +1,5 @@
 ---
+tags: airlines email
 layout: post
 title: "Spat of annoying emails today"
 ---

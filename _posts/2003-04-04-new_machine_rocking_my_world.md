@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "New machine rocking my world"
 ---

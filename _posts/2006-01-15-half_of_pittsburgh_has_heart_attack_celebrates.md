@@ -1,4 +1,5 @@
 ---
+tags: steelers
 layout: post
 title: "Half of Pittsburgh has heart attack, celebrates"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Getting XEmacs working with Panther on the AlBook"
 ---

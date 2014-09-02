@@ -1,4 +1,5 @@
 ---
+tags: health
 layout: post
 title: "A possible side-effect of Barb's job change: getting sick"
 ---

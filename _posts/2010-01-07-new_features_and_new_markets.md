@@ -1,4 +1,5 @@
 ---
+tags: twitter domain development requirements design customer
 layout: post
 title: "New features and new markets"
 ---

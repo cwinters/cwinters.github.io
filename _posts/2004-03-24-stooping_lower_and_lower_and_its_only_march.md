@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Stooping lower and lower... and it's only March!"
 ---

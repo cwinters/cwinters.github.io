@@ -1,4 +1,5 @@
 ---
+tags: cwinters.com fun
 layout: post
 title: "My real day job"
 ---

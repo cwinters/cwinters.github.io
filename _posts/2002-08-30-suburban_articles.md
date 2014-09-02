@@ -1,4 +1,5 @@
 ---
+tags: planning
 layout: post
 title: "Suburban articles"
 ---

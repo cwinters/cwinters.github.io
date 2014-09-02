@@ -1,4 +1,5 @@
 ---
+tags: music sleep
 layout: post
 title: "Worse things to hear"
 ---

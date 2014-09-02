@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Fighting styles of a defense secretary"
 ---

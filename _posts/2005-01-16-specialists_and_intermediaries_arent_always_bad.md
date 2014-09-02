@@ -1,4 +1,5 @@
 ---
+tags: specialization
 layout: post
 title: "Specialists and intermediaries aren't always bad..."
 ---

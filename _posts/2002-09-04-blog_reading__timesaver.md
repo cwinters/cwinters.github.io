@@ -1,4 +1,5 @@
 ---
+tags: opensource rules
 layout: post
 title: "blog reading == timesaver"
 ---

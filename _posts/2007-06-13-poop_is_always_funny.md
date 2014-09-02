@@ -1,4 +1,5 @@
 ---
+tags: fun scatological
 layout: post
 title: "Poop is always funny"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: sports
 layout: post
 title: "The thing I really hate about the Super Bowl"
 ---

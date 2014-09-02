@@ -1,4 +1,5 @@
 ---
+tags: hiring perl webapp
 layout: post
 title: "Perl webapp frameworks: what to explore?"
 ---

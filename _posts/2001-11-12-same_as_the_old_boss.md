@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Same as the old boss"
 ---

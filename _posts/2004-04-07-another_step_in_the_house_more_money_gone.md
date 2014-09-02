@@ -1,4 +1,5 @@
 ---
+tags: house
 layout: post
 title: "Another step in the house, more money gone..."
 ---

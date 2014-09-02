@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Martin Fowler interview: flexibility == complexity"
 ---

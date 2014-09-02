@@ -1,4 +1,5 @@
 ---
+tags: ide java orm
 layout: post
 title: "Save five minutes: careful with auto-implementing Hibernate Interceptors"
 ---

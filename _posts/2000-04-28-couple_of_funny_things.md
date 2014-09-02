@@ -1,4 +1,5 @@
 ---
+tags: community linux vc
 layout: post
 title: "Couple of funny things"
 ---

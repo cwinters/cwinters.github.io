@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "In a land where everybody is somebody..."
 ---

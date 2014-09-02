@@ -1,4 +1,5 @@
 ---
+tags: cwinters.com templating
 layout: post
 title: "Small ttree config change fixes site"
 ---

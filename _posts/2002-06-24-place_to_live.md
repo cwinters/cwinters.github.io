@@ -1,4 +1,5 @@
 ---
+tags: moving pittsburgh
 layout: post
 title: "Place to live"
 ---

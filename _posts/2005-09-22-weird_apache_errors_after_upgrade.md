@@ -1,4 +1,5 @@
 ---
+tags: apache cwinters.com sysadmin
 layout: post
 title: "Weird apache errors after upgrade"
 ---

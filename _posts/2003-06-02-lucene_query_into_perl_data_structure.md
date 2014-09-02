@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Lucene query into Perl data structure"
 ---

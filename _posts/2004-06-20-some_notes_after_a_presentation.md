@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Some notes after a presentation"
 ---

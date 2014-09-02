@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Consequences of a faith-based presidency"
 ---

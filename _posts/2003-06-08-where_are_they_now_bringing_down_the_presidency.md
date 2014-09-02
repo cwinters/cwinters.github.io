@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Where are they now: bringing down the presidency"
 ---

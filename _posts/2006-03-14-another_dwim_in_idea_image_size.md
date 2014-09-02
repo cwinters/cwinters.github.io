@@ -1,4 +1,5 @@
 ---
+tags: ide java
 layout: post
 title: "Another DWIM in IDEA: image size"
 ---

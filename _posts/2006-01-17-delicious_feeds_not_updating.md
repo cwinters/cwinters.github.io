@@ -1,4 +1,5 @@
 ---
+tags: feed uptime
 layout: post
 title: "del.icio.us feeds not updating?"
 ---

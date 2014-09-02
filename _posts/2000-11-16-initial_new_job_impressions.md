@@ -1,4 +1,5 @@
 ---
+tags: java work
 layout: post
 title: "Initial new job impressions"
 ---

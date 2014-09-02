@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "More proof of our amazing abilities..."
 ---

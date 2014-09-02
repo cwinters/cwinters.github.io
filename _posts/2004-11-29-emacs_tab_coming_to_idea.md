@@ -1,4 +1,5 @@
 ---
+tags: ide java
 layout: post
 title: "Emacs TAB coming to IDEA"
 ---

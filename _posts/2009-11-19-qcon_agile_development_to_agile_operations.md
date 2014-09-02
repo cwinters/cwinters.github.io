@@ -1,4 +1,5 @@
 ---
+tags: qcon conference agile operations deployment design modeling
 layout: post
 title: "QCon 2009: Agile Development to Agile Operations"
 ---

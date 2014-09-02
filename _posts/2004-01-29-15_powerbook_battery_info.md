@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "15-inch PowerBook battery info"
 ---

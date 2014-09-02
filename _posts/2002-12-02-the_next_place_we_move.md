@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "The next place we move...."
 ---

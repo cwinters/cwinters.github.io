@@ -1,4 +1,5 @@
 ---
+tags: ide java
 layout: post
 title: "IDEA: How did they do that?"
 ---

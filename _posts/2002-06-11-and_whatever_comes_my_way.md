@@ -1,4 +1,5 @@
 ---
+tags: alcohol cars food vacation
 layout: post
 title: "and whatever comes my way"
 ---

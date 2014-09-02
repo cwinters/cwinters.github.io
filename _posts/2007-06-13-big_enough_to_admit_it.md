@@ -1,4 +1,5 @@
 ---
+tags: cats fun
 layout: post
 title: "Big enough to admit it"
 ---

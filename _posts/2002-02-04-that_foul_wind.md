@@ -1,4 +1,5 @@
 ---
+tags: java weather
 layout: post
 title: "That foul wind"
 ---

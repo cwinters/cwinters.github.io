@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "Movies and malls making me a tool"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: ella books movies nostalgia
 layout: post
 title: "Charlotte's Web and the blur of nostalgia"
 ---

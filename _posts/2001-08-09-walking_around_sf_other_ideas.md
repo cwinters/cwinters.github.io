@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Walking around SF, other ideas"
 ---

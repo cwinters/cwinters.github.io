@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "Maybe I won't be upgrading that Powerbook"
 ---

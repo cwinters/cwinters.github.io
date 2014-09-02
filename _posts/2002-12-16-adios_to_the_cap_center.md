@@ -1,4 +1,5 @@
 ---
+tags: music sports washingtondc
 layout: post
 title: "Adios to the Cap Center"
 ---

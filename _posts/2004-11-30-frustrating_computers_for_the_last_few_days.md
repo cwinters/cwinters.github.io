@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "Frustrating computers for the last few days"
 ---

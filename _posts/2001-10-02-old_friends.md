@@ -1,4 +1,5 @@
 ---
+tags: death
 layout: post
 title: "Old friends"
 ---

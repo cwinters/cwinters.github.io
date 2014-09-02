@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "Results of Powerbook memory upgrade: zippy!"
 ---

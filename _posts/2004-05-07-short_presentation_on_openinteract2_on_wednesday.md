@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Short presentation on OpenInteract2 on Wednesday"
 ---

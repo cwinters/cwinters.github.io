@@ -1,4 +1,5 @@
 ---
+tags: technology ui
 layout: post
 title: "Microwave interface: so simple, so broken"
 ---

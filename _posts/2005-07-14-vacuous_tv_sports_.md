@@ -1,4 +1,5 @@
 ---
+tags: media sports
 layout: post
 title: "Vacuous TV sports "
 ---

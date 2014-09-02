@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Pagebreaks in HTML? Get out!"
 ---

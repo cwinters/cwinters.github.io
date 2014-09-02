@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Struggling is for poor people"
 ---

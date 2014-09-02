@@ -1,4 +1,5 @@
 ---
+tags: driving weather wedding
 layout: post
 title: "Flowers, snow and MORE dancing"
 ---

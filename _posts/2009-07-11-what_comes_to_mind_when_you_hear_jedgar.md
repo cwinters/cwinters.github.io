@@ -1,4 +1,5 @@
 ---
+tags: kids
 layout: post
 title: "What comes to mind when you hear J. Edgar?"
 ---

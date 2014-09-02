@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "I miss the old Dennis too"
 ---

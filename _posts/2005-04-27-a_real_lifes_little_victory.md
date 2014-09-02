@@ -1,4 +1,5 @@
 ---
+tags: chores fun
 layout: post
 title: "A real Life's Little Victory"
 ---

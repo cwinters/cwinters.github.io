@@ -1,4 +1,5 @@
 ---
+tags: ecommerce
 layout: post
 title: "Weird book buying patterns"
 ---

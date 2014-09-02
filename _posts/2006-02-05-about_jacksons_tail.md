@@ -1,4 +1,5 @@
 ---
+tags: cats illness
 layout: post
 title: "About Jackson's tail"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: j2me java
 layout: post
 title: "Muddying what 'embedded java' means"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: cwinters.com oi2
 layout: post
 title: "Updated site to OpenInteract2"
 ---

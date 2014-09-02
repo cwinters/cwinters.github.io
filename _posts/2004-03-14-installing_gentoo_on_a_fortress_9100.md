@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Installing Gentoo on a Fortress 9100"
 ---

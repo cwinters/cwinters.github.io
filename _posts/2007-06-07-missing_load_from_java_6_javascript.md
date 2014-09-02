@@ -1,4 +1,5 @@
 ---
+tags: java javascript
 layout: post
 title: "Missing 'load' from Java 6 JavaScript?"
 ---

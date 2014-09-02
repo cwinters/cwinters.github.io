@@ -1,4 +1,5 @@
 ---
+tags: qcon conference rest design http
 layout: post
 title: "QCon 2009: REST in Practice"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Another look at W"
 ---

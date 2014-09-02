@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "New PB memory working perfectly"
 ---

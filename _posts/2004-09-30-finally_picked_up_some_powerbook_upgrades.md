@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "Finally picked up some Powerbook upgrades"
 ---

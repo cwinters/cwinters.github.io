@@ -1,4 +1,5 @@
 ---
+tags: house
 layout: post
 title: "Buying a house: it's in our reach..."
 ---

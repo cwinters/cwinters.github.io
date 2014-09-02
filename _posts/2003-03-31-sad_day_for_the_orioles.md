@@ -1,4 +1,5 @@
 ---
+tags: sports
 layout: post
 title: "Sad day for the Orioles"
 ---

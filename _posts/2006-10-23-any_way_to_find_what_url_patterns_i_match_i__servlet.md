@@ -1,4 +1,5 @@
 ---
+tags: java servlet
 layout: post
 title: "Any way to find what URL patterns I match? (I == Servlet)"
 ---

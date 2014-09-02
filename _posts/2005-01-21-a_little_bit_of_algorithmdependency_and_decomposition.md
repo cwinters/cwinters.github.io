@@ -1,4 +1,5 @@
 ---
+tags: oi2 perl
 layout: post
 title: "A little bit of Algorithm::Dependency and decomposition"
 ---

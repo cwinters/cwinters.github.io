@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Where'd those liberals go off to?"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: holiday
 layout: post
 title: "The Christmas haul"
 ---

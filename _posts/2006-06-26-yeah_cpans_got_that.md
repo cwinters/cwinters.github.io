@@ -1,4 +1,5 @@
 ---
+tags: cpan perl webservices
 layout: post
 title: "Yeah, CPAN's got that"
 ---

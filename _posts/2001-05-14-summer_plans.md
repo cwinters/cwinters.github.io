@@ -1,4 +1,5 @@
 ---
+tags: oi2 vacation yapc
 layout: post
 title: "Summer plans"
 ---

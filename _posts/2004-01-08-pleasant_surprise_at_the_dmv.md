@@ -1,4 +1,5 @@
 ---
+tags: bureaucracy government
 layout: post
 title: "Pleasant surprise at the DMV"
 ---

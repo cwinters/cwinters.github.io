@@ -1,4 +1,5 @@
 ---
+tags: java javascript scripting
 layout: post
 title: "How to create inner class-like implementations in Rhino"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: birthday
 layout: post
 title: "My wife is so thoughtful"
 ---

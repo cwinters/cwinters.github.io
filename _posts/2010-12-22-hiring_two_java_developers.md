@@ -1,4 +1,5 @@
 ---
+tags: accunurse hiring pittsburgh java
 layout: post
 title: "Hiring two Java developers"
 ---

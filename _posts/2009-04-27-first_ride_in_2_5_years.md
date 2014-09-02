@@ -1,4 +1,5 @@
 ---
+tags: bicycle
 layout: post
 title: "First ride in 2.5 years"
 ---

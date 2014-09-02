@@ -1,4 +1,5 @@
 ---
+tags: programming work
 layout: post
 title: "Changing positions internally: does your company encourage it?"
 ---

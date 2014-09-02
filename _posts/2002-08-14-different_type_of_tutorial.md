@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Different type of tutorial"
 ---

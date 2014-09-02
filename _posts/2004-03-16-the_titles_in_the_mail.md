@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "The title's in the mail..."
 ---

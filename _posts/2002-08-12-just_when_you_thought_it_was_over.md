@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Just when you thought it was over"
 ---

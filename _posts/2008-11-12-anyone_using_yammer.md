@@ -1,4 +1,5 @@
 ---
+tags: socialnetworking serendipity twitter messaging
 layout: post
 title: "Anyone using yammer?"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: cats nyc
 layout: post
 title: "Underground cat"
 ---

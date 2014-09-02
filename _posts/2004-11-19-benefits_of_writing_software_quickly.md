@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Benefits of writing software quickly"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: steelers
 layout: post
 title: "An idea for yet another Steeler song"
 ---

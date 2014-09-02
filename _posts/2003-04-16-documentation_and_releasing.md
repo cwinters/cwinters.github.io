@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Documentation and releasing"
 ---

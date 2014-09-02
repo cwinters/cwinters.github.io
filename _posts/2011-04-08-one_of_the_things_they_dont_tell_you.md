@@ -1,4 +1,5 @@
 ---
+tags: children death cancer
 layout: post
 title: "One of the things they don't tell you..."
 ---

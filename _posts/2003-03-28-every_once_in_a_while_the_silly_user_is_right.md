@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Every once in a while, the silly user is right"
 ---

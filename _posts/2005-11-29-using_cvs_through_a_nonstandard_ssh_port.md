@@ -1,4 +1,5 @@
 ---
+tags: scm
 layout: post
 title: "Using CVS through a non-standard SSH port"
 ---

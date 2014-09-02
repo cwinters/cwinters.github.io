@@ -1,4 +1,5 @@
 ---
+tags: cats fun
 layout: post
 title: "Wacky products: Cat Butt Gum"
 ---

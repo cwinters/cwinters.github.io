@@ -1,4 +1,5 @@
 ---
+tags: ide java
 layout: post
 title: "Not installing IDEA plugins properly can have weird side-effects"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Taking a trip, real benefits of open source"
 ---

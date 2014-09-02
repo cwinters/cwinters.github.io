@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Poor people need to pay more taxes"
 ---

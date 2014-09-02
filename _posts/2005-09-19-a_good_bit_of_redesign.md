@@ -1,4 +1,5 @@
 ---
+tags: css cwinters.com
 layout: post
 title: "A good bit of redesign"
 ---

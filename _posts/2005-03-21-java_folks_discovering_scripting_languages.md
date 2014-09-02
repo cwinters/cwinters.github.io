@@ -1,4 +1,5 @@
 ---
+tags: java perl
 layout: post
 title: "Java folks 'discovering' scripting languages"
 ---

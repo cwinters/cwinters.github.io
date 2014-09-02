@@ -1,4 +1,5 @@
 ---
+tags: comedy work
 layout: post
 title: "Physical precision"
 ---

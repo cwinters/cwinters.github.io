@@ -1,4 +1,5 @@
 ---
+tags: perl testing
 layout: post
 title: "Slides from Test Tutorial talk"
 ---

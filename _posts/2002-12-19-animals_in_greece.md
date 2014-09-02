@@ -1,4 +1,5 @@
 ---
+tags: animals
 layout: post
 title: "Animals in Greece"
 ---

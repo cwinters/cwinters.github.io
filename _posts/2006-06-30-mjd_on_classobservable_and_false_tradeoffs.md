@@ -1,4 +1,5 @@
 ---
+tags: patterns perl programming
 layout: post
 title: "MJD on Class::Observable and false trade-offs"
 ---

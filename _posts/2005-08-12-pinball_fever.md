@@ -1,4 +1,5 @@
 ---
+tags: games pinball pittsburgh
 layout: post
 title: "Pinball fever!"
 ---

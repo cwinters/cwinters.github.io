@@ -1,4 +1,5 @@
 ---
+tags: javascript presentation
 layout: post
 title: "Slides from JavaScript talk"
 ---

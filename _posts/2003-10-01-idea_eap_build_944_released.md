@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "IDEA EAP Build 944 released"
 ---

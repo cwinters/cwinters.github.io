@@ -1,4 +1,5 @@
 ---
+tags: patterns
 layout: post
 title: "Good interview with Ward Cunningham"
 ---

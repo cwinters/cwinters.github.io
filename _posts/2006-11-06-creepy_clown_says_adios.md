@@ -1,4 +1,5 @@
 ---
+tags: clown house
 layout: post
 title: "Creepy clown says adios"
 ---

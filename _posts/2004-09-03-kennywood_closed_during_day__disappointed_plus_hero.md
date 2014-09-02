@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "Kennywood closed during day -- disappointed! Plus: Hero"
 ---

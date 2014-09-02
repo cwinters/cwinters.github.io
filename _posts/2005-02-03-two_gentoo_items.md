@@ -1,4 +1,5 @@
 ---
+tags: gentoo linux
 layout: post
 title: "Two gentoo items..."
 ---

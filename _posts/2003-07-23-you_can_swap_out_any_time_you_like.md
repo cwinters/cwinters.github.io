@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "'You can swap out any time you like...'"
 ---

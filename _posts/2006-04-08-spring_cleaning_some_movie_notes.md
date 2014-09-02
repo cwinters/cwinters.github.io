@@ -1,4 +1,5 @@
 ---
+tags: movies
 layout: post
 title: "Spring cleaning: Some movie notes"
 ---

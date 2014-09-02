@@ -1,4 +1,5 @@
 ---
+tags: collaboration distributed wiki
 layout: post
 title: "Syncable wiki?"
 ---

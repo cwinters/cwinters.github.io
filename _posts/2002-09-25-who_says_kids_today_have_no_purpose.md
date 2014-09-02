@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Who says kids today have no purpose?"
 ---

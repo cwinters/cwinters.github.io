@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "Recent New Yorker article on an Italian shoemaker"
 ---

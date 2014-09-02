@@ -1,4 +1,5 @@
 ---
+tags: java javascript
 layout: post
 title: "Java 6 to include JavaScript?"
 ---

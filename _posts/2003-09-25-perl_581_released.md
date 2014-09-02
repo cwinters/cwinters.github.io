@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Perl 5.8.1 released"
 ---

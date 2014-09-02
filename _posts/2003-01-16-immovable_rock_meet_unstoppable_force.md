@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Immovable rock, meet unstoppable force..."
 ---

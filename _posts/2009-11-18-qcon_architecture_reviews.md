@@ -1,4 +1,5 @@
 ---
+tags: architecture criticism review presentation qcon conference
 layout: post
 title: "QCon 2009: Architecture Reviews"
 ---

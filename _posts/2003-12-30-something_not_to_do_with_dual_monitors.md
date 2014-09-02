@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "Something not to do with dual monitors..."
 ---

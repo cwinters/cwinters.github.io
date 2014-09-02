@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Results of demo, ugly reporting hack"
 ---

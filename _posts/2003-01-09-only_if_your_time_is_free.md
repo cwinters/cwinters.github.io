@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Only if your time is free..."
 ---

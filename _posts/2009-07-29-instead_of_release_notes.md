@@ -1,4 +1,5 @@
 ---
+tags: fun emacs editor
 layout: post
 title: "Instead of release notes..."
 ---

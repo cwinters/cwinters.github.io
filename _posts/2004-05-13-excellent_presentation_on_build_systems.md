@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Excellent presentation on build systems"
 ---

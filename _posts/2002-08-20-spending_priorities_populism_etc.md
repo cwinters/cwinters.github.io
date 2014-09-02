@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Spending priorities, populism, etc."
 ---

@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "How do you build a GUI?"
 ---

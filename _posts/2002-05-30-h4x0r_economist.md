@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "H4x0r Economist"
 ---

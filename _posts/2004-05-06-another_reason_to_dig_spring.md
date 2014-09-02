@@ -1,4 +1,5 @@
 ---
+tags: ejb java spring
 layout: post
 title: "Another reason to dig Spring"
 ---

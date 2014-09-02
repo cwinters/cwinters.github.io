@@ -1,4 +1,5 @@
 ---
+tags: outsourcing photos
 layout: post
 title: "Submitting to Flickr"
 ---

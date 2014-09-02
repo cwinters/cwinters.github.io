@@ -1,4 +1,5 @@
 ---
+tags: javascript java perl ruby datetime
 layout: post
 title: "Next and previous JavaScript months"
 ---

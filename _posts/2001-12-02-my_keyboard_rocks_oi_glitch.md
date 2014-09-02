@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "My keyboard rocks, OI glitch"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: ajax
 layout: post
 title: "Notes while researching AJAX libraries"
 ---

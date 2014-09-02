@@ -1,4 +1,5 @@
 ---
+tags: mac
 layout: post
 title: "OS X history and architecture"
 ---

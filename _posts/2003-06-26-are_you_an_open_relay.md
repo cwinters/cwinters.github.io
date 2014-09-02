@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Are you an open relay?"
 ---

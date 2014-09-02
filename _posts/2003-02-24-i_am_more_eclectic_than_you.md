@@ -1,4 +1,5 @@
 ---
+tags: music programming
 layout: post
 title: "I am more eclectic than you"
 ---

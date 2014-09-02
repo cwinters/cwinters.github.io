@@ -1,4 +1,5 @@
 ---
+tags: comics quiz
 layout: post
 title: "I am Spider-Man!"
 ---

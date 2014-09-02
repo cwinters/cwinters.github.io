@@ -1,4 +1,5 @@
 ---
+tags: qcon conference design
 layout: post
 title: "QCon 2009: Strategic Design"
 ---

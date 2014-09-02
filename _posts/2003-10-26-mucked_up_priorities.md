@@ -1,4 +1,5 @@
 ---
+tags: pittsburgh politics
 layout: post
 title: "Mucked up priorities?"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: movies
 layout: post
 title: "'We both love soup'"
 ---

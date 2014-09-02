@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Humbling words from your peers"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Overview of Iraq pro/con"
 ---

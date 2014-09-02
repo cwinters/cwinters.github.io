@@ -1,4 +1,5 @@
 ---
+tags: bicycle exercise
 layout: post
 title: "I should be riding my bike right now"
 ---

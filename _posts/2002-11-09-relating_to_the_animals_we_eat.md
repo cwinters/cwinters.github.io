@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Relating to the animals we eat"
 ---

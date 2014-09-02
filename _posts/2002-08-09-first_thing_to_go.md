@@ -1,4 +1,5 @@
 ---
+tags: greece memory
 layout: post
 title: "First thing to go"
 ---

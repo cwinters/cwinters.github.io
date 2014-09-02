@@ -1,4 +1,5 @@
 ---
+tags: astronomy photography pittsburgh
 layout: post
 title: "Fireworks + Pittsburgh"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: photos
 layout: post
 title: "Separated at birth? Knuth and Lipset"
 ---

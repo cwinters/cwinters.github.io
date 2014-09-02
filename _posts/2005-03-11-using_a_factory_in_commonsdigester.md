@@ -1,4 +1,5 @@
 ---
+tags: java xml
 layout: post
 title: "Using a factory in commons-digester"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Can't keep a bad UI down"
 ---

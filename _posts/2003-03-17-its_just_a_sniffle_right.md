@@ -1,4 +1,5 @@
 ---
+tags: health
 layout: post
 title: "It's just a sniffle, right?"
 ---

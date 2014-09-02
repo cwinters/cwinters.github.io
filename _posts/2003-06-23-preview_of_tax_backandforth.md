@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Preview of tax back-and-forth"
 ---

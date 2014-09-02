@@ -1,4 +1,5 @@
 ---
+tags: oi2 patterns perl programming
 layout: post
 title: "Using a lot lately: Factory + implementation autodiscovery"
 ---

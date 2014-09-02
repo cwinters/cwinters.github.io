@@ -1,4 +1,5 @@
 ---
+tags: curmudgeon food
 layout: post
 title: "Cafe Cookies good? Ha!"
 ---

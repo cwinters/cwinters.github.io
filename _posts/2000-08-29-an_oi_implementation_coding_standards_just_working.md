@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "An OI implementation, coding standards, Just Working"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: jackson cats death
 layout: post
 title: "RIP, Jackson"
 ---

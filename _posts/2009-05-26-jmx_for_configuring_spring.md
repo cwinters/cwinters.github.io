@@ -1,4 +1,5 @@
 ---
+tags: jmx spring configuration
 layout: post
 title: "JMX for configuing Spring?"
 ---

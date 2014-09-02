@@ -1,4 +1,5 @@
 ---
+tags: codegeneration food java wiki
 layout: post
 title: "Cooking it up"
 ---

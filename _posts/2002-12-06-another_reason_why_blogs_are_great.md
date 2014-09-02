@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Another reason why blogs are great"
 ---

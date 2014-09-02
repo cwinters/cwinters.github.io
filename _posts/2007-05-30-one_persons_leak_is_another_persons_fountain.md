@@ -1,4 +1,5 @@
 ---
+tags: development ide
 layout: post
 title: "One person's leak is another person's fountain"
 ---

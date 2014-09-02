@@ -1,4 +1,5 @@
 ---
+tags: media
 layout: post
 title: "Matrix in 24 hours"
 ---

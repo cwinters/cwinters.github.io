@@ -1,4 +1,5 @@
 ---
+tags: hair
 layout: post
 title: "My hair isn't that bad"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: ella
 layout: post
 title: "Ella's latest stats"
 ---

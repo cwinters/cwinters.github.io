@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Bridges are good: DBI-to-JDBC"
 ---

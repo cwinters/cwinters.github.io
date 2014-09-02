@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Endear yourself to skeptics"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: medical
 layout: post
 title: "Destruction of the western world"
 ---

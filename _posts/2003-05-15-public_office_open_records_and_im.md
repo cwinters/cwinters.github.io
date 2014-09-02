@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "Public office, open records and IM"
 ---

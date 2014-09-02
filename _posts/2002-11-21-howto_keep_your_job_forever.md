@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "HOWTO keep your job forever"
 ---

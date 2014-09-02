@@ -1,4 +1,5 @@
 ---
+tags: java xml
 layout: post
 title: "Useful but probably common XPath function"
 ---

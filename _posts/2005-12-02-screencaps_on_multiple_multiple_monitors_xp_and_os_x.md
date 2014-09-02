@@ -1,4 +1,5 @@
 ---
+tags: mac win32
 layout: post
 title: "Screencaps on multiple multiple monitors, XP and OS X"
 ---

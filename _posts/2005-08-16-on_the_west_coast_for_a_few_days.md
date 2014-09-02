@@ -1,4 +1,5 @@
 ---
+tags: vacation
 layout: post
 title: "On the west coast for a few days"
 ---

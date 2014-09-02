@@ -1,4 +1,5 @@
 ---
+tags: quotes behavior
 layout: post
 title: "Corollary to Shaw's unreasonable man"
 ---

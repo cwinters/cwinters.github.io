@@ -1,4 +1,5 @@
 ---
+tags: java perl
 layout: post
 title: "A couple of the things I miss most from perl..."
 ---

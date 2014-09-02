@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "Value of tests, part 808"
 ---

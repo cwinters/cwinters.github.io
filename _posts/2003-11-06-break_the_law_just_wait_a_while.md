@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Break the law? Just wait a while..."
 ---

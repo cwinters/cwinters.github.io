@@ -1,4 +1,5 @@
 ---
+tags: pittjug java concurrency presentation
 layout: post
 title: "Notes on PittJUG: Stop Racing Toward Disaster"
 ---

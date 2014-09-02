@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "What we really mean when we talk about software"
 ---

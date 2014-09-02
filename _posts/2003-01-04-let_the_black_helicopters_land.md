@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "Let the black helicopters land"
 ---

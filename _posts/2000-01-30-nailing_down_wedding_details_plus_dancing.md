@@ -1,4 +1,5 @@
 ---
+tags: wedding
 layout: post
 title: "Nailing down wedding details, plus dancing"
 ---

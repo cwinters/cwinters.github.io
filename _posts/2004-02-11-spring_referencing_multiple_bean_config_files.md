@@ -1,4 +1,5 @@
 ---
+tags: java servlet spring
 layout: post
 title: "Spring: Referencing multiple bean config files"
 ---

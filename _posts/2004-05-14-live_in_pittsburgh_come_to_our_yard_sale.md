@@ -1,4 +1,5 @@
 ---
+tags: daily-life
 layout: post
 title: "Live in Pittsburgh? Come to our yard sale!"
 ---

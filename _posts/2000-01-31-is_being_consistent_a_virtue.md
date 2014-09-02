@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "Is being consistent a virtue?"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: fun
 layout: post
 title: "More proof of the conspiracy"
 ---

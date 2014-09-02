@@ -1,4 +1,5 @@
 ---
+tags: animals food
 layout: post
 title: "Eat anything you want"
 ---

@@ -1,4 +1,5 @@
 ---
+tags: perl
 layout: post
 title: "RFC: CPAN moratorium on templating modules"
 ---

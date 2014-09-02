@@ -1,4 +1,5 @@
 ---
+tags: oi2 perl
 layout: post
 title: "My first online interview"
 ---

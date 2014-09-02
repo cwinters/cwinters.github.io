@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "'Right tool for the job' is stupid"
 ---

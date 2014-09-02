@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Presentation and open source serendipity"
 ---

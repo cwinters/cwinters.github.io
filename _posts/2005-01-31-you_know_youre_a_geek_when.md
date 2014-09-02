@@ -1,4 +1,5 @@
 ---
+tags: fun geek
 layout: post
 title: "You know you're a geek when..."
 ---

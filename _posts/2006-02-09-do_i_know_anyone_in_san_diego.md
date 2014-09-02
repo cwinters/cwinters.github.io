@@ -1,4 +1,5 @@
 ---
+tags: conference travel
 layout: post
 title: "Do I know anyone in San Diego?"
 ---

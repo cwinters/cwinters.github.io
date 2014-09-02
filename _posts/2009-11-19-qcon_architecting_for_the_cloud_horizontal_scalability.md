@@ -1,4 +1,5 @@
 ---
+tags: qcon scalability cloudcomputing conference
 layout: post
 title: "QCon 2009: Architecting for the cloud: hoizontal scalability"
 ---

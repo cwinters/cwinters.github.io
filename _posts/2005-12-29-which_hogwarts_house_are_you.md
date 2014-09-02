@@ -1,4 +1,5 @@
 ---
+tags: harrypotter
 layout: post
 title: "Which hogwarts house are you?"
 ---

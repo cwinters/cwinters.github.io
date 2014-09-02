@@ -1,4 +1,5 @@
 ---
+tags: hiring rest xml
 layout: post
 title: "Hire this guy"
 ---

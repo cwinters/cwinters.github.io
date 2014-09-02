@@ -1,4 +1,5 @@
 ---
+tags: corporate hiring
 layout: post
 title: "More Malcolm Gladwell articles"
 ---

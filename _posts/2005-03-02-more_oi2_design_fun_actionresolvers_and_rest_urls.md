@@ -1,4 +1,5 @@
 ---
+tags: oi2 perl
 layout: post
 title: "More OI2 design fun: ActionResolvers and REST URLs"
 ---

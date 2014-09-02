@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "No, I didn't mean print right now!"
 ---

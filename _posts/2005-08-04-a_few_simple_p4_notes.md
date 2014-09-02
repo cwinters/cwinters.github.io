@@ -1,4 +1,5 @@
 ---
+tags: perforce scm
 layout: post
 title: "A few simple p4 notes"
 ---

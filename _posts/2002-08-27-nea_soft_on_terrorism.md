@@ -1,4 +1,5 @@
 ---
+tags: politics
 layout: post
 title: "NEA soft on terrorism?!"
 ---

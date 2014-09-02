@@ -1,4 +1,5 @@
 ---
+tags: advertising food health pennsylvania politics
 layout: post
 title: "PA to ban 'no artificial hormones' milk labeling"
 ---

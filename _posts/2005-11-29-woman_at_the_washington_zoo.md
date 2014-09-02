@@ -1,4 +1,5 @@
 ---
+tags: death writing
 layout: post
 title: "'Woman at the Washington Zoo'"
 ---

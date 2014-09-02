@@ -1,4 +1,5 @@
 ---
+tags: cwinters.com perl postgresql
 layout: post
 title: "Back up! Intermittent problems with DBD::Pg"
 ---

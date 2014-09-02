@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Deserializing Java Vectors with SOAP::Lite"
 ---

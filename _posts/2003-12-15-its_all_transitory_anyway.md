@@ -1,4 +1,5 @@
 ---
+tags: technology
 layout: post
 title: "It's all transitory anyway"
 ---

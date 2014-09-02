@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Scanning fiend, relating objects"
 ---

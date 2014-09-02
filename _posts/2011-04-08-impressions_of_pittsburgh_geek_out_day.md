@@ -1,4 +1,5 @@
 ---
+tags: pittsburgh openspace conference
 layout: post
 title: "Impressions of Pittsburgh Geek Out Day"
 ---

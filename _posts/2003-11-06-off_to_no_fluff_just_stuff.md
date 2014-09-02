@@ -1,4 +1,5 @@
 ---
+tags: java
 layout: post
 title: "Off to No Fluff Just Stuff"
 ---

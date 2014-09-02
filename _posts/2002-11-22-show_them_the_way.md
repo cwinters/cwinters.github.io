@@ -1,4 +1,5 @@
 ---
+tags: programming
 layout: post
 title: "Show them the way"
 ---
