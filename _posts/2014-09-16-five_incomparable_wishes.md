@@ -73,4 +73,8 @@ number of comics with strong female leads --
 [Queen & Country](https://www.comixology.com/Queen-Country/comics-series/1162) -- 
 the last of which is a series of novels as well.
 
+__UPDATE__ - [@theincomparable](http://twitter.com/theincomparable/) graciously
+[pointed out](https://twitter.com/theincomparable/status/511922214065553408) 
+that a Brian K. Vaughan episode 
+[already exists](http://www.theincomparable.com/theincomparable/54/)!
 
