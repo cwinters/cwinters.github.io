@@ -23,8 +23,8 @@ Gifted Teens":
 > walking, waking nightmare. But perhaps, with some time and effort, you can
 > change places with me.
 
-And the initial story has a rematch between the tortoise and hare from the
-fable has this description of the result:
+And the initial story, about a rematch between the tortoise and hare from the
+fable, has this description of the result:
 
 > Never, in the history of competition -- athletic or otherwise, human or
 > otherwise, mythical or otherwise -- has anyone ever kicked anyone's ass by
