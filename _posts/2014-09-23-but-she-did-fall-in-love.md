@@ -1,5 +1,5 @@
 ---
-title "But she did fall in love..."
+title: "But she did fall in love..."
 layout: post
 tags: quote fiction writing
 ---
