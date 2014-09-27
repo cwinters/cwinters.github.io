@@ -4,12 +4,10 @@ layout: post
 title: "A Jersey Freemarker Provider"
 ---
 
+<b>UPDATE:</b> This is now 
+<a href="http://github.com/cwinters/jersey-freemarker/tree/master">on github</a>.
 
-
-<p><b>UPDATE:</b> This is now 
-<a href="http://github.com/cwinters/jersey-freemarker/tree/master">on github</a>.</p>
-
-<p>There's no built-in Freemarker support in Jersey, which is
+There's no built-in Freemarker support in Jersey, which is
 fine: no reason to support every view technology under the
 sun. Particularly when Jersey makes it so easy to
 integrate. There's only one implementation I found, 
@@ -19,25 +17,23 @@ on the jersey mailing list.[1] For reference, there's also
 Mr. Jersey</a> about how to use JSP and "implicit views", but it
 references Freemarker rather than providing an example. (I'm not
 a fan of implicit views because I like to have the flexibility of
-sending other objects than my resource to the template.)</p>
+sending other objects than my resource to the template.)
 
-<p>Anyway, my example is similar to the one I found but uses the
+Anyway, my example is similar to the one I found but uses the
 servlet context to load the templates vs the classpath, and also
 allows you to configure where those templates are stored in your
 webapp. It's also got support for loading a
 <tt>freemarker.properties</tt> from the classpath and passing a
-<tt>Map</tt> to your view instead of a resource.</p>
+<tt>Map</tt> to your view instead of a resource.
 
-<p>So here's another starting point for someone, with a few
-caveats:</p>
+So here's another starting point for someone, with a few
+caveats:
 
-<ul>
-  <li>It works for me, in my little application.</li>
-  <li>It just dumps errors out to the web page (easy fix: don't
-  break stuff, duh).</li>
-</ul>
+* It works for me, in my little application.
+* It just dumps errors out to the web page (easy fix: don't
+  break stuff, duh).
 
-<pre class="sourceCode">
+{% highlight java %}
 package com.cwinters.jersey;
 
 import com.sun.jersey.spi.template.TemplateProcessor;
@@ -55,48 +51,48 @@ import java.util.*;
 /**
  * Match a Viewable-named view with a Freemarker template.
  *
- * &lt;p>You can configure the location of your templates with the
+ * <p>You can configure the location of your templates with the
  * context param 'freemarker.template.path'. If not assigned
- * we'll use a default of &lt;tt&gt;WEB-INF/templates&lt;/tt&gt;. Note that this uses
+ * we'll use a default of <tt>WEB-INF/templates</tt>. Note that this uses
  * Freemarker's {@link freemarker.cache.WebappTemplateLoader} to
  * load/cache the templates, so check its docs (or crank up the logging
  * under the 'freemarker.cache' package) if your templates
- * aren't getting loaded.&lt;/p&gt;
+ * aren't getting loaded.</p>
  *
- * &lt;p&gt;This will put your Viewable's model object in the template
+ * <p>This will put your Viewable's model object in the template
  * variable "it", unless the model is a Map. If so, the values
  * will be assigned to the template assuming the map is of
- * type &lt;tt&gt;Map&lt;String,Object&gt;&lt;/tt&gt;.&lt;/p&gt;
+ * type <tt>Map<String,Object></tt>.</p>
  *
  * Example of configuring the template path:
  *
- * &lt;pre&gt;
- * &lt;web-app ...
- *    &lt;display-name&gt;Awesomeo 2000&lt;/display-name&gt;
- *    &lt;context-param&gt;
- *       &lt;param-name&gt;freemarker.template.path&lt;/param-name&gt;
- *       &lt;param-value&gt;/WEB-INF/views&lt;/param-value&gt;
- *   &lt;/context-param&gt;
+ * <pre>
+ * <web-app ...
+ *    <display-name>Awesomeo 2000</display-name>
+ *    <context-param>
+ *       <param-name>freemarker.template.path</param-name>
+ *       <param-value>/WEB-INF/views</param-value>
+ *   </context-param>
  *   ...
- *&lt;/pre&gt;
+ *</pre>
  *
- * &lt;p&gt;You'll also need to tell Jersey the package where this provider
+ * <p>You'll also need to tell Jersey the package where this provider
  * is stored. Typically this is through the servlet's init params -- for instance,
- * in the below configuration we could store this in &lt;tt&gt;com.myco.jersey&lt;/tt&gt; and
- * my resources in &lt;tt&gt;com.myco.jersey.resource&lt;/tt&gt;&lt;/p&gt;
+ * in the below configuration we could store this in <tt>com.myco.jersey</tt> and
+ * my resources in <tt>com.myco.jersey.resource</tt></p>
  *
- * &lt;pre&gt;
- * &lt;servlet&gt;
- *     &lt;servlet-name&gt;My REST App&lt;/servlet-name&gt;
- *     &lt;servlet-class&gt;com.sun.jersey.spi.container.servlet.ServletContainer&lt;/servlet-class&gt;
- *     &lt;init-param&gt;
- *         &lt;param-name&gt;com.sun.jersey.config.property.packages&lt;/param-name&gt;
- *         &lt;param-value&gt;com.myco.jersey;com.myco.jersey.resource&lt;/param-value&gt;
- *     &lt;/init-param&gt;
- * &lt;/servlet&gt;
- * &lt;/pre&gt;
+ * <pre>
+ * <servlet>
+ *     <servlet-name>My REST App</servlet-name>
+ *     <servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer</servlet-class>
+ *     <init-param>
+ *         <param-name>com.sun.jersey.config.property.packages</param-name>
+ *         <param-value>com.myco.jersey;com.myco.jersey.resource</param-value>
+ *     </init-param>
+ * </servlet>
+ * </pre>
  *
- * @author Chris Winters &lt;chris@cwinters.com&gt;
+ * @author Chris Winters <chris@cwinters.com>
  */
 @Provider
 public class FreemarkerTemplateProvider implements TemplateProcessor
@@ -147,9 +143,9 @@ public class FreemarkerTemplateProvider implements TemplateProcessor
 
         final OutputStreamWriter writer = new OutputStreamWriter( out );
 
-        final Map&lt;String,Object&gt; vars;
+        final Map<String,Object> vars;
         if ( model instanceof Map ) {
-            vars = new HashMap&lt;String, Object&gt;( (Map&lt;String, Object&gt;)model );
+            vars = new HashMap<String, Object>( (Map<String, Object>)model );
         }
         else {
             vars = Util.stringKeyMap( "it", model );
@@ -165,9 +161,9 @@ public class FreemarkerTemplateProvider implements TemplateProcessor
         }
         catch ( Throwable t ) {
             log.error( "Error processing freemarker template @ " + resolvedPath + ": " + t.getMessage(), t );
-            out.write( "&lt;pre&gt;".getBytes() );
+            out.write( "<pre>".getBytes() );
             t.printStackTrace( new PrintStream( out ) );
-            out.write( "&lt;/pre&gt;".getBytes() );
+            out.write( "</pre>".getBytes() );
         }
     }
 
@@ -208,11 +204,11 @@ public class FreemarkerTemplateProvider implements TemplateProcessor
         log.info( "OK: Assigned default freemarker configuration" );
     }
 }
-</pre>
+{% endhighlight %}
 
-<p>And here's an example of how to use it:</p>
+And here's an example of how to use it:
 
-<pre class="sourceCode">
+{% highlight java %}
 package com.cwinters.jersey;
 
 import com.sun.jersey.api.view.Viewable;
@@ -238,7 +234,7 @@ public class FooResource
     public Viewable getItem( @PathParam( "id" ) final long id )
     {
         final Foo foo = _fooDatastore.get( id );
-        final Map&lt;String,Object&gt; vars = new HashMap&lt;String,Object&gt;();
+        final Map<String,Object> vars = new HashMap<String,Object>();
         vars.put( "it", foo );
         vars.put( "lookups", _fooDatstore.listLookups() );
         return new Viewable( "/foo/view.ftl", vars );
@@ -249,25 +245,22 @@ public class FooResource
         _fooDatastore = fd;
     }
 }
-</pre>
+{% endhighlight %}
 
-<p>Then, assuming your templates are configured with the default,
-lay them out like this:</p>
+Then, assuming your templates are configured with the default,
+lay them out like this:
 
-<pre class="sourceCode">
-+ WEB-INF
-  + templates
-    + foo
-      - form.ftl
-      - view.ftl
-</pre>
+    + WEB-INF
+      + templates
+        + foo
+          - form.ftl
+          - view.ftl
 
+----
 
-<hr noshade="noshade" />
-
-<p>[1] Confession: I found this only after writing my own. I'd
+[1] Confession: I found this only after writing my own. I'd
 actually read this thread before but somehow missed the
-attachment to the message.</p>
+attachment to the message.
 
 
 
