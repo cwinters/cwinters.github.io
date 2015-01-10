@@ -6,10 +6,15 @@ title: "Separated at birth? Knuth and Lipset"
 
 
 
-I saw a link to <a href="http://www-cs-faculty.stanford.edu/~knuth/rice.html">Knuth's letter to Condoleeza Rice</a> (old, but still useful) from <a href="http://eric.buzzword.com/2004/12/03#a3742">Eric</a> and from there went to his <a href="http://www-cs-faculty.stanford.edu/~knuth/index.html">home page</a>. I immediately noticed the similarity with <a href="http://www.gmu.edu/departments/tipp/faculty/lipset/lipset.htm">Seymour Martin Lipset</a>, a political scientist I worked for as a research assistant. (My first job after college.) These photos don't quite do the similarity justice, but you be the judge:
-<p align="center">
-<img src="http://www.cwinters.com/images/blog/don_knuth.jpg" />&nbsp;
-<img src="http://www.cwinters.com/images/blog/s_m_lipset.jpg" />
-</p>
+I saw a link to [Knuth's letter to Condoleeza Rice](http://www-cs-faculty.stanford.edu/~knuth/rice.html) 
+(old, but still useful) from [Eric](http://eric.buzzword.com/2004/12/03#a3742) 
+and from there went to his [home page](http://www-cs-faculty.stanford.edu/~knuth/index.html). 
+I immediately noticed the similarity with 
+[Seymour Martin Lipset](http://en.wikipedia.org/wiki/Seymour_Martin_Lipset), a political scientist I worked 
+for as a research assistant. (My first job after college.) These photos don't quite do the 
+similarity justice, but you be the judge:
 
+<img src="http://www.cwinters.com/images/blog/don_knuth.jpg" />
+<br />
+<img src="http://www.cwinters.com/images/blog/s_m_lipset.jpg" />
 
