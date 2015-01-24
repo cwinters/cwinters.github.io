@@ -1,5 +1,5 @@
 ---
-title: "Thinking about multitasking"
+title: "Thinking about multitasking with Merlin"
 tags: behavior psychology work habit
 layout: post
 ---
@@ -14,7 +14,7 @@ for Merlin. Such was the case with
 [Episode 202](http://5by5.tv/b2w/202), which I think should enter the canon of
 episodes with which you can bring new people into the show. Sure, you get stuff
 about Legos and parenting (which I dig, but understand that some don't) but the
-last half hour about multitasking and distraction and master is gold. Gold!
+last half hour about multitasking and distraction and mastery is gold. Gold!
 
 They start getting into it around 49:30, entering with a reference
 to [a recent article](https://hbr.org/2014/07/the-cost-of-continuously-checking-email)

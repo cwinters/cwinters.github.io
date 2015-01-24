@@ -15,6 +15,23 @@ layout: default
   {{ content }}
 </div>
 
+{% if page['next'] %}
+<div id="post-next">
+  Next: <a href="{{ page['next']['url'] }}">{{ page['next']['title'] }}</a>
+</div>
+{% endif %}
+{% if page['previous'] %}
+<div id="post-previous">
+  Previous: <a href="{{ page['previous']['url'] }}">{{ page['previous']['title'] }}</a>
+</div>
+{% endif %}
+<!--
+Page:
+{{ page }}
+
+Previous: 
+{{ page['previous'] }}
+-->
 <!-- Removing related posts because it's basically useless, it only
      returns the latest 3 (or whatever) posts. Would be useful to
      find posts with common tags... or even just n random posts... -->
