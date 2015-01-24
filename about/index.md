@@ -1,5 +1,6 @@
 ---
-layout: default 
+layout: default
+tags: "chris"
 title: "About"
 ---
 
@@ -9,10 +10,12 @@ title: "About"
 </p>
 
 My name is Chris Winters. I'm married to Barbara Alsko 
-and we have one kid (<a href="http://www.flickr.com/photos/cwinters/tags/ella/">Ella</a>)
-and two cats. I currently work at <a href="http://www.modcloth.com/">ModCloth</a>
-as a software developer, and you can find out more boring
-work-related stuff at <a href="http://www.linkedin.com/in/winterschris">LinkedIn</a>.
+and we have one kid ([Ella](http://www.flickr.com/photos/cwinters/tags/ella/))
+and two cats. I currently work at 
+[LightSide Labs](http://www.lightsidelabs.com/), which is part of
+[Turnitin](http://www.turnitin.com), as a software developer, and you can find
+out more boring work-related stuff at
+[LinkedIn](http://www.linkedin.com/in/winterschris).
 
 You can get a good idea of what I've been into online by
 [following my Pinboard feed](http://pinboard.in/u:cwinters), which
@@ -24,10 +27,10 @@ Things I'm more or less into in real life:
 * Vegetable gardening
 * Keeping up with technology stuff, including feed reading (via
   [NewsBlur](http://www.newsblur.com/)) and meeting up
-  with various Pittsburgh groups -- I'm almost always at the Ruby
-  and Go meetings.
+  with various Pittsburgh groups -- I'm have frequently haunted the Ruby
+  and Go meetings, sometimes JavaScript and probably more Python coming up.
 * Reading (fiction and comic books are the consumables right now)
 * Bicycling
-* Catching up with Doctor Who
 * Running ([very slowly](http://results.active.com/events/dicks-sporting-goods-pittsburgh-marathon/participants?utf8=%E2%9C%93&search=winters&commit=Search))
+
 
