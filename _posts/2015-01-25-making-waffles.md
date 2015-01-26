@@ -7,7 +7,7 @@ tags: "breakfast waffle recipe food"
 At ModCloth we'd periodically have a themed potluck lunch. We had themes like
 "Mexican" and "Pie", but one of the unsurprisingly popular ones was
 "Breakfast". And one of my co-workers made these waffles that were just
-amazing, the [best waffles](http://www.amazon.com/gp/product/B00F3SA9LO/r)
+amazing, the [best waffles](http://seersuckermag.com/food/read/the-best-waffle-in-america)
 I'd ever had in my life. By far.
 
 I learned that these were called "Li&egrave;ge Waffles" and they were also
@@ -24,45 +24,46 @@ later and we're off!
 ## Fussy
 
 Read that recipe and keep a mental counter of the time required -- it adds up,
-quickly. There's a lot of time to let the dough rise and meld in the fridge, so
-it's not something you can do on a whim. The person who pointed me to the
-recipe said to be sure to start in the early afternoon, otherwise you'll be up
-at 2 AM. (Steps 6-8.)
+quickly. There's a lot of time to let the dough rise and even more to let it
+rest in the fridge, so it's not something you can do on a whim. The person who
+pointed me to the recipe said to be sure to start in the early afternoon,
+otherwise you'll be up at 2 AM for steps 6-8.
 
 ![After being in the fridge overnight](/images/blog/liege_01_after_fridge.jpg)
 
 While the recipe is fussy I'd say it's not really that difficult. I was able to
-do it without a stand mixer, which I'm pretty sure would've made my life a lot
-easier. In particular Step 5 results in some really thick dough, and the cheap
-hand mixer I used complained mightily.
+do it without a stand mixer, which I'm pretty sure would've made the process a
+lot easier. In particular step 5 results in some really thick dough, and the
+cheap hand mixer I used complained mightily.
 
 ## Ingredients
 
 The pearl sugar -- I almost typed "Perl sugar" there -- isn't something you'll
-probably find in your local grocery. I think it's an unsubstitutable
-ingredient. But fortunately it's available
+probably find in your local grocery. While I think it's an unsubstitutable
+ingredient, fortunately it's available
 [on Amazon](http://www.wafflecabin.com/shop)
-as well as [at the Waffle Cabin](http://www.wafflecabin.com/shop)
+as well as [the Waffle Cabin](http://www.wafflecabin.com/shop)
 and probably other places.
 
 ![Dough with sugar, resting again](/images/blog/liege_02_after_sugar.jpg)
 
-Everything else is pretty straightforward -- for example, I'm __pretty__ sure
-you don't need __Mexican__ vanilla extract. (You should use good stuff though.)
+Everything else is pretty straightforward -- for example, I'm reasonably sure
+you don't need __Mexican__ vanilla extract. (You should use good stuff though,
+not the imitation.)
 
 ## Iron and temperature
 
 If you read the comments you read about people dropping a grand on a waffle
 iron. The waffles that thing produces must be otherwordly. But my terra-bound
-self just picked up a 
+self just picked up a
 [Waring Pro WMK200](http://www.amazon.com/gp/product/B00F3SA9LO/). It seems
 pretty solid with my limited use, and when I ordered it was over half off.
 (Which always makes me think a new model is imminent, but whatever.)
 
-Something the recipe didn't mention is where to put the dough. Your waffle
-iron's directions tell you how to pour __batter__, but not what to do with
-dough. You'd figure this out eventually, but I found it was better to place it
-offcenter, a little toward the rear.
+Something the recipe didn't mention is where to put the dough on the iron. Your
+waffle iron's directions tell you how to pour __batter__, but not what to do
+with dough. You'd figure this out eventually, but I found it was better to
+place it offcenter, a little toward the rear.
 
 ![A little offcenter](/images/blog/liege_03_offcenter.jpg)
 
