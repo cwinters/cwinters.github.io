@@ -42,6 +42,12 @@ src="https://farm8.staticflickr.com/7441/16393229916_c1443b0b42_m.jpg"
 width="240" height="151" alt="Good morning waffles all cooked"></a>
 </p>
 
+Finally, part of the answer to "how do I cleanup after Li&egrave; waffles?" is:
+make more waffles! Unless you have a waffle iron that can detach the plates for
+cleaning, you'll inevitably miss some of the hardened sugar. But the next
+waffles you make will absorb those little bits and what you'll have left after
+that batch will be markedly cleaner. Love those types of cleanup!
+
 ## New podcast: Invisibilia
 
 A new podcast that started [since my last review](2014/11/06/podcasts-again.html) is 
