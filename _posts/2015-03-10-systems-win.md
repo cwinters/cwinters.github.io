@@ -50,7 +50,7 @@ Ellen Ullman, 1997 (86-7)
 >
 > "So you want to know about Mary just because you can?" I asked....
 >
-> "Hmm. That's it, I supposed. The way I look at it, I've just spent all this
+> "Hmm. That's it, I suppose. The way I look at it, I've just spent all this
 > money on a system, and now I get to use it the way I'd like to."...
 >
 > The system was installed, it ran, and it spoke to him: you can know every
