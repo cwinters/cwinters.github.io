@@ -11,9 +11,8 @@ title: "About"
 
 My name is Chris Winters. I'm married to Barbara Alsko 
 and we have one kid ([Ella](http://www.flickr.com/photos/cwinters/tags/ella/))
-and two cats. I currently work at 
-[LightSide Labs](http://www.lightsidelabs.com/), which is part of
-[Turnitin](http://www.turnitin.com), as a software developer, and you can find
+and two cats. I currently work at
+[Turnitin](http://www.turnitin.com) as a software developer, and you can find
 out more boring work-related stuff at
 [LinkedIn](http://www.linkedin.com/in/winterschris).
 
@@ -27,10 +26,10 @@ Things I'm more or less into in real life:
 * Vegetable gardening
 * Keeping up with technology stuff, including feed reading (via
   [NewsBlur](http://www.newsblur.com/)) and meeting up
-  with various Pittsburgh groups -- I'm have frequently haunted the Ruby
+  with various Pittsburgh groups -- I have frequently haunted the Ruby
   and Go meetings, sometimes JavaScript and probably more Python coming up.
 * Reading (fiction and comic books are the consumables right now)
 * Bicycling
-* Running ([very slowly](http://results.active.com/events/dicks-sporting-goods-pittsburgh-marathon/participants?utf8=%E2%9C%93&search=winters&commit=Search))
+* Running ([very](http://results.active.com/events/dicks-sporting-goods-pittsburgh-marathon/participants?utf8=%E2%9C%93&search=winters&commit=Search) [slowly](http://results.xacte.com/?id=910&tagcode=26584_2160))
 
 
