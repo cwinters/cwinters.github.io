@@ -9,7 +9,7 @@ tied to any language. It doesn't try and sync models with your database, or
 assume that it should be managing everything in your database, or generally
 stick its fingers where they don't belong.
 
-David Wheeler (the author) has put a ton of work into making instatllation
+David Wheeler (the author) has put a ton of work into making installation
 straightforward, as evidenced by the substantial list of
 installation alternatives (`cpan` and `cpanm`, `apt-get`, `homebrew`, `yum`) on
 the homepage.
