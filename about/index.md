@@ -30,7 +30,7 @@ Things I'm more or less into in real life:
   with various Pittsburgh groups -- I have frequently haunted the Ruby
   and Go meetings, sometimes JavaScript and probably more Python coming up.
 * Reading (fiction and comic books are the consumables right now)
-* Running ([fairly slowly](http://results.xacte.com/?id=1144&tagcode=3499])
+* Running ([fairly slowly](http://results.xacte.com/?id=1144&tagcode=3499))
 * Bicycling
 
 
