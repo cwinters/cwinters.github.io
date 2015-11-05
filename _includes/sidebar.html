@@ -8,23 +8,26 @@
     Good, fast, cheap: pick two.
   </p>
   <hr/>
-  <p><a href="/about/">About</a></p>
+  <p><a href="/about/">About</a> <a href="/now/">Now</a></p>
   <hr/>
   <div>
     <div id="social">
       {% include social.html %}
     </div>
     <div id="search">
-      <form class="search" action="http://www.google.com/cse" method="GET" id="cse-search-box">
-        <p>
-          <input type="hidden" name="cx" value="partner-pub-2492309352157830:gc6ww1-lena" />
-          <input type="hidden" name="ie" value="ISO-8859-1" />
-          <input class="textbox" type="text" name="q" size="15" />
-          <input class="button"  type="submit" name="sa" value="Search" />
-        </p>
-      </form>
-      <script type="text/javascript"
-              src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>  
+      <script>
+      (function() {
+         var cx = '009478117523940786366:qr_pqmsmycc';
+         var gcse = document.createElement('script');
+         gcse.type = 'text/javascript';
+         gcse.async = true;
+         gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                      '//cse.google.com/cse.js?cx=' + cx;
+         var s = document.getElementsByTagName('script')[0];
+         s.parentNode.insertBefore(gcse, s);
+       })();
+       </script>
+      <gcse:searchbox-only></gcse:searchbox-only>
     </div>
   </div>
 </nav>
