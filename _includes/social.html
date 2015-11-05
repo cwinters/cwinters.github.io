@@ -34,6 +34,12 @@ Follow me:
   </a>
   {% endif %}
 
+  {% if site.data.theme.social.email %}
+  <a title="{{ site.data.theme.name }} on email" href="mailto:chris@cwinters.com">
+    <i class="fa fa-at"></i>
+  </a>
+  {% endif %}
+
   {% if site.data.theme.social.gplus %}
   <a title="{{ site.data.theme.name }} on Google Plus" href="https://plus.google.com/{{ site.data.theme.social.gplus }}">
     <i class="fa fa-google-plus-square"></i>
