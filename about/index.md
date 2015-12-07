@@ -12,7 +12,10 @@ title: "About"
 
 My name is Chris Winters. I'm married to Barbara Alsko
 and we have one kid ([Ella](http://www.flickr.com/photos/cwinters/tags/ella/))
-and two cats. I currently work at
+and three cats ([Richard](https://www.flickr.com/search/?user_id=62037332%40N00&sort=date-taken-desc&tags=richard&view_all=1),
+[Wanda](https://www.flickr.com/search/?user_id=62037332%40N00&sort=date-taken-desc&tags=wanda&view_all=1),
+and [Annabel](https://www.flickr.com/search/?user_id=62037332%40N00&sort=date-taken-desc&tags=annabel&view_all=1)).
+I currently work at
 [Turnitin](http://www.turnitin.com) as a software developer and engineering
 manager, and you can find out more boring work-related stuff at
 [LinkedIn](http://www.linkedin.com/in/winterschris).
