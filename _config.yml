@@ -2,9 +2,7 @@
 #highlighter: pygments
 
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+highlighter: rouge
 
 url: http://cwinters.github.com
 lsi: false
