@@ -1,5 +1,11 @@
 # General Jekyll Config
-highlighter: pygments
+#highlighter: pygments
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 url: http://cwinters.github.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock, .ruby-version]

@@ -8,26 +8,21 @@ title: "What I'm doing now"
 
 __Work__
 
-* Learning about being a manager and the different growing pains a very small
-  organization feels when growing into a slightly larger one.
-* Monitoring, supporting, and scaling Docker with
-  [ECS](https://aws.amazon.com/ecs/)
-* Breaking down a small-but-monolithic application into microservices
+* Learning how to not solve problems with code but instead inspring others to
+  do so.
+* Recruiting! The Pittsburgh Turnitin office has three engineering positions
+  opening soon, [let me know](https://twitter.com/cwinters) if you're interested.
+* Upcoming travel:
+    * 24-Nov - 27-Nov: New York City Thanksgiving holiday vacation
+    * 28-Nov - 2-Dec: Las Vegas, [AWS re:Invent](https://reinvent.awsevents.com/)
+    * 5-Dec - 9-Dec: Oakland, CA talking with folks at Turnitin World HQ
 
 __Life__
 
-* [Odyssey of the Mind](http://www.odysseyofthemind.com/). Barb and I are
-  coaching a team at Washington Elementary for the first time. The competition
-  is in March (soon!) and things probably aren't moving as quickly as we'd like,
-  but the girls are having fun and there's not too much drama.
 * Running better. I've half-assed some longer runs in the past, which is
-  probably a bad idea for someone my age. Initial results are good - I recently
-  cut a [minute-per-mile](http://results.xacte.com/?id=1144&tagcode=3499) off my
-  previous two outings. But I still have loads of room for improvement.
-* Exercising regularly. Toward running better I recently joined the Y and go to the
-  [PNC](http://www.ymcaofpittsburgh.org/locations/pnc-ymca/) branch three days
-  a week, modulo weird events. This also involves learning (currently on my
-  own) to swim, which is going very, very slowly.
+  probably a bad idea for someone my age. And I've gone through a couple years of:
+  train train train in the months before an event, then slack off in the months
+  after and lose progress. Trying to be more consistent.
 
-(updated 19-Feb-2016; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 19-Nov-2016; see [Derek Sivers](http://sivers.org/now) for inspiration)
 
