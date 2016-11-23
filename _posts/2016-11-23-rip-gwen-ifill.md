@@ -10,7 +10,6 @@ eyes on the prize of truth, not settling for either the easy questions or
 brush-off answers.
 
 [This is a lovely article](http://www.newyorker.com/news/daily-comment/talking-to-young-people-about-trump-with-lessons-from-gwen-ifill)
-
 about her, drawing connections between her career and young people today who
 can lack the context of history and the understanding that people are not
 simply collections of positions and biases.
