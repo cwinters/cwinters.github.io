@@ -11,11 +11,10 @@ __Work__
 * Learning how to not solve problems with code but instead inspring others to
   do so.
 * Recruiting! The Pittsburgh Turnitin office has three engineering positions
-  opening soon, [let me know](https://twitter.com/cwinters) if you're interested.
+  open -- [check them out](http://turnitin.com/en_us/about-us/careers#openings)
+  and [let me know](https://twitter.com/cwinters) if you're interested.
 * Upcoming travel:
-    * 24-Nov - 27-Nov: New York City Thanksgiving holiday vacation
-    * 28-Nov - 2-Dec: Las Vegas, [AWS re:Invent](https://reinvent.awsevents.com/)
-    * 5-Dec - 9-Dec: Oakland, CA talking with folks at Turnitin World HQ
+    * None: woohoo!
 
 __Life__
 
@@ -24,5 +23,5 @@ __Life__
   train train train in the months before an event, then slack off in the months
   after and lose progress. Trying to be more consistent.
 
-(updated 19-Nov-2016; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 29-Dec-2016; see [Derek Sivers](http://sivers.org/now) for inspiration)
 
