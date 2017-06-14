@@ -62,10 +62,10 @@ history. Oh, what a great dad.
 
 Except.
 
-Except what the kid wasn't looking for answers. She was looking for was a way
+Except what the kid wasn't looking for answers. She was just looking for a way
 to connect with her dad. And she figured that big, open questions would be a
 great way for them to sit down together and talk. Due to split custody he only
- got to see her so many days a week, so many weeks a year. She was going to a
+got to see her so many days a week, so many weeks a year. She was going to a
 new school and didn't know anyone and she was just lonely.
 
 So just like the cheating husband in the previous segment the dad was walking
