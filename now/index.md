@@ -12,14 +12,12 @@ __Work__
   do so. Lots more management stuff like planning, staging projects and
   thinking a quarter or two ahead about impact, trying to balance a couple
   different teams.
+* [Making lots of bread](https://instagram.com/cwinterspgh)
+* Learning to live with a teenager (even though she's 12) and the roller-coaster
 * Upcoming travel:
-    * September 16-21, Oakland, Calif.
+    * March 25-29, Oakland, Calif.
 
 __Life__
 
-* Riding my bike. I've been riding one or two times pretty consistently all
-  summer and it's been pretty great. I love riding way more than running, even
-  though there's more preparation.
-
-(updated 2-Sep-2018; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 25-Feb-2019; see [Derek Sivers](http://sivers.org/now) for inspiration)
 
