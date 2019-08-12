@@ -16,27 +16,27 @@ Follow me:
   </a>
   {% endif %}
 
-  {% if site.data.theme.social.github %}
-  <a title="{{ site.data.theme.social.github }} on Github" href="https://github.com/{{ site.data.theme.social.github }}">
-    <i class="fa fa-github-square"></i>
-  </a>
-  {% endif %}
-
-  {% if site.data.theme.social.flickr %}
-  <a title="{{ site.data.theme.name }} on Flickr" href="http://flickr.com/photos/{{ site.data.theme.social.flickr }}">
-    <i class="fa fa-flickr"></i>
-  </a>
-  {% endif %}
-
   {% if site.data.theme.social.pinboard %}
   <a title="" href="http://pinboard.in/u:{{ site.data.theme.social.pinboard }}">
     <img class="fa" src="https://pinboard.in/bluepin.gif" width="24" height="24" border="0" />
   </a>
   {% endif %}
 
+  {% if site.data.theme.social.github %}
+  <a title="{{ site.data.theme.social.github }} on Github" href="https://github.com/{{ site.data.theme.social.github }}">
+    <i class="fa fa-github-square"></i>
+  </a>
+  {% endif %}
+
   {% if site.data.theme.social.linkedin %}
   <a title="{{ site.data.theme.name }} on LinkedIn" href="https://www.linkedin.com/in/{{ site.data.theme.social.linkedin }}">
     <i class="fa fa-linkedin-square"></i>
+  </a>
+  {% endif %}
+
+  {% if site.data.theme.social.flickr %}
+  <a title="{{ site.data.theme.name }} on Flickr" href="http://flickr.com/photos/{{ site.data.theme.social.flickr }}">
+    <i class="fa fa-flickr"></i>
   </a>
   {% endif %}
 
