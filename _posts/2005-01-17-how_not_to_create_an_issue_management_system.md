@@ -67,7 +67,7 @@ directive to change to the `To_investigation` state.
 **7.** I don't think you can create a printable version of an issue or a query
 without Crystal Reports installed. But I could be wrong about that.
 
-**8. There's no screen with all information about an issue in one place. Just a
+**8.** There's no screen with all information about an issue in one place. Just a
 dialog with about 10 tabs. While I guess tabs have been used to good effect
 somewhere they're generally just terrible, especially when all the tabs deal
 with different data attached to a single record.
