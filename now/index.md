@@ -22,9 +22,14 @@ __Life__
 
 * Thinking about my role in our unjust society, and what I can do to help.
   (Beyond donating to a number of orgs. There are so many doing great work!)
-* [Making lots of bread and other baked goods](https://instagram.com/cwinterspgh)
-* Summertime means bike time. Preferred trails are the Panhandle and Montour.
+* Bummed about missing two vacations this year: a standard summer beach outing
+  to the Outer Banks, and a 20th anniversary trip to London and Ireland.
+* Still [making lots of bread and other baked goods](https://instagram.com/cwinterspgh),
+  though I'm no longer posting photos of every bake because it feels weird with
+  so much other stuff going on.
+* Summertime means [bike time](https://www.strava.com/athletes/31922104).
+  Preferred trails are the Panhandle and Montour.
 * Learning to live with a teenager and the roller-coaster emotions she contains
-  and inspires
+  and inspires.
 
-(updated 07-June-2020; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 14-July-2020; see [Derek Sivers](http://sivers.org/now) for inspiration)
