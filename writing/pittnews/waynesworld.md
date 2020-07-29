@@ -7,7 +7,7 @@ tags: "writing movies review"
 > I still like this review. A little dry, disjointed and academic, but
 > still interesting.)
 
-# Is __Wayne's World__ entertaining? No way! Way!</H1>
+# Is __Wayne's World__ entertaining? No way! Way!
 
 **by Chris Winters**
 
