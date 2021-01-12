@@ -16,15 +16,16 @@ __Life__
 
 * Thinking about my role in our unjust society, and what I can do to help.
   (Beyond donating to a number of orgs. There are so many doing great work!)
-* We just (today!) got a new kitten!
-* Summertime means [bike time](https://www.strava.com/athletes/31922104).
-  Preferred trails are the Panhandle and Montour.
+* Learning to play guitar! Just got it in December, struggling through making
+  my fingers do different things.
+* Adapting our new-ish kitten to the house. (Or maybe it's the reverse...)
 * Still [making lots of bread and other baked goods](https://instagram.com/cwinterspgh),
   though I'm no longer posting photos of every bake because it feels weird with
   so much other stuff going on.
-* Bummed about missing two vacations this year: a standard summer beach outing
-  to the Outer Banks, and a 20th anniversary trip to London and Ireland.
+* Waiting for Spring so I can ride my bike outside again; also waiting for a
+  [modern indoor trainer](https://www.wahoofitness.com/devices/bike-trainers/kickr/buy)
+  to get back in stock.
 * Learning to live with a teenager and the roller-coaster emotions she contains
   and inspires.
 
-(updated 28-September-2020; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 12-January-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
