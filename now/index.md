@@ -8,12 +8,13 @@ title: "What I'm doing now"
 
 __Life__
 
-* Learning to play guitar! Just got it in December, struggling through making
-  my fingers do different things. It's slow going.
-* Waiting for Spring so I can ride my bike outside again; in the meantime I
-  finally got a [modern indoor trainer](https://www.wahoofitness.com/devices/bike-trainers/kickr/buy)
-  and I'm getting back into bike shape one hill at a time...
-* Adapting our new-ish kitten to the house. (Or maybe it's the reverse...)
+* Preparing for a Pittsburgh-to-Washington DC bike ride in late May/early June.
+  I got a [new bike)(https://www.instagram.com/p/CM8B9QLB8_W/) recently from excellent
+  local bike shop [Thick Bikes](https://thickbikes.com/) and am super happy
+  with it so far. The last bike I got was in 2006, hopefully this one will last
+  as long. I also got an
+  [indoor bike trainer](https://www.wahoofitness.com/devices/bike-trainers/kickr)
+  a few months ago and have been really digging it.
 * Still [making lots of bread and other baked goods](https://instagram.com/cwinterspgh),
   though I'm no longer posting photos of every bake because it feels weird with
   so much other stuff going on.
@@ -24,11 +25,7 @@ __Life__
 
 __Work__
 
-* Lots more management stuff like planning, process (trying a ShapeUp-ish
-  thing), staging projects, and thinking a quarter or two ahead about impact,
-  trying to balance a couple different teams.
-* Trying to find seams along which I can create tools to leverage expertise --
-  for example, collect build statuses from Jenkins and provide overviews
-  cutting across different characteristics.
+* Change is a-coming -- my last day at Turnitin is May 21. More soon
+  on what's coming next, but it's a big switch, and I'm really excited!
 
-(updated 02-March-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 25-April-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
