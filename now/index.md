@@ -25,10 +25,8 @@ __Life__
 
 __Work__
 
-* Change is a-coming -- my last day at Turnitin is May 21. I have a Trello
-  board full of things to do small and large before I leave -- it turns out
-  responsibilities and everyday tasks can really pile up over ~6.5 years!
+* Change is a-coming -- my last day at Turnitin was May 21!
 * More soon on what's coming next -- but it's a big switch, and I'm really
   excited!
 
-(updated 7-May-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 24-May-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
