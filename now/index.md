@@ -9,7 +9,7 @@ title: "What I'm doing now"
 __Life__
 
 * Preparing for a Pittsburgh-to-Washington DC bike ride in early June.
-  I got a [new bike)(https://surlybikes.com/bikes/midnight_special) recently from excellent
+  I got a [new bike](https://surlybikes.com/bikes/midnight_special) recently from excellent
   local bike shop [Thick Bikes](https://thickbikes.com/) and am super happy
   with it so far. The last bike I got was in 2006, hopefully this one will last
   as long. I also got an
