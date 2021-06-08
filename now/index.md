@@ -8,8 +8,13 @@ title: "What I'm doing now"
 
 __Life__
 
-* Preparing for a Pittsburgh-to-Washington DC bike ride in early June.
-  I got a [new bike](https://surlybikes.com/bikes/midnight_special) recently from excellent
+* Recovering from a Pittsburgh-to-Washington DC bike ride from June 1 - June 6.
+  [See instagram](https://instagram.com/cwinterspgh) for details and photos.
+  For the most part it was great, but I had one bad day due to a sloppy trail
+  (from rain the day before), plus a leaky tube and not being able to get the
+  tire off the rim to change it. Eventually it worked out, and I got another
+  real-world example of how helpful random people can be.
+* I got a [new bike](https://surlybikes.com/bikes/midnight_special) recently from excellent
   local bike shop [Thick Bikes](https://thickbikes.com/) and am super happy
   with it so far. The last bike I got was in 2006, hopefully this one will last
   as long. I also got an
@@ -25,8 +30,8 @@ __Life__
 
 __Work__
 
-* Change is a-coming -- my last day at Turnitin was May 21!
-* More soon on what's coming next -- but it's a big switch, and I'm really
-  excited!
+* My last day at Turnitin was May 21! I'll be starting at
+  [the US Digital Service](https://usds.gov/) on June 21. I don't know what
+  projects I'll be on yet, but I'm really excited!
 
-(updated 24-May-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 8-June-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
