@@ -8,18 +8,13 @@ title: "What I'm doing now"
 
 __Life__
 
-* Recovering from a Pittsburgh-to-Washington DC bike ride from June 1 - June 6.
-  [See instagram](https://instagram.com/cwinterspgh) for details and photos.
-  For the most part it was great, but I had one bad day due to a sloppy trail
-  (from rain the day before), plus a leaky tube and not being able to get the
-  tire off the rim to change it. Eventually it worked out, and I got another
-  real-world example of how helpful random people can be.
-* I got a [new bike](https://surlybikes.com/bikes/midnight_special) recently from excellent
-  local bike shop [Thick Bikes](https://thickbikes.com/) and am super happy
-  with it so far. The last bike I got was in 2006, hopefully this one will last
-  as long. I also got an
+* I got a [new bike](https://surlybikes.com/bikes/midnight_special) in late
+  March from excellent local bike shop [Thick Bikes](https://thickbikes.com/)
+  and am super happy with it so far. The last bike I got was in 2006, hopefully
+  this one will last as long. I also got an
   [indoor bike trainer](https://www.wahoofitness.com/devices/bike-trainers/kickr)
-  a few months ago and have been really digging it.
+  early this year and have been really digging it. (Also kicking myself for not
+  getting it earlier...)
 * Still [making lots of bread and other baked goods](https://instagram.com/cwinterspgh),
   though I'm no longer posting photos of every bake because it feels weird with
   so much other stuff going on.
@@ -30,8 +25,10 @@ __Life__
 
 __Work__
 
-* My last day at Turnitin was May 21! I'll be starting at
-  [the US Digital Service](https://usds.gov/) on June 21. I don't know what
-  projects I'll be on yet, but I'm really excited!
+* Three months in at [the US Digital Service](https://usds.gov/) on June 21 and
+  it's going great. I think. Onboarding and working entirely remotely has been
+  more difficult than I anticipated. But the mission is amazing and the people
+  I work with are among the best of my entire career. Really inspiring, and
+  quite humbling.
 
-(updated 8-June-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 27-September-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
