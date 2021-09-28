@@ -85,10 +85,8 @@ title: "Thinking data publishing formats, again"
 
    <li><a href="http://code.google.com/apis/gdata/">GData</a>: This is 
    a generic data format, lots of tool support,
-   plus other platforms 
-   <a href="http://wiki.apexdevnet.com/index.php/Google_Resource_Center">like
-   Salesforce</a> use it. There is a flavor of GData for health
-   information, but it's really for interacting with Google Health
+   plus other platforms like Salesforce use it. There is a flavor of GData for
+   health information, but it's really for interacting with Google Health
    rather than defining a generic health data interchange format. (At
    least AFAICT.)</li>
 
