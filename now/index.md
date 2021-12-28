@@ -20,15 +20,16 @@ __Life__
   so much other stuff going on.
 * Thinking about my role in our unjust society, and what I can do to help.
   (Beyond donating to a number of orgs. There are so many doing great work!)
-* Learning to live with a teenager and the roller-coaster emotions she contains
-  and inspires.
+* Learning to live with a teenager (now 15!) and the roller-coaster emotions
+  she contains and inspires.
 
 __Work__
 
-* Three months in at [the US Digital Service](https://usds.gov/) on June 21 and
-  it's going great. I think. Onboarding and working entirely remotely has been
-  more difficult than I anticipated. But the mission is amazing and the people
-  I work with are among the best of my entire career. Really inspiring, and
-  quite humbling.
+* Six months in at [the US Digital Service](https://usds.gov/) and it's going
+  great. I think. Onboarding and working entirely remotely has been more
+  difficult than I anticipated. But the mission is amazing (currently working
+  with the CDC helping to run operations for [this project](https://reportstream.cdc.gov/))
+  and the people I work with are among the best of my entire career. Really
+  inspiring, and quite humbling.
 
-(updated 27-September-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 28-December-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
