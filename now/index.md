@@ -8,12 +8,15 @@ title: "What I'm doing now"
 
 __Life__
 
-* I got a [new bike](https://surlybikes.com/bikes/midnight_special) in late
-  March from excellent local bike shop [Thick Bikes](https://thickbikes.com/)
+* We're going on a trip! The 20th anniversary trip we were going to take in
+  May 2020 is happening in a couple months. We're still going to London and
+  Ireland, but since it's shorter it'll really only be London and Dublin.
+* I got a [new bike](https://surlybikes.com/bikes/midnight_special) last year
+  from excellent local bike shop [Thick Bikes](https://thickbikes.com/)
   and am super happy with it so far. The last bike I got was in 2006, hopefully
   this one will last as long. I also got an
   [indoor bike trainer](https://www.wahoofitness.com/devices/bike-trainers/kickr)
-  early this year and have been really digging it. (Also kicking myself for not
+  and have been really digging it. (Also kicking myself for not
   getting it earlier...)
 * Still [making lots of bread and other baked goods](https://instagram.com/cwinterspgh),
   though I'm no longer posting photos of every bake because it feels weird with
@@ -32,4 +35,4 @@ __Work__
   and the people I work with are among the best of my entire career. Really
   inspiring, and quite humbling.
 
-(updated 28-December-2021; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 07-February-2022; see [Derek Sivers](http://sivers.org/now) for inspiration)
