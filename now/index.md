@@ -11,6 +11,10 @@ __Life__
 * We're going on a trip! The 20th anniversary trip we were going to take in
   May 2020 is happening in a couple months. We're still going to London and
   Ireland, but since it's shorter it'll really only be London and Dublin.
+* We got a dog! [Rosie](https://www.instagram.com/p/CYxci6yt13l/) is a Golden
+  Retriever and is almost six months old. She's very smart, loves people, and
+  also enjoys eating anything that will fit in her mouth -- garbage, cardboard,
+  cat poop, etc.
 * I got a [new bike](https://surlybikes.com/bikes/midnight_special) last year
   from excellent local bike shop [Thick Bikes](https://thickbikes.com/)
   and am super happy with it so far. The last bike I got was in 2006, hopefully
