@@ -29,12 +29,7 @@ __Life__
 
 __Work__
 
-* Close to a year in at [the US Digital Service](https://usds.gov/) and it's
-  going great. I think. Onboarding and working entirely remotely has been more
-  difficult than I anticipated. But the mission is amazing -- currently I'm
-  working with the CDC to improve data reporting from states and transitioning
-  off helping to run operations for [this project](https://reportstream.cdc.gov/).
-  The people I've worked with are among the best of my entire career. Really
-  inspiring, and quite humbling.
+* I left [the US Digital Service](https://usds.gov/) a week ago and will be
+  starting a new local-to-Pittsburgh job shortly. More soon.
 
-(updated 23-May-2022; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 28-July-2022; see [Derek Sivers](http://sivers.org/now) for inspiration)
