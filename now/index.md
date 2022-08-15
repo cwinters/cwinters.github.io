@@ -9,7 +9,7 @@ title: "What I'm doing now"
 __Life__
 
 * We got a dog! [Rosie](https://www.instagram.com/p/CYxci6yt13l/) is a Golden
-  Retriever and is almost six months old. She's very smart, loves people, and
+  Retriever and is a year oldold. She's very smart, loves people, and
   also enjoys eating anything that will fit in her mouth -- garbage, cardboard,
   cat poop, etc.
 * I got a [new bike](https://surlybikes.com/bikes/midnight_special) last year
@@ -29,7 +29,9 @@ __Life__
 
 __Work__
 
-* I left [the US Digital Service](https://usds.gov/) a week ago and will be
-  starting a new local-to-Pittsburgh job shortly. More soon.
+* Now working at [412 Food Rescue](https://412foodrescue.org) as a Senior
+  Software Engineer! I'm tempermentally suited for small orgs, really missed
+  working with people, and am super excited to get back to building mode.
 
-(updated 28-July-2022; see [Derek Sivers](http://sivers.org/now) for inspiration)
+
+(updated 15-August-2022; see [Derek Sivers](http://sivers.org/now) for inspiration)
