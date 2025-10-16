@@ -8,32 +8,29 @@ title: "What I'm doing now"
 
 __Life__
 
-* We got a dog! [Rosie](https://www.instagram.com/p/CYxci6yt13l/) is a Golden
-  Retriever and is just over a year old. She's very smart, loves people, and
-  also enjoys eating anything that will fit in her mouth -- garbage, rocks,
-  cardboard, cat poop, etc.
-* I got a [new bike](https://surlybikes.com/bikes/midnight_special) last year
-  from excellent local bike shop [Thick Bikes](https://thickbikes.com/)
-  and am super happy with it so far. The last bike I got was in 2006, hopefully
-  this one will last as long. I also got an
-  [indoor bike trainer](https://www.wahoofitness.com/devices/bike-trainers/kickr)
-  and have been really digging it. (Also kicking myself for not
-  getting it earlier...)
+* I'm trying to get Irish citizenship through my grandmother, who was born
+  in Belfast. It's tricky because she was adopted, and at the time (1925) adoptions
+  weren't recorded by the government, so while I have a bunch of surrounding
+  documentation -- including what I'm 95% sure is her birth certificate -- I'm
+  missing a step linking that birth to her adopted family.
+* Ella is in college! Surprisingly she's nearby, and it was a very mature
+  decision of her to choose the strength of the program vs desire to live
+  elsewhere. Doing great so far.
 * Still [making lots of bread and other baked goods](https://instagram.com/cwinterspgh),
   though I'm no longer posting photos of every bake because it feels weird with
   so much other stuff going on.
-* Thinking about my role in our unjust society, and what I can do to help.
-  (Beyond donating to a number of orgs. There are so many doing great work!)
-* Learning to live with a teenager (now 15!) and the roller-coaster emotions
-  she contains and inspires.
 
 __Work__
 
-* Now working at [412 Food Rescue](https://412foodrescue.org) as a Senior
-  Software Engineer! I'm excited about the mission around food waste and the
-  improvements it can inspire all through the food chain. I'm also
-  tempermentally suited for small orgs, really missed working with people, and
-  am super into getting back to building mode.
+* Now working at [Diamond Kinetics](https://sidelinehd.com) as a Lead
+  Software Engineer! I'm reaping some rewards of working well with people over the years,
+  and it's a lot of architecture improvement while still keeping everything running. I'm
+  working with some new technologies -- Firebase, Google App Engine -- which are fine, but
+  some of my old tricks don't work with them.
+* I'm not onboard the AI coding train. Partially because it's change, partially because it's
+  just wrong for a lot of my work (making sense of some spaghetti), and partially because
+  coding is how I think about solving problems, and I can't just skip over the thinking step.
+  That may be a failing of mine, but it is what it is.
 
 
-(updated 22-October-2022; see [Derek Sivers](http://sivers.org/now) for inspiration)
+(updated 16-October-2025; see [Derek Sivers](http://sivers.org/now) for inspiration)
