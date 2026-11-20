@@ -29,10 +29,5 @@ talking about the
 <a href="http://en.wikipedia.org/wiki/Rumble_in_the_Jungle">Rumble in the
 Jungle</a> during an HBO special.)</p>
 
-<p align="center">
-<img src="http://www.cwinters.com/images/blog/norman_mailer.jpg"
-     alt="Norman Mailer" />
-</p>
-
 
 
